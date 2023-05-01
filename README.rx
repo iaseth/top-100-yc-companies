@@ -1,5 +1,6 @@
 
-# top-100-yc-companies
+# Top 100 YC Companies
+This repository contains data on the `color` and `fonts` used on the websites of Top 100 YC companies.
 
 
 ## Dev dependencies
