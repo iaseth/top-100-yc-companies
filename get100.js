@@ -7,7 +7,7 @@ import * as cheerio from 'cheerio';
 
 
 const TOP_100_LINK = "https://www.ycdb.co/top-companies/alexa-rank";
-const OUTPUT_JSON_PATH = "companies.json";
+const OUTPUT_JSON_PATH = "src/companies.json";
 
 async function main () {
 	const html = await axios.get(TOP_100_LINK).then(res => res.data);
@@ -24,12 +24,12 @@ async function main () {
 		const absoluteURL = url.resolve(TOP_100_LINK, relativeURL);
 
 		const company = {};
-		company.rank = row[0];
+		company.rank = parseInt(row[0]);
 		company.name = row[1];
 		company.batch = row[2];
 		company.category = row[3];
 		company.description = row[4];
-		company.alexaRank = row[5];
+		company.alexaRank = parseInt(row[5]);
 		company.pageURL = absoluteURL;
 		companies.push(company);
 	});
