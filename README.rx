@@ -2,3 +2,12 @@
 # top-100-yc-companies
 
 
+## Dev dependencies
+{{ devDependencyTable() }}
+
+
+## License
+{{ "LICENSE.md" | File }}
+
+
+{{ giveCredit() }}
