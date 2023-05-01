@@ -26,6 +26,8 @@ async function main () {
 		const company = {};
 		company.rank = parseInt(row[0]);
 		company.name = row[1];
+		company.codeName = row[1].toLowerCase().split(" ").join("-");
+		company.jsonName = `${company.codeName}.json`;
 		company.batch = row[2];
 		company.category = row[3];
 		company.description = row[4];

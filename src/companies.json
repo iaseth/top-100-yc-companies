@@ -3,6 +3,8 @@
 		{
 			"rank": 1,
 			"name": "Reddit",
+			"codeName": "reddit",
+			"jsonName": "reddit.json",
 			"batch": "S05",
 			"category": "Entertainment",
 			"description": "The frontpage of the internet.",
@@ -12,6 +14,8 @@
 		{
 			"rank": 2,
 			"name": "Twitch",
+			"codeName": "twitch",
+			"jsonName": "twitch.json",
 			"batch": "W07",
 			"category": "Entertainment",
 			"description": "Video game live streaming",
@@ -21,6 +25,8 @@
 		{
 			"rank": 3,
 			"name": "Dropbox",
+			"codeName": "dropbox",
+			"jsonName": "dropbox.json",
 			"batch": "S07",
 			"category": "Other SaaS",
 			"description": "Backup and share files in the cloud.",
@@ -30,6 +36,8 @@
 		{
 			"rank": 4,
 			"name": "Padlet",
+			"codeName": "padlet",
+			"jsonName": "padlet.json",
 			"batch": "W13",
 			"category": "Other SaaS",
 			"description": "Papyrus → Parchment → Paper → Padlet",
@@ -39,6 +47,8 @@
 		{
 			"rank": 5,
 			"name": "Scribd",
+			"codeName": "scribd",
+			"jsonName": "scribd.json",
 			"batch": "S06",
 			"category": "Entertainment",
 			"description": "World's largest online library.",
@@ -48,6 +58,8 @@
 		{
 			"rank": 6,
 			"name": "Weebly",
+			"codeName": "weebly",
+			"jsonName": "weebly.json",
 			"batch": "W07",
 			"category": "Other SaaS",
 			"description": "Web site editing platform.  Over 40M people have launched their business on Weebly and every month 3...",
@@ -57,6 +69,8 @@
 		{
 			"rank": 7,
 			"name": "9gag",
+			"codeName": "9gag",
+			"jsonName": "9gag.json",
 			"batch": "S12",
 			"category": "Entertainment",
 			"description": "Make the world happier.",
@@ -66,6 +80,8 @@
 		{
 			"rank": 8,
 			"name": "Genius",
+			"codeName": "genius",
+			"jsonName": "genius.json",
 			"batch": "S11",
 			"category": "Entertainment",
 			"description": "Music Intelligence",
@@ -75,6 +91,8 @@
 		{
 			"rank": 9,
 			"name": "Airbnb",
+			"codeName": "airbnb",
+			"jsonName": "airbnb.json",
 			"batch": "W09",
 			"category": "Consumer",
 			"description": "Book accommodations around the world",
@@ -84,6 +102,8 @@
 		{
 			"rank": 10,
 			"name": "Loom",
+			"codeName": "loom",
+			"jsonName": "loom.json",
 			"batch": "W12",
 			"category": "Entertainment",
 			"description": "Cloud storage for photos and videos (acquired by Dropbox).",
@@ -93,6 +113,8 @@
 		{
 			"rank": 11,
 			"name": "Disqus",
+			"codeName": "disqus",
+			"jsonName": "disqus.json",
 			"batch": "S07",
 			"category": "Dev Tools",
 			"description": "Add comments to your website.",
@@ -102,6 +124,8 @@
 		{
 			"rank": 12,
 			"name": "1000Memories",
+			"codeName": "1000memories",
+			"jsonName": "1000memories.json",
 			"batch": "S10",
 			"category": "Consumer",
 			"description": "Memorial sites.",
@@ -111,6 +135,8 @@
 		{
 			"rank": 13,
 			"name": "Coinbase",
+			"codeName": "coinbase",
+			"jsonName": "coinbase.json",
 			"batch": "S12",
 			"category": "Fintech",
 			"description": "Coinbase is a secure platform that makes it easy to buy and sell cryptocurrency",
@@ -120,6 +146,8 @@
 		{
 			"rank": 14,
 			"name": "Teespring",
+			"codeName": "teespring",
+			"jsonName": "teespring.json",
 			"batch": "W13",
 			"category": "Consumer",
 			"description": "Retail quality products on-demand. Teespring is a platform that enables anyone to create and sell un...",
@@ -129,6 +157,8 @@
 		{
 			"rank": 15,
 			"name": "DoorDash",
+			"codeName": "doordash",
+			"jsonName": "doordash.json",
 			"batch": "S13",
 			"category": "Consumer",
 			"description": "Restaurant delivery.",
@@ -138,6 +168,8 @@
 		{
 			"rank": 16,
 			"name": "Creative Market",
+			"codeName": "creative-market",
+			"jsonName": "creative-market.json",
 			"batch": "W10",
 			"category": "Dev Tools",
 			"description": "Marketplace for ready-to-use design assets from independent creators around the world. Acquired by A...",
@@ -147,6 +179,8 @@
 		{
 			"rank": 17,
 			"name": "Codecademy",
+			"codeName": "codecademy",
+			"jsonName": "codecademy.json",
 			"batch": "S11",
 			"category": "Education",
 			"description": "Codecademy teaches the world the skills they need to find jobs",
@@ -156,6 +190,8 @@
 		{
 			"rank": 18,
 			"name": "Instacart",
+			"codeName": "instacart",
+			"jsonName": "instacart.json",
 			"batch": "S12",
 			"category": "Consumer",
 			"description": "The North American leader in online grocery",
@@ -165,6 +201,8 @@
 		{
 			"rank": 19,
 			"name": "Clever",
+			"codeName": "clever",
+			"jsonName": "clever.json",
 			"batch": "S12",
 			"category": "Education",
 			"description": "Clever is the platform that powers technology in the classroom.",
@@ -174,6 +212,8 @@
 		{
 			"rank": 20,
 			"name": "ClearTax",
+			"codeName": "cleartax",
+			"jsonName": "cleartax.json",
 			"batch": "W14",
 			"category": "Fintech",
 			"description": "Intuit of India.",
@@ -183,6 +223,8 @@
 		{
 			"rank": 21,
 			"name": "HackerRank",
+			"codeName": "hackerrank",
+			"jsonName": "hackerrank.json",
 			"batch": "S11",
 			"category": "Other SaaS",
 			"description": "Programmer IQ",
@@ -192,6 +234,8 @@
 		{
 			"rank": 22,
 			"name": "OneSignal",
+			"codeName": "onesignal",
+			"jsonName": "onesignal.json",
 			"batch": "S11",
 			"category": "Dev Tools",
 			"description": "Making engagement simple across push notifications, in-app, and email.",
@@ -201,6 +245,8 @@
 		{
 			"rank": 23,
 			"name": "GitLab",
+			"codeName": "gitlab",
+			"jsonName": "gitlab.json",
 			"batch": "W15",
 			"category": "Dev Tools",
 			"description": "GitLab is a complete DevOps platform, delivered as a single application.",
@@ -210,6 +256,8 @@
 		{
 			"rank": 24,
 			"name": "Docker",
+			"codeName": "docker",
+			"jsonName": "docker.json",
 			"batch": "S10",
 			"category": "Other SaaS",
 			"description": "App store for server configurations.",
@@ -219,6 +267,8 @@
 		{
 			"rank": 25,
 			"name": "Stripe",
+			"codeName": "stripe",
+			"jsonName": "stripe.json",
 			"batch": "S09",
 			"category": "Fintech",
 			"description": "Online payments.",
@@ -228,6 +278,8 @@
 		{
 			"rank": 26,
 			"name": "Repl.it",
+			"codeName": "repl.it",
+			"jsonName": "repl.it.json",
 			"batch": "W18",
 			"category": "Dev Tools",
 			"description": "In 2 seconds, boot up an online programming environment for your favorite language.",
@@ -237,6 +289,8 @@
 		{
 			"rank": 27,
 			"name": "Our World in Data",
+			"codeName": "our-world-in-data",
+			"jsonName": "our-world-in-data.json",
 			"batch": "W19",
 			"category": "Education",
 			"description": "Research and data to make progress against the world’s largest problems",
@@ -246,6 +300,8 @@
 		{
 			"rank": 28,
 			"name": "Font Awesome",
+			"codeName": "font-awesome",
+			"jsonName": "font-awesome.json",
 			"batch": "S15",
 			"category": "Dev Tools",
 			"description": "Icons and social logos for your website.",
@@ -255,6 +311,8 @@
 		{
 			"rank": 29,
 			"name": "Zapier",
+			"codeName": "zapier",
+			"jsonName": "zapier.json",
 			"batch": "S12",
 			"category": "Other SaaS",
 			"description": "The easiest way to automate your work",
@@ -264,6 +322,8 @@
 		{
 			"rank": 30,
 			"name": "Strikingly",
+			"codeName": "strikingly",
+			"jsonName": "strikingly.json",
 			"batch": "W13",
 			"category": "Other SaaS",
 			"description": "The easiest way to create a beautiful, mobile optimized website.",
@@ -273,6 +333,8 @@
 		{
 			"rank": 31,
 			"name": "SmartAsset",
+			"codeName": "smartasset",
+			"jsonName": "smartasset.json",
 			"batch": "S12",
 			"category": "Fintech",
 			"description": "The easiest way to make and understand important personal finance decisions.",
@@ -282,6 +344,8 @@
 		{
 			"rank": 32,
 			"name": "The Muse",
+			"codeName": "the-muse",
+			"jsonName": "the-muse.json",
 			"batch": "W12",
 			"category": "Other SaaS",
 			"description": "The Muse is the ultimate career destination offering exciting job opportunities, expert advice, and ...",
@@ -291,6 +355,8 @@
 		{
 			"rank": 33,
 			"name": "Paystack",
+			"codeName": "paystack",
+			"jsonName": "paystack.json",
 			"batch": "W16",
 			"category": "Fintech",
 			"description": "Modern payments infrastructure for Africa",
@@ -300,6 +366,8 @@
 		{
 			"rank": 34,
 			"name": "Razorpay",
+			"codeName": "razorpay",
+			"jsonName": "razorpay.json",
 			"batch": "W15",
 			"category": "Fintech",
 			"description": "A full stack payment platform for India",
@@ -309,6 +377,8 @@
 		{
 			"rank": 35,
 			"name": "Heroku",
+			"codeName": "heroku",
+			"jsonName": "heroku.json",
 			"batch": "W08",
 			"category": "Other SaaS",
 			"description": "Heroku is a multi-language cloud application platform that enables developers to deploy, scale, and manage their applications.",
@@ -318,6 +388,8 @@
 		{
 			"rank": 36,
 			"name": "Coub",
+			"codeName": "coub",
+			"jsonName": "coub.json",
 			"batch": "S16",
 			"category": "Entertainment",
 			"description": "Coub is YouTube for video loops. You can take any video from YouTube, Facebook or upload your own. T...",
@@ -327,6 +399,8 @@
 		{
 			"rank": 37,
 			"name": "Lever",
+			"codeName": "lever",
+			"jsonName": "lever.json",
 			"batch": "S12",
 			"category": "Other SaaS",
 			"description": "Lever is a Talent Acquisition Suite that combines ATS + Talent CRM",
@@ -336,6 +410,8 @@
 		{
 			"rank": 38,
 			"name": "Y Combinator",
+			"codeName": "y-combinator",
+			"jsonName": "y-combinator.json",
 			"batch": "S05",
 			"category": "",
 			"description": "Not your average fixed point combinator.",
@@ -345,6 +421,8 @@
 		{
 			"rank": 39,
 			"name": "Wufoo",
+			"codeName": "wufoo",
+			"jsonName": "wufoo.json",
 			"batch": "W06",
 			"category": "Other SaaS",
 			"description": "Online form builder.",
@@ -354,6 +432,8 @@
 		{
 			"rank": 40,
 			"name": "GOAT Group",
+			"codeName": "goat-group",
+			"jsonName": "goat-group.json",
 			"batch": "W11",
 			"category": "Consumer",
 			"description": "GOAT Group represents the leading platforms for authentic sneakers, apparel, and accessories.",
@@ -363,6 +443,8 @@
 		{
 			"rank": 41,
 			"name": "Apollo.io",
+			"codeName": "apollo.io",
+			"jsonName": "apollo.io.json",
 			"batch": "W16",
 			"category": "Other SaaS",
 			"description": "Apollo is the foundation of your entire go-to-market strategy.",
@@ -372,6 +454,8 @@
 		{
 			"rank": 42,
 			"name": "MatterPort",
+			"codeName": "matterport",
+			"jsonName": "matterport.json",
 			"batch": "W12",
 			"category": "Entertainment",
 			"description": "Turn physical objects and environments into 3D models in seconds.",
@@ -381,6 +465,8 @@
 		{
 			"rank": 43,
 			"name": "Front",
+			"codeName": "front",
+			"jsonName": "front.json",
 			"batch": "S14",
 			"category": "Other SaaS",
 			"description": "Collaborative Inbox for Companies",
@@ -390,6 +476,8 @@
 		{
 			"rank": 44,
 			"name": "The Athletic",
+			"codeName": "the-athletic",
+			"jsonName": "the-athletic.json",
 			"batch": "S16",
 			"category": "Entertainment",
 			"description": "Subscription sports media.",
@@ -399,6 +487,8 @@
 		{
 			"rank": 45,
 			"name": "Cambly",
+			"codeName": "cambly",
+			"jsonName": "cambly.json",
 			"batch": "W14",
 			"category": "Entertainment",
 			"description": "On-demand access to English tutors over video chat.",
@@ -408,6 +498,8 @@
 		{
 			"rank": 46,
 			"name": "Amplitude",
+			"codeName": "amplitude",
+			"jsonName": "amplitude.json",
 			"batch": "W12",
 			"category": "Other SaaS",
 			"description": "Amplitude is the comprehensive product analytics software for web and mobile",
@@ -417,6 +509,8 @@
 		{
 			"rank": 47,
 			"name": "Webflow",
+			"codeName": "webflow",
+			"jsonName": "webflow.json",
 			"batch": "S13",
 			"category": "Dev Tools",
 			"description": "Professional website design and publishing platform.",
@@ -426,6 +520,8 @@
 		{
 			"rank": 48,
 			"name": "Bitnami",
+			"codeName": "bitnami",
+			"jsonName": "bitnami.json",
 			"batch": "W13",
 			"category": "Other SaaS",
 			"description": "The App Store for Server Software",
@@ -435,6 +531,8 @@
 		{
 			"rank": 49,
 			"name": "WorkFlowy",
+			"codeName": "workflowy",
+			"jsonName": "workflowy.json",
 			"batch": "S10",
 			"category": "Other SaaS",
 			"description": "WorkFlowy is a better way to manage information. It provides a simple mechanism - zoomable, searchab...",
@@ -444,6 +542,8 @@
 		{
 			"rank": 50,
 			"name": "Substack",
+			"codeName": "substack",
+			"jsonName": "substack.json",
 			"batch": "W18",
 			"category": "Other SaaS",
 			"description": "A place for independent writing",
@@ -453,6 +553,8 @@
 		{
 			"rank": 51,
 			"name": "Zeplin",
+			"codeName": "zeplin",
+			"jsonName": "zeplin.json",
 			"batch": "S15",
 			"category": "Dev Tools",
 			"description": "Zeplin is a connected space for product teams where they can share designs, generate specs, assets a...",
@@ -462,6 +564,8 @@
 		{
 			"rank": 52,
 			"name": "Chartio",
+			"codeName": "chartio",
+			"jsonName": "chartio.json",
 			"batch": "S10",
 			"category": "Other SaaS",
 			"description": "Chartio is changing how companies work by building the best visualization interface to data. We make...",
@@ -471,6 +575,8 @@
 		{
 			"rank": 53,
 			"name": "Pushbullet",
+			"codeName": "pushbullet",
+			"jsonName": "pushbullet.json",
 			"batch": "W14",
 			"category": "Consumer",
 			"description": "Push things to your other things.",
@@ -480,6 +586,8 @@
 		{
 			"rank": 54,
 			"name": "Optimizely",
+			"codeName": "optimizely",
+			"jsonName": "optimizely.json",
 			"batch": "W10",
 			"category": "Dev Tools",
 			"description": "A/B testing.",
@@ -489,6 +597,8 @@
 		{
 			"rank": 55,
 			"name": "Submittable",
+			"codeName": "submittable",
+			"jsonName": "submittable.json",
 			"batch": "S12",
 			"category": "Dev Tools",
 			"description": "Submittable is the best way for organizations to create, promote, and manage their calls for submiss...",
@@ -498,6 +608,8 @@
 		{
 			"rank": 56,
 			"name": "Flutterwave",
+			"codeName": "flutterwave",
+			"jsonName": "flutterwave.json",
 			"batch": "S16",
 			"category": "Fintech",
 			"description": "We help businesses to make and accept payments from anywhere in Africa",
@@ -507,6 +619,8 @@
 		{
 			"rank": 57,
 			"name": "Segment",
+			"codeName": "segment",
+			"jsonName": "segment.json",
 			"batch": "S11",
 			"category": "Other SaaS",
 			"description": "Segment is the analytics infrastructure that helps collect and organize data so businesses make bett...",
@@ -516,6 +630,8 @@
 		{
 			"rank": 58,
 			"name": "Product Hunt",
+			"codeName": "product-hunt",
+			"jsonName": "product-hunt.json",
 			"batch": "S14",
 			"category": "Entertainment",
 			"description": "Hacker News for Products",
@@ -525,6 +641,8 @@
 		{
 			"rank": 59,
 			"name": "Close",
+			"codeName": "close",
+			"jsonName": "close.json",
 			"batch": "W11",
 			"category": "Other SaaS",
 			"description": "Inside Sales and Sales Automation CRM for SMBs",
@@ -534,6 +652,8 @@
 		{
 			"rank": 60,
 			"name": "Zenefits",
+			"codeName": "zenefits",
+			"jsonName": "zenefits.json",
 			"batch": "W13",
 			"category": "Other SaaS",
 			"description": "HR for small businesses: onboarding, payroll and benefits.",
@@ -543,6 +663,8 @@
 		{
 			"rank": 61,
 			"name": "Prolific",
+			"codeName": "prolific",
+			"jsonName": "prolific.json",
 			"batch": "S19",
 			"category": "Other SaaS",
 			"description": "Infrastructure for research on the internet.",
@@ -552,6 +674,8 @@
 		{
 			"rank": 62,
 			"name": "Algolia",
+			"codeName": "algolia",
+			"jsonName": "algolia.json",
 			"batch": "W14",
 			"category": "Dev Tools",
 			"description": "Algolia offers a developer-friendly and enterprise-grade search API",
@@ -561,6 +685,8 @@
 		{
 			"rank": 63,
 			"name": "ShipBob",
+			"codeName": "shipbob",
+			"jsonName": "shipbob.json",
 			"batch": "S14",
 			"category": "Other SaaS",
 			"description": "Providing Amazon level logistics to e-commerce businesses.",
@@ -570,6 +696,8 @@
 		{
 			"rank": 64,
 			"name": "Buy Me A Coffee",
+			"codeName": "buy-me-a-coffee",
+			"jsonName": "buy-me-a-coffee.json",
 			"batch": "W19",
 			"category": "Entertainment",
 			"description": "Helping creators monetize",
@@ -579,6 +707,8 @@
 		{
 			"rank": 65,
 			"name": "Chatfuel",
+			"codeName": "chatfuel",
+			"jsonName": "chatfuel.json",
 			"batch": "W16",
 			"category": "Dev Tools",
 			"description": "Platform to easily create chatbots to engage with audiences on messengers.",
@@ -588,6 +718,8 @@
 		{
 			"rank": 66,
 			"name": "Expo",
+			"codeName": "expo",
+			"jsonName": "expo.json",
 			"batch": "S16",
 			"category": "Other SaaS",
 			"description": "Expo brings together the best of web (development speed, fast iteration cycles, easy deploys, and au...",
@@ -597,6 +729,8 @@
 		{
 			"rank": 67,
 			"name": "Groww",
+			"codeName": "groww",
+			"jsonName": "groww.json",
 			"batch": "W18",
 			"category": "Fintech",
 			"description": "Investing made simple for everyone in India",
@@ -606,6 +740,8 @@
 		{
 			"rank": 68,
 			"name": "Thunkable",
+			"codeName": "thunkable",
+			"jsonName": "thunkable.json",
 			"batch": "W16",
 			"category": "Other SaaS",
 			"description": "Thunkable is a drag and drop tool to build native Android and iOS Apps",
@@ -615,6 +751,8 @@
 		{
 			"rank": 69,
 			"name": "PartnerStack",
+			"codeName": "partnerstack",
+			"jsonName": "partnerstack.json",
 			"batch": "S15",
 			"category": "Other SaaS",
 			"description": "PartnerStack is a full stack solution for partnerships.",
@@ -624,6 +762,8 @@
 		{
 			"rank": 70,
 			"name": "RescueTime",
+			"codeName": "rescuetime",
+			"jsonName": "rescuetime.json",
 			"batch": "W08",
 			"category": "Other SaaS",
 			"description": "Ridiculously Easy Time Management",
@@ -633,6 +773,8 @@
 		{
 			"rank": 71,
 			"name": "Songkick",
+			"codeName": "songkick",
+			"jsonName": "songkick.json",
 			"batch": "S07",
 			"category": "Consumer",
 			"description": "Songkick is a ticketing vendor and online database of concerts for music enthusiasts.",
@@ -642,6 +784,8 @@
 		{
 			"rank": 72,
 			"name": "Brex",
+			"codeName": "brex",
+			"jsonName": "brex.json",
 			"batch": "W17",
 			"category": "Fintech",
 			"description": "Brex is rebuilding B2B financial products",
@@ -651,6 +795,8 @@
 		{
 			"rank": 73,
 			"name": "HelloSign",
+			"codeName": "hellosign",
+			"jsonName": "hellosign.json",
 			"batch": "W11",
 			"category": "Other SaaS",
 			"description": "The #1 eSignature Software for Small and Mid-Market Businesses.",
@@ -660,6 +806,8 @@
 		{
 			"rank": 74,
 			"name": "Cratejoy",
+			"codeName": "cratejoy",
+			"jsonName": "cratejoy.json",
 			"batch": "S13",
 			"category": "Other SaaS",
 			"description": "Cratejoy is the platform for subscriptions",
@@ -669,6 +817,8 @@
 		{
 			"rank": 75,
 			"name": "EasyPost",
+			"codeName": "easypost",
+			"jsonName": "easypost.json",
 			"batch": "S13",
 			"category": "Other SaaS",
 			"description": "Shipping API",
@@ -678,6 +828,8 @@
 		{
 			"rank": 76,
 			"name": "Shogun",
+			"codeName": "shogun",
+			"jsonName": "shogun.json",
 			"batch": "W18",
 			"category": "Dev Tools",
 			"description": "Software for building the next generation of online stores.",
@@ -687,6 +839,8 @@
 		{
 			"rank": 77,
 			"name": "Vidyard",
+			"codeName": "vidyard",
+			"jsonName": "vidyard.json",
 			"batch": "S11",
 			"category": "Other SaaS",
 			"description": "Video for business",
@@ -696,6 +850,8 @@
 		{
 			"rank": 78,
 			"name": "UpLabs",
+			"codeName": "uplabs",
+			"jsonName": "uplabs.json",
 			"batch": "W16",
 			"category": "Dev Tools",
 			"description": "UpLabs is the #1 marketplace for designers & developers to find design resources.",
@@ -705,6 +861,8 @@
 		{
 			"rank": 79,
 			"name": "Mixpanel",
+			"codeName": "mixpanel",
+			"jsonName": "mixpanel.json",
 			"batch": "S09",
 			"category": "Other SaaS",
 			"description": "Mixpanel is the most advanced analytics platform in the world for mobile & web.",
@@ -714,6 +872,8 @@
 		{
 			"rank": 80,
 			"name": "Mailgun",
+			"codeName": "mailgun",
+			"jsonName": "mailgun.json",
 			"batch": "W11",
 			"category": "Dev Tools",
 			"description": "Email API service.",
@@ -723,6 +883,8 @@
 		{
 			"rank": 81,
 			"name": "Chaldal",
+			"codeName": "chaldal",
+			"jsonName": "chaldal.json",
 			"batch": "S15",
 			"category": "Consumer",
 			"description": "Chaldal.com is an online platform for grocery and delivery based in Dhaka, Bangladesh.",
@@ -732,6 +894,8 @@
 		{
 			"rank": 82,
 			"name": "Podium",
+			"codeName": "podium",
+			"jsonName": "podium.json",
 			"batch": "W16",
 			"category": "Other SaaS",
 			"description": "Podium is an interaction platform for local businesses.",
@@ -741,6 +905,8 @@
 		{
 			"rank": 83,
 			"name": "Gusto",
+			"codeName": "gusto",
+			"jsonName": "gusto.json",
 			"batch": "W12",
 			"category": "Other SaaS",
 			"description": "Gusto is a modern, online people platform that helps small businesses take care of their teams.",
@@ -750,6 +916,8 @@
 		{
 			"rank": 84,
 			"name": "OpenSea",
+			"codeName": "opensea",
+			"jsonName": "opensea.json",
 			"batch": "W18",
 			"category": "Entertainment",
 			"description": "OpenSea is the first and largest marketplace for digital goods.",
@@ -759,6 +927,8 @@
 		{
 			"rank": 85,
 			"name": "Cashfree",
+			"codeName": "cashfree",
+			"jsonName": "cashfree.json",
 			"batch": "S17",
 			"category": "Fintech",
 			"description": "Next-Gen digital payments provider for India.",
@@ -768,6 +938,8 @@
 		{
 			"rank": 86,
 			"name": "Quero Education",
+			"codeName": "quero-education",
+			"jsonName": "quero-education.json",
 			"batch": "S16",
 			"category": "Education",
 			"description": "Quero is an online marketplace for college programs in Brazil. It helps students search, compare and...",
@@ -777,6 +949,8 @@
 		{
 			"rank": 87,
 			"name": "Tech in Asia",
+			"codeName": "tech-in-asia",
+			"jsonName": "tech-in-asia.json",
 			"batch": "W15",
 			"category": "Entertainment",
 			"description": "Tech in Asia (YC W15) is the largest English-language technology media company that focuses on Asia.",
@@ -786,6 +960,8 @@
 		{
 			"rank": 88,
 			"name": "BackerKit",
+			"codeName": "backerkit",
+			"jsonName": "backerkit.json",
 			"batch": "S12",
 			"category": "Other SaaS",
 			"description": "BackerKit is crowdfunding software that helps project creators manage their 1000 biggest fans.",
@@ -795,6 +971,8 @@
 		{
 			"rank": 89,
 			"name": "Rappi",
+			"codeName": "rappi",
+			"jsonName": "rappi.json",
 			"batch": "W16",
 			"category": "Consumer",
 			"description": "Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogotá and Mexi...",
@@ -804,6 +982,8 @@
 		{
 			"rank": 90,
 			"name": "Outschool",
+			"codeName": "outschool",
+			"jsonName": "outschool.json",
 			"batch": "W16",
 			"category": "Education",
 			"description": "Marketplace of live online classes for kids",
@@ -813,6 +993,8 @@
 		{
 			"rank": 91,
 			"name": "Caviar",
+			"codeName": "caviar",
+			"jsonName": "caviar.json",
 			"batch": "S11",
 			"category": "Consumer",
 			"description": "Uber for food.",
@@ -822,6 +1004,8 @@
 		{
 			"rank": 92,
 			"name": "Streak",
+			"codeName": "streak",
+			"jsonName": "streak.json",
 			"batch": "S11",
 			"category": "Other SaaS",
 			"description": "Streak transforms Gmail into a customizable CRM and process management tool. Our products service th...",
@@ -831,6 +1015,8 @@
 		{
 			"rank": 93,
 			"name": "MessageBird",
+			"codeName": "messagebird",
+			"jsonName": "messagebird.json",
 			"batch": "S16",
 			"category": "Dev Tools",
 			"description": "MessageBird is an API for sending Text, Voice & Chat messages. We offer the most advanced messaging ...",
@@ -840,6 +1026,8 @@
 		{
 			"rank": 94,
 			"name": "Platzi",
+			"codeName": "platzi",
+			"jsonName": "platzi.json",
 			"batch": "W15",
 			"category": "Education",
 			"description": "Effective online education of coding, marketing and design. Largest player in Latinamerica.",
@@ -849,6 +1037,8 @@
 		{
 			"rank": 95,
 			"name": "Olark",
+			"codeName": "olark",
+			"jsonName": "olark.json",
 			"batch": "W09",
 			"category": "Other SaaS",
 			"description": "The best live chat software on the planet.  We help you build relationships with website visitors, b...",
@@ -858,6 +1048,8 @@
 		{
 			"rank": 96,
 			"name": "StatusPage",
+			"codeName": "statuspage",
+			"jsonName": "statuspage.json",
 			"batch": "S13",
 			"category": "Dev Tools",
 			"description": "The best way to communicate with users around downtime.",
@@ -867,6 +1059,8 @@
 		{
 			"rank": 97,
 			"name": "Ninite",
+			"codeName": "ninite",
+			"jsonName": "ninite.json",
 			"batch": "W08",
 			"category": "Other SaaS",
 			"description": "Simple third-party app patching and deployment for Windows.",
@@ -876,6 +1070,8 @@
 		{
 			"rank": 98,
 			"name": "Impraise",
+			"codeName": "impraise",
+			"jsonName": "impraise.json",
 			"batch": "S14",
 			"category": "Other SaaS",
 			"description": "Platform to manage the performance, development and engagement of employees.",
@@ -885,6 +1081,8 @@
 		{
 			"rank": 99,
 			"name": "Goldbelly",
+			"codeName": "goldbelly",
+			"jsonName": "goldbelly.json",
 			"batch": "W13",
 			"category": "Consumer",
 			"description": "We make the most regionally famous and downright awesome foods from across the country available for...",
@@ -894,6 +1092,8 @@
 		{
 			"rank": 100,
 			"name": "Apollo",
+			"codeName": "apollo",
+			"jsonName": "apollo.json",
 			"batch": "S11",
 			"category": "Other SaaS",
 			"description": "We make Apollo, the leading GraphQL implementation. (We are also the team that built Meteor, the Jav...",
