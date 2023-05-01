@@ -1,0 +1,13 @@
+
+awesomepy/
+nextdocs/
+src/
+temp/
+templates/
+
+generate.py
+hooklist.txt
+PREADME.md
+Makefile
+
+hooks.min.json

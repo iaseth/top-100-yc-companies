@@ -1,0 +1,904 @@
+{
+	"companies": [
+		{
+			"rank": "1",
+			"name": "Reddit",
+			"batch": "S05",
+			"category": "Entertainment",
+			"description": "The frontpage of the internet.",
+			"alexaRank": "19",
+			"pageURL": "https://www.ycdb.co/company/reddit"
+		},
+		{
+			"rank": "2",
+			"name": "Twitch",
+			"batch": "W07",
+			"category": "Entertainment",
+			"description": "Video game live streaming",
+			"alexaRank": "32",
+			"pageURL": "https://www.ycdb.co/company/twitch"
+		},
+		{
+			"rank": "3",
+			"name": "Dropbox",
+			"batch": "S07",
+			"category": "Other SaaS",
+			"description": "Backup and share files in the cloud.",
+			"alexaRank": "65",
+			"pageURL": "https://www.ycdb.co/company/dropbox"
+		},
+		{
+			"rank": "4",
+			"name": "Padlet",
+			"batch": "W13",
+			"category": "Other SaaS",
+			"description": "Papyrus → Parchment → Paper → Padlet",
+			"alexaRank": "177",
+			"pageURL": "https://www.ycdb.co/company/padlet"
+		},
+		{
+			"rank": "5",
+			"name": "Scribd",
+			"batch": "S06",
+			"category": "Entertainment",
+			"description": "World's largest online library.",
+			"alexaRank": "264",
+			"pageURL": "https://www.ycdb.co/company/scribd"
+		},
+		{
+			"rank": "6",
+			"name": "Weebly",
+			"batch": "W07",
+			"category": "Other SaaS",
+			"description": "Web site editing platform.  Over 40M people have launched their business on Weebly and every month 3...",
+			"alexaRank": "293",
+			"pageURL": "https://www.ycdb.co/company/weebly"
+		},
+		{
+			"rank": "7",
+			"name": "9gag",
+			"batch": "S12",
+			"category": "Entertainment",
+			"description": "Make the world happier.",
+			"alexaRank": "378",
+			"pageURL": "https://www.ycdb.co/company/9gag"
+		},
+		{
+			"rank": "8",
+			"name": "Genius",
+			"batch": "S11",
+			"category": "Entertainment",
+			"description": "Music Intelligence",
+			"alexaRank": "406",
+			"pageURL": "https://www.ycdb.co/company/genius"
+		},
+		{
+			"rank": "9",
+			"name": "Airbnb",
+			"batch": "W09",
+			"category": "Consumer",
+			"description": "Book accommodations around the world",
+			"alexaRank": "514",
+			"pageURL": "https://www.ycdb.co/company/airbnb"
+		},
+		{
+			"rank": "10",
+			"name": "Loom",
+			"batch": "W12",
+			"category": "Entertainment",
+			"description": "Cloud storage for photos and videos (acquired by Dropbox).",
+			"alexaRank": "644",
+			"pageURL": "https://www.ycdb.co/company/loom"
+		},
+		{
+			"rank": "11",
+			"name": "Disqus",
+			"batch": "S07",
+			"category": "Dev Tools",
+			"description": "Add comments to your website.",
+			"alexaRank": "1,065",
+			"pageURL": "https://www.ycdb.co/company/disqus"
+		},
+		{
+			"rank": "12",
+			"name": "1000Memories",
+			"batch": "S10",
+			"category": "Consumer",
+			"description": "Memorial sites.",
+			"alexaRank": "1,358",
+			"pageURL": "https://www.ycdb.co/company/1000memories"
+		},
+		{
+			"rank": "13",
+			"name": "Coinbase",
+			"batch": "S12",
+			"category": "Fintech",
+			"description": "Coinbase is a secure platform that makes it easy to buy and sell cryptocurrency",
+			"alexaRank": "1,435",
+			"pageURL": "https://www.ycdb.co/company/coinbase"
+		},
+		{
+			"rank": "14",
+			"name": "Teespring",
+			"batch": "W13",
+			"category": "Consumer",
+			"description": "Retail quality products on-demand. Teespring is a platform that enables anyone to create and sell un...",
+			"alexaRank": "1,642",
+			"pageURL": "https://www.ycdb.co/company/teespring"
+		},
+		{
+			"rank": "15",
+			"name": "DoorDash",
+			"batch": "S13",
+			"category": "Consumer",
+			"description": "Restaurant delivery.",
+			"alexaRank": "1,676",
+			"pageURL": "https://www.ycdb.co/company/doordash"
+		},
+		{
+			"rank": "16",
+			"name": "Creative Market",
+			"batch": "W10",
+			"category": "Dev Tools",
+			"description": "Marketplace for ready-to-use design assets from independent creators around the world. Acquired by A...",
+			"alexaRank": "1,709",
+			"pageURL": "https://www.ycdb.co/company/creative-market"
+		},
+		{
+			"rank": "17",
+			"name": "Codecademy",
+			"batch": "S11",
+			"category": "Education",
+			"description": "Codecademy teaches the world the skills they need to find jobs",
+			"alexaRank": "1,713",
+			"pageURL": "https://www.ycdb.co/company/codecademy"
+		},
+		{
+			"rank": "18",
+			"name": "Instacart",
+			"batch": "S12",
+			"category": "Consumer",
+			"description": "The North American leader in online grocery",
+			"alexaRank": "1,936",
+			"pageURL": "https://www.ycdb.co/company/instacart"
+		},
+		{
+			"rank": "19",
+			"name": "Clever",
+			"batch": "S12",
+			"category": "Education",
+			"description": "Clever is the platform that powers technology in the classroom.",
+			"alexaRank": "1,954",
+			"pageURL": "https://www.ycdb.co/company/clever"
+		},
+		{
+			"rank": "20",
+			"name": "ClearTax",
+			"batch": "W14",
+			"category": "Fintech",
+			"description": "Intuit of India.",
+			"alexaRank": "2,183",
+			"pageURL": "https://www.ycdb.co/company/cleartax"
+		},
+		{
+			"rank": "21",
+			"name": "HackerRank",
+			"batch": "S11",
+			"category": "Other SaaS",
+			"description": "Programmer IQ",
+			"alexaRank": "2,338",
+			"pageURL": "https://www.ycdb.co/company/hackerrank"
+		},
+		{
+			"rank": "22",
+			"name": "OneSignal",
+			"batch": "S11",
+			"category": "Dev Tools",
+			"description": "Making engagement simple across push notifications, in-app, and email.",
+			"alexaRank": "2,654",
+			"pageURL": "https://www.ycdb.co/company/onesignal"
+		},
+		{
+			"rank": "23",
+			"name": "GitLab",
+			"batch": "W15",
+			"category": "Dev Tools",
+			"description": "GitLab is a complete DevOps platform, delivered as a single application.",
+			"alexaRank": "2,938",
+			"pageURL": "https://www.ycdb.co/company/gitlab"
+		},
+		{
+			"rank": "24",
+			"name": "Docker",
+			"batch": "S10",
+			"category": "Other SaaS",
+			"description": "App store for server configurations.",
+			"alexaRank": "3,170",
+			"pageURL": "https://www.ycdb.co/company/docker"
+		},
+		{
+			"rank": "25",
+			"name": "Stripe",
+			"batch": "S09",
+			"category": "Fintech",
+			"description": "Online payments.",
+			"alexaRank": "3,266",
+			"pageURL": "https://www.ycdb.co/company/stripe"
+		},
+		{
+			"rank": "26",
+			"name": "Repl.it",
+			"batch": "W18",
+			"category": "Dev Tools",
+			"description": "In 2 seconds, boot up an online programming environment for your favorite language.",
+			"alexaRank": "3,406",
+			"pageURL": "https://www.ycdb.co/company/repl-it"
+		},
+		{
+			"rank": "27",
+			"name": "Our World in Data",
+			"batch": "W19",
+			"category": "Education",
+			"description": "Research and data to make progress against the world’s largest problems",
+			"alexaRank": "3,435",
+			"pageURL": "https://www.ycdb.co/company/our-world-in-data"
+		},
+		{
+			"rank": "28",
+			"name": "Font Awesome",
+			"batch": "S15",
+			"category": "Dev Tools",
+			"description": "Icons and social logos for your website.",
+			"alexaRank": "3,555",
+			"pageURL": "https://www.ycdb.co/company/font-awesome"
+		},
+		{
+			"rank": "29",
+			"name": "Zapier",
+			"batch": "S12",
+			"category": "Other SaaS",
+			"description": "The easiest way to automate your work",
+			"alexaRank": "4,626",
+			"pageURL": "https://www.ycdb.co/company/zapier"
+		},
+		{
+			"rank": "30",
+			"name": "Strikingly",
+			"batch": "W13",
+			"category": "Other SaaS",
+			"description": "The easiest way to create a beautiful, mobile optimized website.",
+			"alexaRank": "4,674",
+			"pageURL": "https://www.ycdb.co/company/strikingly"
+		},
+		{
+			"rank": "31",
+			"name": "SmartAsset",
+			"batch": "S12",
+			"category": "Fintech",
+			"description": "The easiest way to make and understand important personal finance decisions.",
+			"alexaRank": "4,764",
+			"pageURL": "https://www.ycdb.co/company/smartasset"
+		},
+		{
+			"rank": "32",
+			"name": "The Muse",
+			"batch": "W12",
+			"category": "Other SaaS",
+			"description": "The Muse is the ultimate career destination offering exciting job opportunities, expert advice, and ...",
+			"alexaRank": "4,815",
+			"pageURL": "https://www.ycdb.co/company/the-muse"
+		},
+		{
+			"rank": "33",
+			"name": "Paystack",
+			"batch": "W16",
+			"category": "Fintech",
+			"description": "Modern payments infrastructure for Africa",
+			"alexaRank": "4,865",
+			"pageURL": "https://www.ycdb.co/company/paystack"
+		},
+		{
+			"rank": "34",
+			"name": "Razorpay",
+			"batch": "W15",
+			"category": "Fintech",
+			"description": "A full stack payment platform for India",
+			"alexaRank": "4,916",
+			"pageURL": "https://www.ycdb.co/company/razorpay"
+		},
+		{
+			"rank": "35",
+			"name": "Heroku",
+			"batch": "W08",
+			"category": "Other SaaS",
+			"description": "Heroku is a multi-language cloud application platform that enables developers to deploy, scale, and manage their applications.",
+			"alexaRank": "5,430",
+			"pageURL": "https://www.ycdb.co/company/heroku"
+		},
+		{
+			"rank": "36",
+			"name": "Coub",
+			"batch": "S16",
+			"category": "Entertainment",
+			"description": "Coub is YouTube for video loops. You can take any video from YouTube, Facebook or upload your own. T...",
+			"alexaRank": "5,439",
+			"pageURL": "https://www.ycdb.co/company/coub"
+		},
+		{
+			"rank": "37",
+			"name": "Lever",
+			"batch": "S12",
+			"category": "Other SaaS",
+			"description": "Lever is a Talent Acquisition Suite that combines ATS + Talent CRM",
+			"alexaRank": "5,455",
+			"pageURL": "https://www.ycdb.co/company/lever"
+		},
+		{
+			"rank": "38",
+			"name": "Y Combinator",
+			"batch": "S05",
+			"category": "",
+			"description": "Not your average fixed point combinator.",
+			"alexaRank": "5,583",
+			"pageURL": "https://www.ycdb.co/company/y-combinator"
+		},
+		{
+			"rank": "39",
+			"name": "Wufoo",
+			"batch": "W06",
+			"category": "Other SaaS",
+			"description": "Online form builder.",
+			"alexaRank": "5,733",
+			"pageURL": "https://www.ycdb.co/company/wufoo"
+		},
+		{
+			"rank": "40",
+			"name": "GOAT Group",
+			"batch": "W11",
+			"category": "Consumer",
+			"description": "GOAT Group represents the leading platforms for authentic sneakers, apparel, and accessories.",
+			"alexaRank": "5,930",
+			"pageURL": "https://www.ycdb.co/company/goat-group"
+		},
+		{
+			"rank": "41",
+			"name": "Apollo.io",
+			"batch": "W16",
+			"category": "Other SaaS",
+			"description": "Apollo is the foundation of your entire go-to-market strategy.",
+			"alexaRank": "6,068",
+			"pageURL": "https://www.ycdb.co/company/apollo-io"
+		},
+		{
+			"rank": "42",
+			"name": "MatterPort",
+			"batch": "W12",
+			"category": "Entertainment",
+			"description": "Turn physical objects and environments into 3D models in seconds.",
+			"alexaRank": "6,115",
+			"pageURL": "https://www.ycdb.co/company/matterport"
+		},
+		{
+			"rank": "43",
+			"name": "Front",
+			"batch": "S14",
+			"category": "Other SaaS",
+			"description": "Collaborative Inbox for Companies",
+			"alexaRank": "6,128",
+			"pageURL": "https://www.ycdb.co/company/front"
+		},
+		{
+			"rank": "44",
+			"name": "The Athletic",
+			"batch": "S16",
+			"category": "Entertainment",
+			"description": "Subscription sports media.",
+			"alexaRank": "6,476",
+			"pageURL": "https://www.ycdb.co/company/the-athletic"
+		},
+		{
+			"rank": "45",
+			"name": "Cambly",
+			"batch": "W14",
+			"category": "Entertainment",
+			"description": "On-demand access to English tutors over video chat.",
+			"alexaRank": "6,839",
+			"pageURL": "https://www.ycdb.co/company/cambly"
+		},
+		{
+			"rank": "46",
+			"name": "Amplitude",
+			"batch": "W12",
+			"category": "Other SaaS",
+			"description": "Amplitude is the comprehensive product analytics software for web and mobile",
+			"alexaRank": "7,074",
+			"pageURL": "https://www.ycdb.co/company/amplitude"
+		},
+		{
+			"rank": "47",
+			"name": "Webflow",
+			"batch": "S13",
+			"category": "Dev Tools",
+			"description": "Professional website design and publishing platform.",
+			"alexaRank": "7,540",
+			"pageURL": "https://www.ycdb.co/company/webflow"
+		},
+		{
+			"rank": "48",
+			"name": "Bitnami",
+			"batch": "W13",
+			"category": "Other SaaS",
+			"description": "The App Store for Server Software",
+			"alexaRank": "7,716",
+			"pageURL": "https://www.ycdb.co/company/bitnami"
+		},
+		{
+			"rank": "49",
+			"name": "WorkFlowy",
+			"batch": "S10",
+			"category": "Other SaaS",
+			"description": "WorkFlowy is a better way to manage information. It provides a simple mechanism - zoomable, searchab...",
+			"alexaRank": "7,807",
+			"pageURL": "https://www.ycdb.co/company/workflowy"
+		},
+		{
+			"rank": "50",
+			"name": "Substack",
+			"batch": "W18",
+			"category": "Other SaaS",
+			"description": "A place for independent writing",
+			"alexaRank": "8,468",
+			"pageURL": "https://www.ycdb.co/company/substack"
+		},
+		{
+			"rank": "51",
+			"name": "Zeplin",
+			"batch": "S15",
+			"category": "Dev Tools",
+			"description": "Zeplin is a connected space for product teams where they can share designs, generate specs, assets a...",
+			"alexaRank": "8,826",
+			"pageURL": "https://www.ycdb.co/company/zeplin"
+		},
+		{
+			"rank": "52",
+			"name": "Chartio",
+			"batch": "S10",
+			"category": "Other SaaS",
+			"description": "Chartio is changing how companies work by building the best visualization interface to data. We make...",
+			"alexaRank": "8,837",
+			"pageURL": "https://www.ycdb.co/company/chartio"
+		},
+		{
+			"rank": "53",
+			"name": "Pushbullet",
+			"batch": "W14",
+			"category": "Consumer",
+			"description": "Push things to your other things.",
+			"alexaRank": "8,872",
+			"pageURL": "https://www.ycdb.co/company/pushbullet"
+		},
+		{
+			"rank": "54",
+			"name": "Optimizely",
+			"batch": "W10",
+			"category": "Dev Tools",
+			"description": "A/B testing.",
+			"alexaRank": "9,006",
+			"pageURL": "https://www.ycdb.co/company/optimizely"
+		},
+		{
+			"rank": "55",
+			"name": "Submittable",
+			"batch": "S12",
+			"category": "Dev Tools",
+			"description": "Submittable is the best way for organizations to create, promote, and manage their calls for submiss...",
+			"alexaRank": "9,027",
+			"pageURL": "https://www.ycdb.co/company/submittable"
+		},
+		{
+			"rank": "56",
+			"name": "Flutterwave",
+			"batch": "S16",
+			"category": "Fintech",
+			"description": "We help businesses to make and accept payments from anywhere in Africa",
+			"alexaRank": "9,239",
+			"pageURL": "https://www.ycdb.co/company/flutterwave"
+		},
+		{
+			"rank": "57",
+			"name": "Segment",
+			"batch": "S11",
+			"category": "Other SaaS",
+			"description": "Segment is the analytics infrastructure that helps collect and organize data so businesses make bett...",
+			"alexaRank": "9,622",
+			"pageURL": "https://www.ycdb.co/company/segment"
+		},
+		{
+			"rank": "58",
+			"name": "Product Hunt",
+			"batch": "S14",
+			"category": "Entertainment",
+			"description": "Hacker News for Products",
+			"alexaRank": "9,817",
+			"pageURL": "https://www.ycdb.co/company/product-hunt"
+		},
+		{
+			"rank": "59",
+			"name": "Close",
+			"batch": "W11",
+			"category": "Other SaaS",
+			"description": "Inside Sales and Sales Automation CRM for SMBs",
+			"alexaRank": "10,034",
+			"pageURL": "https://www.ycdb.co/company/close"
+		},
+		{
+			"rank": "60",
+			"name": "Zenefits",
+			"batch": "W13",
+			"category": "Other SaaS",
+			"description": "HR for small businesses: onboarding, payroll and benefits.",
+			"alexaRank": "10,093",
+			"pageURL": "https://www.ycdb.co/company/zenefits"
+		},
+		{
+			"rank": "61",
+			"name": "Prolific",
+			"batch": "S19",
+			"category": "Other SaaS",
+			"description": "Infrastructure for research on the internet.",
+			"alexaRank": "10,181",
+			"pageURL": "https://www.ycdb.co/company/prolific"
+		},
+		{
+			"rank": "62",
+			"name": "Algolia",
+			"batch": "W14",
+			"category": "Dev Tools",
+			"description": "Algolia offers a developer-friendly and enterprise-grade search API",
+			"alexaRank": "10,272",
+			"pageURL": "https://www.ycdb.co/company/algolia"
+		},
+		{
+			"rank": "63",
+			"name": "ShipBob",
+			"batch": "S14",
+			"category": "Other SaaS",
+			"description": "Providing Amazon level logistics to e-commerce businesses.",
+			"alexaRank": "10,380",
+			"pageURL": "https://www.ycdb.co/company/shipbob"
+		},
+		{
+			"rank": "64",
+			"name": "Buy Me A Coffee",
+			"batch": "W19",
+			"category": "Entertainment",
+			"description": "Helping creators monetize",
+			"alexaRank": "10,754",
+			"pageURL": "https://www.ycdb.co/company/buy-me-a-coffee"
+		},
+		{
+			"rank": "65",
+			"name": "Chatfuel",
+			"batch": "W16",
+			"category": "Dev Tools",
+			"description": "Platform to easily create chatbots to engage with audiences on messengers.",
+			"alexaRank": "10,795",
+			"pageURL": "https://www.ycdb.co/company/chatfuel"
+		},
+		{
+			"rank": "66",
+			"name": "Expo",
+			"batch": "S16",
+			"category": "Other SaaS",
+			"description": "Expo brings together the best of web (development speed, fast iteration cycles, easy deploys, and au...",
+			"alexaRank": "10,809",
+			"pageURL": "https://www.ycdb.co/company/expo"
+		},
+		{
+			"rank": "67",
+			"name": "Groww",
+			"batch": "W18",
+			"category": "Fintech",
+			"description": "Investing made simple for everyone in India",
+			"alexaRank": "11,088",
+			"pageURL": "https://www.ycdb.co/company/groww"
+		},
+		{
+			"rank": "68",
+			"name": "Thunkable",
+			"batch": "W16",
+			"category": "Other SaaS",
+			"description": "Thunkable is a drag and drop tool to build native Android and iOS Apps",
+			"alexaRank": "11,498",
+			"pageURL": "https://www.ycdb.co/company/thunkable"
+		},
+		{
+			"rank": "69",
+			"name": "PartnerStack",
+			"batch": "S15",
+			"category": "Other SaaS",
+			"description": "PartnerStack is a full stack solution for partnerships.",
+			"alexaRank": "11,663",
+			"pageURL": "https://www.ycdb.co/company/partnerstack"
+		},
+		{
+			"rank": "70",
+			"name": "RescueTime",
+			"batch": "W08",
+			"category": "Other SaaS",
+			"description": "Ridiculously Easy Time Management",
+			"alexaRank": "12,205",
+			"pageURL": "https://www.ycdb.co/company/rescuetime"
+		},
+		{
+			"rank": "71",
+			"name": "Songkick",
+			"batch": "S07",
+			"category": "Consumer",
+			"description": "Songkick is a ticketing vendor and online database of concerts for music enthusiasts.",
+			"alexaRank": "12,922",
+			"pageURL": "https://www.ycdb.co/company/songkick"
+		},
+		{
+			"rank": "72",
+			"name": "Brex",
+			"batch": "W17",
+			"category": "Fintech",
+			"description": "Brex is rebuilding B2B financial products",
+			"alexaRank": "13,191",
+			"pageURL": "https://www.ycdb.co/company/brex"
+		},
+		{
+			"rank": "73",
+			"name": "HelloSign",
+			"batch": "W11",
+			"category": "Other SaaS",
+			"description": "The #1 eSignature Software for Small and Mid-Market Businesses.",
+			"alexaRank": "13,819",
+			"pageURL": "https://www.ycdb.co/company/hellosign"
+		},
+		{
+			"rank": "74",
+			"name": "Cratejoy",
+			"batch": "S13",
+			"category": "Other SaaS",
+			"description": "Cratejoy is the platform for subscriptions",
+			"alexaRank": "14,074",
+			"pageURL": "https://www.ycdb.co/company/cratejoy"
+		},
+		{
+			"rank": "75",
+			"name": "EasyPost",
+			"batch": "S13",
+			"category": "Other SaaS",
+			"description": "Shipping API",
+			"alexaRank": "14,234",
+			"pageURL": "https://www.ycdb.co/company/easypost"
+		},
+		{
+			"rank": "76",
+			"name": "Shogun",
+			"batch": "W18",
+			"category": "Dev Tools",
+			"description": "Software for building the next generation of online stores.",
+			"alexaRank": "14,440",
+			"pageURL": "https://www.ycdb.co/company/shogun"
+		},
+		{
+			"rank": "77",
+			"name": "Vidyard",
+			"batch": "S11",
+			"category": "Other SaaS",
+			"description": "Video for business",
+			"alexaRank": "15,139",
+			"pageURL": "https://www.ycdb.co/company/vidyard"
+		},
+		{
+			"rank": "78",
+			"name": "UpLabs",
+			"batch": "W16",
+			"category": "Dev Tools",
+			"description": "UpLabs is the #1 marketplace for designers & developers to find design resources.",
+			"alexaRank": "15,203",
+			"pageURL": "https://www.ycdb.co/company/uplabs"
+		},
+		{
+			"rank": "79",
+			"name": "Mixpanel",
+			"batch": "S09",
+			"category": "Other SaaS",
+			"description": "Mixpanel is the most advanced analytics platform in the world for mobile & web.",
+			"alexaRank": "15,754",
+			"pageURL": "https://www.ycdb.co/company/mixpanel"
+		},
+		{
+			"rank": "80",
+			"name": "Mailgun",
+			"batch": "W11",
+			"category": "Dev Tools",
+			"description": "Email API service.",
+			"alexaRank": "16,085",
+			"pageURL": "https://www.ycdb.co/company/mailgun"
+		},
+		{
+			"rank": "81",
+			"name": "Chaldal",
+			"batch": "S15",
+			"category": "Consumer",
+			"description": "Chaldal.com is an online platform for grocery and delivery based in Dhaka, Bangladesh.",
+			"alexaRank": "16,420",
+			"pageURL": "https://www.ycdb.co/company/chaldal"
+		},
+		{
+			"rank": "82",
+			"name": "Podium",
+			"batch": "W16",
+			"category": "Other SaaS",
+			"description": "Podium is an interaction platform for local businesses.",
+			"alexaRank": "16,583",
+			"pageURL": "https://www.ycdb.co/company/podium"
+		},
+		{
+			"rank": "83",
+			"name": "Gusto",
+			"batch": "W12",
+			"category": "Other SaaS",
+			"description": "Gusto is a modern, online people platform that helps small businesses take care of their teams.",
+			"alexaRank": "18,125",
+			"pageURL": "https://www.ycdb.co/company/gusto"
+		},
+		{
+			"rank": "84",
+			"name": "OpenSea",
+			"batch": "W18",
+			"category": "Entertainment",
+			"description": "OpenSea is the first and largest marketplace for digital goods.",
+			"alexaRank": "18,410",
+			"pageURL": "https://www.ycdb.co/company/opensea"
+		},
+		{
+			"rank": "85",
+			"name": "Cashfree",
+			"batch": "S17",
+			"category": "Fintech",
+			"description": "Next-Gen digital payments provider for India.",
+			"alexaRank": "18,854",
+			"pageURL": "https://www.ycdb.co/company/cashfree"
+		},
+		{
+			"rank": "86",
+			"name": "Quero Education",
+			"batch": "S16",
+			"category": "Education",
+			"description": "Quero is an online marketplace for college programs in Brazil. It helps students search, compare and...",
+			"alexaRank": "19,195",
+			"pageURL": "https://www.ycdb.co/company/quero-education"
+		},
+		{
+			"rank": "87",
+			"name": "Tech in Asia",
+			"batch": "W15",
+			"category": "Entertainment",
+			"description": "Tech in Asia (YC W15) is the largest English-language technology media company that focuses on Asia.",
+			"alexaRank": "19,280",
+			"pageURL": "https://www.ycdb.co/company/tech-in-asia"
+		},
+		{
+			"rank": "88",
+			"name": "BackerKit",
+			"batch": "S12",
+			"category": "Other SaaS",
+			"description": "BackerKit is crowdfunding software that helps project creators manage their 1000 biggest fans.",
+			"alexaRank": "19,367",
+			"pageURL": "https://www.ycdb.co/company/backerkit"
+		},
+		{
+			"rank": "89",
+			"name": "Rappi",
+			"batch": "W16",
+			"category": "Consumer",
+			"description": "Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogotá and Mexi...",
+			"alexaRank": "19,729",
+			"pageURL": "https://www.ycdb.co/company/rappi"
+		},
+		{
+			"rank": "90",
+			"name": "Outschool",
+			"batch": "W16",
+			"category": "Education",
+			"description": "Marketplace of live online classes for kids",
+			"alexaRank": "19,747",
+			"pageURL": "https://www.ycdb.co/company/outschool"
+		},
+		{
+			"rank": "91",
+			"name": "Caviar",
+			"batch": "S11",
+			"category": "Consumer",
+			"description": "Uber for food.",
+			"alexaRank": "19,946",
+			"pageURL": "https://www.ycdb.co/company/caviar"
+		},
+		{
+			"rank": "92",
+			"name": "Streak",
+			"batch": "S11",
+			"category": "Other SaaS",
+			"description": "Streak transforms Gmail into a customizable CRM and process management tool. Our products service th...",
+			"alexaRank": "20,256",
+			"pageURL": "https://www.ycdb.co/company/streak"
+		},
+		{
+			"rank": "93",
+			"name": "MessageBird",
+			"batch": "S16",
+			"category": "Dev Tools",
+			"description": "MessageBird is an API for sending Text, Voice & Chat messages. We offer the most advanced messaging ...",
+			"alexaRank": "20,494",
+			"pageURL": "https://www.ycdb.co/company/messagebird"
+		},
+		{
+			"rank": "94",
+			"name": "Platzi",
+			"batch": "W15",
+			"category": "Education",
+			"description": "Effective online education of coding, marketing and design. Largest player in Latinamerica.",
+			"alexaRank": "21,121",
+			"pageURL": "https://www.ycdb.co/company/platzi"
+		},
+		{
+			"rank": "95",
+			"name": "Olark",
+			"batch": "W09",
+			"category": "Other SaaS",
+			"description": "The best live chat software on the planet.  We help you build relationships with website visitors, b...",
+			"alexaRank": "21,216",
+			"pageURL": "https://www.ycdb.co/company/olark"
+		},
+		{
+			"rank": "96",
+			"name": "StatusPage",
+			"batch": "S13",
+			"category": "Dev Tools",
+			"description": "The best way to communicate with users around downtime.",
+			"alexaRank": "21,857",
+			"pageURL": "https://www.ycdb.co/company/statuspage"
+		},
+		{
+			"rank": "97",
+			"name": "Ninite",
+			"batch": "W08",
+			"category": "Other SaaS",
+			"description": "Simple third-party app patching and deployment for Windows.",
+			"alexaRank": "22,540",
+			"pageURL": "https://www.ycdb.co/company/ninite"
+		},
+		{
+			"rank": "98",
+			"name": "Impraise",
+			"batch": "S14",
+			"category": "Other SaaS",
+			"description": "Platform to manage the performance, development and engagement of employees.",
+			"alexaRank": "23,986",
+			"pageURL": "https://www.ycdb.co/company/impraise"
+		},
+		{
+			"rank": "99",
+			"name": "Goldbelly",
+			"batch": "W13",
+			"category": "Consumer",
+			"description": "We make the most regionally famous and downright awesome foods from across the country available for...",
+			"alexaRank": "24,608",
+			"pageURL": "https://www.ycdb.co/company/goldbelly"
+		},
+		{
+			"rank": "100",
+			"name": "Apollo",
+			"batch": "S11",
+			"category": "Other SaaS",
+			"description": "We make Apollo, the leading GraphQL implementation. (We are also the team that built Meteor, the Jav...",
+			"alexaRank": "24,760",
+			"pageURL": "https://www.ycdb.co/company/apollo"
+		}
+	]
+}

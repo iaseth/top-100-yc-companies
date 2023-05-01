@@ -1,0 +1,19 @@
+{
+  "name": "top-100-yc-companies",
+  "version": "0.1.0",
+  "description": "",
+  "main": "get100.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "iaseth",
+  "homepage": "https://github.com/iaseth/top-100-yc-companies",
+  "repository": "iaseth/top-100-yc-companies",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
