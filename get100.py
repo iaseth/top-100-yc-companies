@@ -17,7 +17,11 @@ def getCompany(tr):
 	company = {}
 	company["rank"] = int(data[0])
 	company["name"] = data[1]
-	company["codeName"] = "-".join(data[1].lower().split(" "))
+
+	name = data[1].lower()
+	name_chars = list(name)
+	good_chars = [ch for ch in name_chars if ch.isalnum()]
+	company["codeName"] = "".join(good_chars)
 	company["jsonName"] = company["codeName"] + ".json"
 	company["pngName"] = company["codeName"] + ".png"
 	company["metaJsonName"] = company["codeName"] + ".meta.json"

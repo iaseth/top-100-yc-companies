@@ -1,6 +1,6 @@
 {
   "name": "top-100-yc-companies",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Colors and fonts from Top 100 YCombinator companies.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
