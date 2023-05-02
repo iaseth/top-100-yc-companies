@@ -7,6 +7,8 @@ export interface CompanyType {
 	name: string,
 	codeName: string,
 	jsonName: string,
+	pngName: string,
+	metaJsonName: string,
 	batch: string,
 	category: string,
 	description: string,
