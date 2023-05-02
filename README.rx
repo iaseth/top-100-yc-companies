@@ -3,12 +3,21 @@
 This repository contains data on the `color` and `fonts` used on the websites of Top 100 YC companies.
 
 
+
+## List of companies
+
+{{ arrayTable(parse("companies.json").companies, {"name": "Name", "batch": "Batch", "category": "Category"}) }}
+
+
+
 ## Dev dependencies
 {{ devDependencyTable() }}
 
 
+
 ## License
 {{ "LICENSE.md" | File }}
+
 
 
 {{ giveCredit() }}
