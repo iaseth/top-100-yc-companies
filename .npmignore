@@ -2,6 +2,8 @@
 cache/
 src/
 logos/
+meta/
+palettes/
 
 *.py
 Makefile
