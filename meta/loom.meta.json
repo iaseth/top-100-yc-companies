@@ -39,6 +39,13 @@
 			244
 		]
 	],
+	"hexPalette": [
+		"#546cf4",
+		"#d0d6fb",
+		"#94a4f4",
+		"#a4b4f8",
+		"#7c94f4"
+	],
 	"metaJsonPath": "meta/loom.meta.json",
 	"logoPngPath": "logos/loom.logo.png",
 	"palettePngPath": "palettes/loom.palette.png"

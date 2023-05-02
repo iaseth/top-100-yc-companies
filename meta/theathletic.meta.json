@@ -39,6 +39,13 @@
 			124
 		]
 	],
+	"hexPalette": [
+		"#040404",
+		"#e1e5df",
+		"#575755",
+		"#747474",
+		"#7c7c7c"
+	],
 	"metaJsonPath": "meta/theathletic.meta.json",
 	"logoPngPath": "logos/theathletic.logo.png",
 	"palettePngPath": "palettes/theathletic.palette.png"

@@ -39,6 +39,13 @@
 			132
 		]
 	],
+	"hexPalette": [
+		"#f46c64",
+		"#fbdedd",
+		"#f49d9a",
+		"#f4b4ac",
+		"#f48c84"
+	],
 	"metaJsonPath": "meta/mailgun.meta.json",
 	"logoPngPath": "logos/mailgun.logo.png",
 	"palettePngPath": "palettes/mailgun.palette.png"

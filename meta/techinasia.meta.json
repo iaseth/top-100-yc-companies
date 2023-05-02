@@ -39,6 +39,13 @@
 			92
 		]
 	],
+	"hexPalette": [
+		"#c41c24",
+		"#f2d0d2",
+		"#d96f74",
+		"#e48c94",
+		"#d4545c"
+	],
 	"metaJsonPath": "meta/techinasia.meta.json",
 	"logoPngPath": "logos/techinasia.logo.png",
 	"palettePngPath": "palettes/techinasia.palette.png"

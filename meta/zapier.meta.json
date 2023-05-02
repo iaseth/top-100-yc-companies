@@ -39,6 +39,13 @@
 			12
 		]
 	],
+	"hexPalette": [
+		"#fc4c04",
+		"#241414",
+		"#ff300c",
+		"#5c300c",
+		"#24340c"
+	],
 	"metaJsonPath": "meta/zapier.meta.json",
 	"logoPngPath": "logos/zapier.logo.png",
 	"palettePngPath": "palettes/zapier.palette.png"

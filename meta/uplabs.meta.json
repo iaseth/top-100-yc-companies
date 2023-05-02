@@ -39,6 +39,13 @@
 			212
 		]
 	],
+	"hexPalette": [
+		"#4842e3",
+		"#dfe0f4",
+		"#4f7cf1",
+		"#a49ce4",
+		"#8c6cd4"
+	],
 	"metaJsonPath": "meta/uplabs.meta.json",
 	"logoPngPath": "logos/uplabs.logo.png",
 	"palettePngPath": "palettes/uplabs.palette.png"

@@ -39,6 +39,13 @@
 			236
 		]
 	],
+	"hexPalette": [
+		"#2c94ec",
+		"#3094ec",
+		"#3094ec",
+		"#3094ec",
+		"#3094ec"
+	],
 	"metaJsonPath": "meta/weebly.meta.json",
 	"logoPngPath": "logos/weebly.logo.png",
 	"palettePngPath": "palettes/weebly.palette.png"

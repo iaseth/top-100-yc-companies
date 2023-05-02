@@ -39,6 +39,13 @@
 			129
 		]
 	],
+	"hexPalette": [
+		"#f9ecd5",
+		"#f69f38",
+		"#fbb884",
+		"#7bf4f4",
+		"#fa8d81"
+	],
 	"metaJsonPath": "meta/zeplin.meta.json",
 	"logoPngPath": "logos/zeplin.logo.png",
 	"palettePngPath": "palettes/zeplin.palette.png"

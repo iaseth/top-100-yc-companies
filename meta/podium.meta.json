@@ -39,6 +39,13 @@
 			52
 		]
 	],
+	"hexPalette": [
+		"#040404",
+		"#c7c7c7",
+		"#747474",
+		"#7c7c7c",
+		"#343434"
+	],
 	"metaJsonPath": "meta/podium.meta.json",
 	"logoPngPath": "logos/podium.logo.png",
 	"palettePngPath": "palettes/podium.palette.png"

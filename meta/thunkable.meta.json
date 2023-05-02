@@ -39,6 +39,13 @@
 			172
 		]
 	],
+	"hexPalette": [
+		"#ec524a",
+		"#f9e3e3",
+		"#2e285e",
+		"#d99494",
+		"#8c8cac"
+	],
 	"metaJsonPath": "meta/thunkable.meta.json",
 	"logoPngPath": "logos/thunkable.logo.png",
 	"palettePngPath": "palettes/thunkable.palette.png"

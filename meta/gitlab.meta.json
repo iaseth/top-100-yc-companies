@@ -39,6 +39,13 @@
 			44
 		]
 	],
+	"hexPalette": [
+		"#e3432b",
+		"#fca324",
+		"#fa6a24",
+		"#a3441a",
+		"#e44c2c"
+	],
 	"metaJsonPath": "meta/gitlab.meta.json",
 	"logoPngPath": "logos/gitlab.logo.png",
 	"palettePngPath": "palettes/gitlab.palette.png"

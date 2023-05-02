@@ -39,6 +39,13 @@
 			88
 		]
 	],
+	"hexPalette": [
+		"#f9f1ea",
+		"#f96b34",
+		"#eb9c7a",
+		"#ecb494",
+		"#ee8458"
+	],
 	"metaJsonPath": "meta/caviar.meta.json",
 	"logoPngPath": "logos/caviar.logo.png",
 	"palettePngPath": "palettes/caviar.palette.png"

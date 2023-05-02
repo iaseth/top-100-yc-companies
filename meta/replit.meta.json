@@ -39,6 +39,13 @@
 			28
 		]
 	],
+	"hexPalette": [
+		"#f26407",
+		"#0c1423",
+		"#63311c",
+		"#111c24",
+		"#8e441c"
+	],
 	"metaJsonPath": "meta/replit.meta.json",
 	"logoPngPath": "logos/replit.logo.png",
 	"palettePngPath": "palettes/replit.palette.png"

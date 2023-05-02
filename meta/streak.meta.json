@@ -39,6 +39,13 @@
 			188
 		]
 	],
+	"hexPalette": [
+		"#f3713b",
+		"#fbf9f8",
+		"#f4a440",
+		"#fcc4bc",
+		"#f4d0bc"
+	],
 	"metaJsonPath": "meta/streak.meta.json",
 	"logoPngPath": "logos/streak.logo.png",
 	"palettePngPath": "palettes/streak.palette.png"

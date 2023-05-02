@@ -39,6 +39,13 @@
 			132
 		]
 	],
+	"hexPalette": [
+		"#f3f3f3",
+		"#732f3e",
+		"#b3989b",
+		"#848484",
+		"#8c8484"
+	],
 	"metaJsonPath": "meta/matterport.meta.json",
 	"logoPngPath": "logos/matterport.logo.png",
 	"palettePngPath": "palettes/matterport.palette.png"

@@ -39,6 +39,13 @@
 			148
 		]
 	],
+	"hexPalette": [
+		"#54bc94",
+		"#58bc94",
+		"#58bc94",
+		"#58bc94",
+		"#58bc94"
+	],
 	"metaJsonPath": "meta/segment.meta.json",
 	"logoPngPath": "logos/segment.logo.png",
 	"palettePngPath": "palettes/segment.palette.png"

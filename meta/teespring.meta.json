@@ -39,6 +39,13 @@
 			116
 		]
 	],
+	"hexPalette": [
+		"#040404",
+		"#c4c4c4",
+		"#6c6c6c",
+		"#555555",
+		"#747474"
+	],
 	"metaJsonPath": "meta/teespring.meta.json",
 	"logoPngPath": "logos/teespring.logo.png",
 	"palettePngPath": "palettes/teespring.palette.png"

@@ -39,6 +39,13 @@
 			148
 		]
 	],
+	"hexPalette": [
+		"#2c3564",
+		"#ee8a4d",
+		"#0a944a",
+		"#7e5a46",
+		"#646c94"
+	],
 	"metaJsonPath": "meta/flutterwave.meta.json",
 	"logoPngPath": "logos/flutterwave.logo.png",
 	"palettePngPath": "palettes/flutterwave.palette.png"

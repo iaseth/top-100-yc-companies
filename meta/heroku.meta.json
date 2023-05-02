@@ -39,6 +39,13 @@
 			144
 		]
 	],
+	"hexPalette": [
+		"#44049b",
+		"#24044c",
+		"#340474",
+		"#480490",
+		"#480490"
+	],
 	"metaJsonPath": "meta/heroku.meta.json",
 	"logoPngPath": "logos/heroku.logo.png",
 	"palettePngPath": "palettes/heroku.palette.png"

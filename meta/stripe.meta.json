@@ -39,6 +39,13 @@
 			244
 		]
 	],
+	"hexPalette": [
+		"#645cfb",
+		"#e7e6f6",
+		"#a4a4e8",
+		"#867eec",
+		"#9494f4"
+	],
 	"metaJsonPath": "meta/stripe.meta.json",
 	"logoPngPath": "logos/stripe.logo.png",
 	"palettePngPath": "palettes/stripe.palette.png"

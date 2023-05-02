@@ -39,6 +39,13 @@
 			233
 		]
 	],
+	"hexPalette": [
+		"#e7f4f8",
+		"#048bfb",
+		"#6bb9ea",
+		"#349cf0",
+		"#3194e9"
+	],
 	"metaJsonPath": "meta/messagebird.meta.json",
 	"logoPngPath": "logos/messagebird.logo.png",
 	"palettePngPath": "palettes/messagebird.palette.png"

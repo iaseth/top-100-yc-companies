@@ -39,6 +39,13 @@
 			68
 		]
 	],
+	"hexPalette": [
+		"#f35b4b",
+		"#f9f4f0",
+		"#ec9d90",
+		"#fcac9c",
+		"#ec6c44"
+	],
 	"metaJsonPath": "meta/gusto.meta.json",
 	"logoPngPath": "logos/gusto.logo.png",
 	"palettePngPath": "palettes/gusto.palette.png"

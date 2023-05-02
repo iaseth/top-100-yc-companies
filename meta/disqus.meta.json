@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#2c9cfc",
+		"#cae6fc",
+		"#7ac4fc",
+		"#54b4fc",
+		"#50acfc"
+	],
 	"metaJsonPath": "meta/disqus.meta.json",
 	"logoPngPath": "logos/disqus.logo.png",
 	"palettePngPath": "palettes/disqus.palette.png"

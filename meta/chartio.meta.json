@@ -39,6 +39,13 @@
 			194
 		]
 	],
+	"hexPalette": [
+		"#f4f3eb",
+		"#f9d365",
+		"#4881b6",
+		"#9785a5",
+		"#b1b1c2"
+	],
 	"metaJsonPath": "meta/chartio.meta.json",
 	"logoPngPath": "logos/chartio.logo.png",
 	"palettePngPath": "palettes/chartio.palette.png"

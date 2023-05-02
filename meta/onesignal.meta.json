@@ -39,6 +39,13 @@
 			124
 		]
 	],
+	"hexPalette": [
+		"#e34c4c",
+		"#f7eae9",
+		"#e59696",
+		"#e8a4ac",
+		"#e0747c"
+	],
 	"metaJsonPath": "meta/onesignal.meta.json",
 	"logoPngPath": "logos/onesignal.logo.png",
 	"palettePngPath": "palettes/onesignal.palette.png"

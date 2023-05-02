@@ -39,6 +39,13 @@
 			164
 		]
 	],
+	"hexPalette": [
+		"#34445c",
+		"#cbd0d5",
+		"#788494",
+		"#949ca4",
+		"#8c94a4"
+	],
 	"metaJsonPath": "meta/cleartax.meta.json",
 	"logoPngPath": "logos/cleartax.logo.png",
 	"palettePngPath": "palettes/cleartax.palette.png"

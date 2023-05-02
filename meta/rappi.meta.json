@@ -39,6 +39,13 @@
 			84
 		]
 	],
+	"hexPalette": [
+		"#fc6454",
+		"#ff6454",
+		"#ff6454",
+		"#ff6454",
+		"#ff6454"
+	],
 	"metaJsonPath": "meta/rappi.meta.json",
 	"logoPngPath": "logos/rappi.logo.png",
 	"palettePngPath": "palettes/rappi.palette.png"

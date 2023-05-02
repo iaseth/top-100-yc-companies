@@ -39,6 +39,13 @@
 			80
 		]
 	],
+	"hexPalette": [
+		"#0c0c14",
+		"#cccdcd",
+		"#848484",
+		"#6c7474",
+		"#4c4c50"
+	],
 	"metaJsonPath": "meta/expo.meta.json",
 	"logoPngPath": "logos/expo.logo.png",
 	"palettePngPath": "palettes/expo.palette.png"

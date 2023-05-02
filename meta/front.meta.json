@@ -39,6 +39,13 @@
 			140
 		]
 	],
+	"hexPalette": [
+		"#0b1b3c",
+		"#de1d64",
+		"#e0dce5",
+		"#647484",
+		"#747c8c"
+	],
 	"metaJsonPath": "meta/front.meta.json",
 	"logoPngPath": "logos/front.logo.png",
 	"palettePngPath": "palettes/front.palette.png"

@@ -39,6 +39,13 @@
 			54
 		]
 	],
+	"hexPalette": [
+		"#db3b27",
+		"#353433",
+		"#fbc92c",
+		"#f9d1c9",
+		"#9e8636"
+	],
 	"metaJsonPath": "meta/cambly.meta.json",
 	"logoPngPath": "logos/cambly.logo.png",
 	"palettePngPath": "palettes/cambly.palette.png"

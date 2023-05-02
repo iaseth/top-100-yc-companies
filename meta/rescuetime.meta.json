@@ -39,6 +39,13 @@
 			144
 		]
 	],
+	"hexPalette": [
+		"#e1e1e6",
+		"#d2242c",
+		"#2a2525",
+		"#9c7c7c",
+		"#8a8e90"
+	],
 	"metaJsonPath": "meta/rescuetime.meta.json",
 	"logoPngPath": "logos/rescuetime.logo.png",
 	"palettePngPath": "palettes/rescuetime.palette.png"

@@ -39,6 +39,13 @@
 			140
 		]
 	],
+	"hexPalette": [
+		"#1c242c",
+		"#cecfd1",
+		"#6e7177",
+		"#868c8e",
+		"#80848c"
+	],
 	"metaJsonPath": "meta/shogun.meta.json",
 	"logoPngPath": "logos/shogun.logo.png",
 	"palettePngPath": "palettes/shogun.palette.png"

@@ -39,6 +39,13 @@
 			180
 		]
 	],
+	"hexPalette": [
+		"#344dfa",
+		"#efe7e4",
+		"#7e92e5",
+		"#94ace4",
+		"#8c74b4"
+	],
 	"metaJsonPath": "meta/queroeducation.meta.json",
 	"logoPngPath": "logos/queroeducation.logo.png",
 	"palettePngPath": "palettes/queroeducation.palette.png"

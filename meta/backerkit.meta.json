@@ -39,6 +39,13 @@
 			76
 		]
 	],
+	"hexPalette": [
+		"#383734",
+		"#fbcb53",
+		"#a98c46",
+		"#c6a14c",
+		"#bc984c"
+	],
 	"metaJsonPath": "meta/backerkit.meta.json",
 	"logoPngPath": "logos/backerkit.logo.png",
 	"palettePngPath": "palettes/backerkit.palette.png"

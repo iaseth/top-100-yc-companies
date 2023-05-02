@@ -39,6 +39,13 @@
 			84
 		]
 	],
+	"hexPalette": [
+		"#2484e4",
+		"#cce2f9",
+		"#398ee4",
+		"#04141c",
+		"#444c54"
+	],
 	"metaJsonPath": "meta/opensea.meta.json",
 	"logoPngPath": "logos/opensea.logo.png",
 	"palettePngPath": "palettes/opensea.palette.png"

@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#d6e0fc",
+		"#4474f4",
+		"#9cbcfc",
+		"#84a4fc",
+		"#6c94fc"
+	],
 	"metaJsonPath": "meta/clever.meta.json",
 	"logoPngPath": "logos/clever.logo.png",
 	"palettePngPath": "palettes/clever.palette.png"

@@ -39,6 +39,13 @@
 			100
 		]
 	],
+	"hexPalette": [
+		"#d4e0e4",
+		"#3a90ba",
+		"#222323",
+		"#94c8e0",
+		"#646464"
+	],
 	"metaJsonPath": "meta/smartasset.meta.json",
 	"logoPngPath": "logos/smartasset.logo.png",
 	"palettePngPath": "palettes/smartasset.palette.png"

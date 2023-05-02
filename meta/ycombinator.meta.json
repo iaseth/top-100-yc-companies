@@ -39,6 +39,13 @@
 			60
 		]
 	],
+	"hexPalette": [
+		"#fc641c",
+		"#fcdecf",
+		"#fc9564",
+		"#fcac84",
+		"#fc7c3c"
+	],
 	"metaJsonPath": "meta/ycombinator.meta.json",
 	"logoPngPath": "logos/ycombinator.logo.png",
 	"palettePngPath": "palettes/ycombinator.palette.png"

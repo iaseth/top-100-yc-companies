@@ -39,6 +39,13 @@
 			156
 		]
 	],
+	"hexPalette": [
+		"#172645",
+		"#bb3d35",
+		"#d7dbdd",
+		"#84949c",
+		"#84889c"
+	],
 	"metaJsonPath": "meta/ourworldindata.meta.json",
 	"logoPngPath": "logos/ourworldindata.logo.png",
 	"palettePngPath": "palettes/ourworldindata.palette.png"

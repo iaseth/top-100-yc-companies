@@ -39,6 +39,13 @@
 			164
 		]
 	],
+	"hexPalette": [
+		"#c8e0e3",
+		"#25848c",
+		"#74b4ba",
+		"#6cacb4",
+		"#549ca4"
+	],
 	"metaJsonPath": "meta/scribd.meta.json",
 	"logoPngPath": "logos/scribd.logo.png",
 	"palettePngPath": "palettes/scribd.palette.png"

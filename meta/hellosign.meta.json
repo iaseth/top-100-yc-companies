@@ -39,6 +39,13 @@
 			196
 		]
 	],
+	"hexPalette": [
+		"#0463fb",
+		"#1b1b1c",
+		"#103c8c",
+		"#1c2c4c",
+		"#0c4cc4"
+	],
 	"metaJsonPath": "meta/hellosign.meta.json",
 	"logoPngPath": "logos/hellosign.logo.png",
 	"palettePngPath": "palettes/hellosign.palette.png"

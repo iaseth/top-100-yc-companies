@@ -39,6 +39,13 @@
 			236
 		]
 	],
+	"hexPalette": [
+		"#1b34fb",
+		"#eceff7",
+		"#6e7de4",
+		"#4154e1",
+		"#8c9cec"
+	],
 	"metaJsonPath": "meta/coub.meta.json",
 	"logoPngPath": "logos/coub.logo.png",
 	"palettePngPath": "palettes/coub.palette.png"

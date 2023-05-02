@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#fc8414",
+		"#3ce484",
+		"#0434fc",
+		"#04cbfc",
+		"#841cfc"
+	],
 	"metaJsonPath": "meta/optimizely.meta.json",
 	"logoPngPath": "logos/optimizely.logo.png",
 	"palettePngPath": "palettes/optimizely.palette.png"

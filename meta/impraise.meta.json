@@ -39,6 +39,13 @@
 			60
 		]
 	],
+	"hexPalette": [
+		"#fb7012",
+		"#faeee1",
+		"#fbaa73",
+		"#f0b480",
+		"#f48c3c"
+	],
 	"metaJsonPath": "meta/impraise.meta.json",
 	"logoPngPath": "logos/impraise.logo.png",
 	"palettePngPath": "palettes/impraise.palette.png"

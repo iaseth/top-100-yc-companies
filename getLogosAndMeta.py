@@ -11,6 +11,12 @@ import numpy
 
 COMPANIES_JSON_PATH = "src/companies.json"
 
+def clamp(x):
+	return max(0, min(x, 255))
+
+def rgb_to_hex(rgb):
+	return "#{0:02x}{1:02x}{2:02x}".format(clamp(rgb[0]), clamp(rgb[1]), clamp(rgb[2]))
+
 
 def file_save_log(filepath):
 	size = os.path.getsize(filepath)
@@ -52,6 +58,7 @@ def downloadMeta(soup, logoPath, company):
 	a = soup.find("a", class_="btn btn-primary btn-block mt-4")
 	jo["website"] = a["href"]
 	jo["palette"] = palette
+	jo["hexPalette"] = [rgb_to_hex(rgb) for rgb in palette]
 	jo["metaJsonPath"] = metaJsonPath
 	jo["logoPngPath"] = logoPath
 	jo["palettePngPath"] = palette_png_path

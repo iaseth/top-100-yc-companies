@@ -39,6 +39,13 @@
 			36
 		]
 	],
+	"hexPalette": [
+		"#db542c",
+		"#f4ccc0",
+		"#dc5c3c",
+		"#82321a",
+		"#af4524"
+	],
 	"metaJsonPath": "meta/producthunt.meta.json",
 	"logoPngPath": "logos/producthunt.logo.png",
 	"palettePngPath": "palettes/producthunt.palette.png"

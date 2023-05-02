@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#144cfc",
+		"#d0dbfc",
+		"#668cfc",
+		"#84a4fc",
+		"#4c7cfc"
+	],
 	"metaJsonPath": "meta/easypost.meta.json",
 	"logoPngPath": "logos/easypost.logo.png",
 	"palettePngPath": "palettes/easypost.palette.png"

@@ -39,6 +39,13 @@
 			204
 		]
 	],
+	"hexPalette": [
+		"#dcdcdc",
+		"#acacac",
+		"#efefef",
+		"#d4d4d4",
+		"#cccccc"
+	],
 	"metaJsonPath": "meta/lever.meta.json",
 	"logoPngPath": "logos/lever.logo.png",
 	"palettePngPath": "palettes/lever.palette.png"

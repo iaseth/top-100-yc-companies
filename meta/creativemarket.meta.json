@@ -39,6 +39,13 @@
 			180
 		]
 	],
+	"hexPalette": [
+		"#3bb3ac",
+		"#e4f4f4",
+		"#8ed6ce",
+		"#6cc4bc",
+		"#2cbcb4"
+	],
 	"metaJsonPath": "meta/creativemarket.meta.json",
 	"logoPngPath": "logos/creativemarket.logo.png",
 	"palettePngPath": "palettes/creativemarket.palette.png"

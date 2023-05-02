@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#4454fc",
+		"#cfd4fc",
+		"#8a94fc",
+		"#94a4fc",
+		"#6c7cfc"
+	],
 	"metaJsonPath": "meta/webflow.meta.json",
 	"logoPngPath": "logos/webflow.logo.png",
 	"palettePngPath": "palettes/webflow.palette.png"

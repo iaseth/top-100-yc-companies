@@ -39,6 +39,13 @@
 			56
 		]
 	],
+	"hexPalette": [
+		"#fb4404",
+		"#f9f2ec",
+		"#f0885e",
+		"#f4a47c",
+		"#ec6c38"
+	],
 	"metaJsonPath": "meta/reddit.meta.json",
 	"logoPngPath": "logos/reddit.logo.png",
 	"palettePngPath": "palettes/reddit.palette.png"

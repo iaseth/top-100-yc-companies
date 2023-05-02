@@ -39,6 +39,13 @@
 			224
 		]
 	],
+	"hexPalette": [
+		"#1c63f3",
+		"#f1f6f8",
+		"#6994e2",
+		"#89acec",
+		"#4c84e0"
+	],
 	"metaJsonPath": "meta/amplitude.meta.json",
 	"logoPngPath": "logos/amplitude.logo.png",
 	"palettePngPath": "palettes/amplitude.palette.png"

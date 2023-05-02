@@ -39,6 +39,13 @@
 			212
 		]
 	],
+	"hexPalette": [
+		"#0696d7",
+		"#e9f6f7",
+		"#6ecdf4",
+		"#58b4d7",
+		"#84bcd4"
+	],
 	"metaJsonPath": "meta/prolific.meta.json",
 	"logoPngPath": "logos/prolific.logo.png",
 	"palettePngPath": "palettes/prolific.palette.png"

@@ -39,6 +39,13 @@
 			132
 		]
 	],
+	"hexPalette": [
+		"#e46563",
+		"#f8edeb",
+		"#e49997",
+		"#ecb4ac",
+		"#ec8c84"
+	],
 	"metaJsonPath": "meta/wufoo.meta.json",
 	"logoPngPath": "logos/wufoo.logo.png",
 	"palettePngPath": "palettes/wufoo.palette.png"

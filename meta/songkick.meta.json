@@ -39,6 +39,13 @@
 			164
 		]
 	],
+	"hexPalette": [
+		"#f9f4f6",
+		"#f90544",
+		"#ee4e7b",
+		"#ec84a4",
+		"#f47ca4"
+	],
 	"metaJsonPath": "meta/songkick.meta.json",
 	"logoPngPath": "logos/songkick.logo.png",
 	"palettePngPath": "palettes/songkick.palette.png"

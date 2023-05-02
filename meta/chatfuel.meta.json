@@ -39,6 +39,13 @@
 			246
 		]
 	],
+	"hexPalette": [
+		"#048bf3",
+		"#ceecfc",
+		"#5fbbfc",
+		"#7cccfc",
+		"#34acf6"
+	],
 	"metaJsonPath": "meta/chatfuel.meta.json",
 	"logoPngPath": "logos/chatfuel.logo.png",
 	"palettePngPath": "palettes/chatfuel.palette.png"

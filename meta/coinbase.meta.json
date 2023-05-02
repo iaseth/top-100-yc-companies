@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#0454fc",
+		"#c4d8fc",
+		"#598ffc",
+		"#7ca4fc",
+		"#3c7cfc"
+	],
 	"metaJsonPath": "meta/coinbase.meta.json",
 	"logoPngPath": "logos/coinbase.logo.png",
 	"palettePngPath": "palettes/coinbase.palette.png"

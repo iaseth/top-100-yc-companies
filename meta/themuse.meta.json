@@ -39,6 +39,13 @@
 			140
 		]
 	],
+	"hexPalette": [
+		"#71c1d8",
+		"#d6e2e5",
+		"#373737",
+		"#747474",
+		"#8c8c8c"
+	],
 	"metaJsonPath": "meta/themuse.meta.json",
 	"logoPngPath": "logos/themuse.logo.png",
 	"palettePngPath": "palettes/themuse.palette.png"

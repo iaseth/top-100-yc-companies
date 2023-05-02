@@ -39,6 +39,13 @@
 			212
 		]
 	],
+	"hexPalette": [
+		"#0454cc",
+		"#c4d7f4",
+		"#7aa4e4",
+		"#6494e1",
+		"#3c7cd4"
+	],
 	"metaJsonPath": "meta/statuspage.meta.json",
 	"logoPngPath": "logos/statuspage.logo.png",
 	"palettePngPath": "palettes/statuspage.palette.png"

@@ -39,6 +39,13 @@
 			76
 		]
 	],
+	"hexPalette": [
+		"#0a0a06",
+		"#fbfb63",
+		"#a6a640",
+		"#848434",
+		"#c4c44c"
+	],
 	"metaJsonPath": "meta/genius.meta.json",
 	"logoPngPath": "logos/genius.logo.png",
 	"palettePngPath": "palettes/genius.palette.png"

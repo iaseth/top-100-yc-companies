@@ -39,6 +39,13 @@
 			119
 		]
 	],
+	"hexPalette": [
+		"#c59023",
+		"#78a6d0",
+		"#f4f1e8",
+		"#6a4aad",
+		"#79b777"
+	],
 	"metaJsonPath": "meta/olark.meta.json",
 	"logoPngPath": "logos/olark.logo.png",
 	"palettePngPath": "palettes/olark.palette.png"

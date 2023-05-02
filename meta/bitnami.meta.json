@@ -39,6 +39,13 @@
 			156
 		]
 	],
+	"hexPalette": [
+		"#dbdede",
+		"#163c5a",
+		"#74797c",
+		"#8ea6b2",
+		"#6a859c"
+	],
 	"metaJsonPath": "meta/bitnami.meta.json",
 	"logoPngPath": "logos/bitnami.logo.png",
 	"palettePngPath": "palettes/bitnami.palette.png"

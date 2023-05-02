@@ -39,6 +39,13 @@
 			132
 		]
 	],
+	"hexPalette": [
+		"#fb3b5c",
+		"#f7eef1",
+		"#f28097",
+		"#f098ac",
+		"#f06c84"
+	],
 	"metaJsonPath": "meta/airbnb.meta.json",
 	"logoPngPath": "logos/airbnb.logo.png",
 	"palettePngPath": "palettes/airbnb.palette.png"

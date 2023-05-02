@@ -39,6 +39,13 @@
 			134
 		]
 	],
+	"hexPalette": [
+		"#fbcc6b",
+		"#fbf9f0",
+		"#f7dfa4",
+		"#f4dc88",
+		"#f6d186"
+	],
 	"metaJsonPath": "meta/chaldal.meta.json",
 	"logoPngPath": "logos/chaldal.logo.png",
 	"palettePngPath": "palettes/chaldal.palette.png"

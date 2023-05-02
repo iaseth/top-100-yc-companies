@@ -39,6 +39,13 @@
 			100
 		]
 	],
+	"hexPalette": [
+		"#13142c",
+		"#f0e7dd",
+		"#645c6c",
+		"#746c7c",
+		"#545464"
+	],
 	"metaJsonPath": "meta/codecademy.meta.json",
 	"logoPngPath": "logos/codecademy.logo.png",
 	"palettePngPath": "palettes/codecademy.palette.png"

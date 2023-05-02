@@ -39,6 +39,13 @@
 			116
 		]
 	],
+	"hexPalette": [
+		"#f6e9e3",
+		"#fa2d0c",
+		"#e63c19",
+		"#dca47c",
+		"#dc8474"
+	],
 	"metaJsonPath": "meta/doordash.meta.json",
 	"logoPngPath": "logos/doordash.logo.png",
 	"palettePngPath": "palettes/doordash.palette.png"

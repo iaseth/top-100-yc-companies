@@ -39,6 +39,13 @@
 			216
 		]
 	],
+	"hexPalette": [
+		"#4f78eb",
+		"#e2e5e6",
+		"#97cffb",
+		"#6dacf6",
+		"#98aed8"
+	],
 	"metaJsonPath": "meta/ninite.meta.json",
 	"logoPngPath": "logos/ninite.logo.png",
 	"palettePngPath": "palettes/ninite.palette.png"

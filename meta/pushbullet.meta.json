@@ -39,6 +39,13 @@
 			152
 		]
 	],
+	"hexPalette": [
+		"#54b571",
+		"#e0f3e8",
+		"#a8dcb4",
+		"#95d2a4",
+		"#80cc98"
+	],
 	"metaJsonPath": "meta/pushbullet.meta.json",
 	"logoPngPath": "logos/pushbullet.logo.png",
 	"palettePngPath": "palettes/pushbullet.palette.png"

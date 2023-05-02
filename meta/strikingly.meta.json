@@ -39,6 +39,13 @@
 			170
 		]
 	],
+	"hexPalette": [
+		"#6c4c94",
+		"#e7e3ec",
+		"#a494ba",
+		"#9785b4",
+		"#907eaa"
+	],
 	"metaJsonPath": "meta/strikingly.meta.json",
 	"logoPngPath": "logos/strikingly.logo.png",
 	"palettePngPath": "palettes/strikingly.palette.png"

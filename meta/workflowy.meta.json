@@ -39,6 +39,13 @@
 			212
 		]
 	],
+	"hexPalette": [
+		"#548cac",
+		"#a2bbd3",
+		"#e6eef3",
+		"#7ca4c4",
+		"#9cc4d4"
+	],
 	"metaJsonPath": "meta/workflowy.meta.json",
 	"logoPngPath": "logos/workflowy.logo.png",
 	"palettePngPath": "palettes/workflowy.palette.png"

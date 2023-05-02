@@ -39,6 +39,13 @@
 			208
 		]
 	],
+	"hexPalette": [
+		"#0474cc",
+		"#fc5443",
+		"#fc5c4c",
+		"#c44434",
+		"#3c5cd0"
+	],
 	"metaJsonPath": "meta/zenefits.meta.json",
 	"logoPngPath": "logos/zenefits.logo.png",
 	"palettePngPath": "palettes/zenefits.palette.png"

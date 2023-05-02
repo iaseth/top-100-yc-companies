@@ -39,6 +39,13 @@
 			44
 		]
 	],
+	"hexPalette": [
+		"#1c054c",
+		"#f1ab1c",
+		"#06ab63",
+		"#3c2464",
+		"#2e0e2c"
+	],
 	"metaJsonPath": "meta/cashfree.meta.json",
 	"logoPngPath": "logos/cashfree.logo.png",
 	"palettePngPath": "palettes/cashfree.palette.png"

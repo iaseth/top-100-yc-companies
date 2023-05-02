@@ -39,6 +39,13 @@
 			196
 		]
 	],
+	"hexPalette": [
+		"#341c84",
+		"#d4cfe5",
+		"#7e72b3",
+		"#9c8cc4",
+		"#9484c4"
+	],
 	"metaJsonPath": "meta/apollo.meta.json",
 	"logoPngPath": "logos/apollo.logo.png",
 	"palettePngPath": "palettes/apollo.palette.png"

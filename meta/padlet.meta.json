@@ -39,6 +39,13 @@
 			116
 		]
 	],
+	"hexPalette": [
+		"#a4cb3c",
+		"#5f575c",
+		"#e9058b",
+		"#78864e",
+		"#ac2474"
+	],
 	"metaJsonPath": "meta/padlet.meta.json",
 	"logoPngPath": "logos/padlet.logo.png",
 	"palettePngPath": "palettes/padlet.palette.png"

@@ -39,6 +39,13 @@
 			236
 		]
 	],
+	"hexPalette": [
+		"#7454fb",
+		"#e5def7",
+		"#9c84ec",
+		"#8c74e4",
+		"#846cec"
+	],
 	"metaJsonPath": "meta/mixpanel.meta.json",
 	"logoPngPath": "logos/mixpanel.logo.png",
 	"palettePngPath": "palettes/mixpanel.palette.png"

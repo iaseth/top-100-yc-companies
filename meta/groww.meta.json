@@ -39,6 +39,13 @@
 			148
 		]
 	],
+	"hexPalette": [
+		"#5266f7",
+		"#050a0c",
+		"#06dfad",
+		"#1fb88c",
+		"#343494"
+	],
 	"metaJsonPath": "meta/groww.meta.json",
 	"logoPngPath": "logos/groww.logo.png",
 	"palettePngPath": "palettes/groww.palette.png"

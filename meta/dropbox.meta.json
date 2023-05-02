@@ -39,6 +39,13 @@
 			252
 		]
 	],
+	"hexPalette": [
+		"#f1f2f4",
+		"#0464fc",
+		"#6099fc",
+		"#7aacfc",
+		"#3c84fc"
+	],
 	"metaJsonPath": "meta/dropbox.meta.json",
 	"logoPngPath": "logos/dropbox.logo.png",
 	"palettePngPath": "palettes/dropbox.palette.png"

@@ -39,6 +39,13 @@
 			92
 		]
 	],
+	"hexPalette": [
+		"#04a1d8",
+		"#041c33",
+		"#05547c",
+		"#046485",
+		"#0c3c5c"
+	],
 	"metaJsonPath": "meta/paystack.meta.json",
 	"logoPngPath": "logos/paystack.logo.png",
 	"palettePngPath": "palettes/paystack.palette.png"

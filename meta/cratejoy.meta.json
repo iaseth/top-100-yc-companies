@@ -39,6 +39,13 @@
 			204
 		]
 	],
+	"hexPalette": [
+		"#e9f5f6",
+		"#3cbcc3",
+		"#8ad4d7",
+		"#3abdcc",
+		"#6acccc"
+	],
 	"metaJsonPath": "meta/cratejoy.meta.json",
 	"logoPngPath": "logos/cratejoy.logo.png",
 	"palettePngPath": "palettes/cratejoy.palette.png"

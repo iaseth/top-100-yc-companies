@@ -39,6 +39,13 @@
 			225
 		]
 	],
+	"hexPalette": [
+		"#548cd4",
+		"#d3e3f5",
+		"#8cb4e4",
+		"#84ace4",
+		"#76a9e1"
+	],
 	"metaJsonPath": "meta/fontawesome.meta.json",
 	"logoPngPath": "logos/fontawesome.logo.png",
 	"palettePngPath": "palettes/fontawesome.palette.png"

@@ -39,6 +39,13 @@
 			20
 		]
 	],
+	"hexPalette": [
+		"#fadb04",
+		"#0c0c23",
+		"#9c8404",
+		"#080414",
+		"#447814"
+	],
 	"metaJsonPath": "meta/buymeacoffee.meta.json",
 	"logoPngPath": "logos/buymeacoffee.logo.png",
 	"palettePngPath": "palettes/buymeacoffee.palette.png"

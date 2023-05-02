@@ -39,6 +39,13 @@
 			68
 		]
 	],
+	"hexPalette": [
+		"#fbcc44",
+		"#080706",
+		"#9f8438",
+		"#806430",
+		"#bc9c44"
+	],
 	"metaJsonPath": "meta/apolloio.meta.json",
 	"logoPngPath": "logos/apolloio.logo.png",
 	"palettePngPath": "palettes/apolloio.palette.png"

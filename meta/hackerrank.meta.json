@@ -39,6 +39,13 @@
 			76
 		]
 	],
+	"hexPalette": [
+		"#0c141c",
+		"#04e562",
+		"#707078",
+		"#0c7a3c",
+		"#44444c"
+	],
 	"metaJsonPath": "meta/hackerrank.meta.json",
 	"logoPngPath": "logos/hackerrank.logo.png",
 	"palettePngPath": "palettes/hackerrank.palette.png"

@@ -39,6 +39,13 @@
 			192
 		]
 	],
+	"hexPalette": [
+		"#e4f4f5",
+		"#1093d0",
+		"#69adc7",
+		"#90c4d7",
+		"#429cc0"
+	],
 	"metaJsonPath": "meta/docker.meta.json",
 	"logoPngPath": "logos/docker.logo.png",
 	"palettePngPath": "palettes/docker.palette.png"

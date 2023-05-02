@@ -39,6 +39,13 @@
 			52
 		]
 	],
+	"hexPalette": [
+		"#fc5c34",
+		"#ff5c34",
+		"#ff5c34",
+		"#ff5c34",
+		"#ff5c34"
+	],
 	"metaJsonPath": "meta/submittable.meta.json",
 	"logoPngPath": "logos/submittable.logo.png",
 	"palettePngPath": "palettes/submittable.palette.png"

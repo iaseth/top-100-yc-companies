@@ -39,6 +39,13 @@
 			142
 		]
 	],
+	"hexPalette": [
+		"#f1b464",
+		"#45b27c",
+		"#5baccc",
+		"#2c547c",
+		"#96ac8e"
+	],
 	"metaJsonPath": "meta/close.meta.json",
 	"logoPngPath": "logos/close.logo.png",
 	"palettePngPath": "palettes/close.palette.png"

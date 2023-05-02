@@ -39,6 +39,13 @@
 			108
 		]
 	],
+	"hexPalette": [
+		"#070707",
+		"#b5b5b5",
+		"#565656",
+		"#747474",
+		"#6c6c6c"
+	],
 	"metaJsonPath": "meta/9gag.meta.json",
 	"logoPngPath": "logos/9gag.logo.png",
 	"palettePngPath": "palettes/9gag.palette.png"

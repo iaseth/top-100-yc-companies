@@ -39,6 +39,13 @@
 			220
 		]
 	],
+	"hexPalette": [
+		"#4c04d4",
+		"#d3c2f4",
+		"#9469e4",
+		"#804ae0",
+		"#6c2cdc"
+	],
 	"metaJsonPath": "meta/outschool.meta.json",
 	"logoPngPath": "logos/outschool.logo.png",
 	"palettePngPath": "palettes/outschool.palette.png"

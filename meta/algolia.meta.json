@@ -39,6 +39,13 @@
 			256
 		]
 	],
+	"hexPalette": [
+		"#043cfc",
+		"#042cc4",
+		"#0438ff",
+		"#0438ff",
+		"#0438ff"
+	],
 	"metaJsonPath": "meta/algolia.meta.json",
 	"logoPngPath": "logos/algolia.logo.png",
 	"palettePngPath": "palettes/algolia.palette.png"

@@ -39,6 +39,13 @@
 			236
 		]
 	],
+	"hexPalette": [
+		"#eaf3f4",
+		"#3995f7",
+		"#062553",
+		"#667689",
+		"#94c4ec"
+	],
 	"metaJsonPath": "meta/razorpay.meta.json",
 	"logoPngPath": "logos/razorpay.logo.png",
 	"palettePngPath": "palettes/razorpay.palette.png"

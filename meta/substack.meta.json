@@ -39,6 +39,13 @@
 			24
 		]
 	],
+	"hexPalette": [
+		"#fc641c",
+		"#f4641c",
+		"#a44414",
+		"#fc6c1c",
+		"#fc6818"
+	],
 	"metaJsonPath": "meta/substack.meta.json",
 	"logoPngPath": "logos/substack.logo.png",
 	"palettePngPath": "palettes/substack.palette.png"

@@ -39,6 +39,13 @@
 			124
 		]
 	],
+	"hexPalette": [
+		"#9344fb",
+		"#050507",
+		"#cccccc",
+		"#9c9c9c",
+		"#44247c"
+	],
 	"metaJsonPath": "meta/twitch.meta.json",
 	"logoPngPath": "logos/twitch.logo.png",
 	"palettePngPath": "palettes/twitch.palette.png"

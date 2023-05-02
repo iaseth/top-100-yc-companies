@@ -39,6 +39,13 @@
 			64
 		]
 	],
+	"hexPalette": [
+		"#9cbc33",
+		"#54544d",
+		"#3c3c3c",
+		"#a0ac40",
+		"#787440"
+	],
 	"metaJsonPath": "meta/1000memories.meta.json",
 	"logoPngPath": "logos/1000memories.logo.png",
 	"palettePngPath": "palettes/1000memories.palette.png"

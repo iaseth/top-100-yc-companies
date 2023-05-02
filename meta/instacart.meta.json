@@ -39,6 +39,13 @@
 			116
 		]
 	],
+	"hexPalette": [
+		"#faf3e3",
+		"#0eac0d",
+		"#fb740c",
+		"#f4bc86",
+		"#74bc74"
+	],
 	"metaJsonPath": "meta/instacart.meta.json",
 	"logoPngPath": "logos/instacart.logo.png",
 	"palettePngPath": "palettes/instacart.palette.png"

@@ -39,6 +39,13 @@
 			236
 		]
 	],
+	"hexPalette": [
+		"#444ce4",
+		"#b4bbf4",
+		"#0c1464",
+		"#7078d8",
+		"#848cec"
+	],
 	"metaJsonPath": "meta/partnerstack.meta.json",
 	"logoPngPath": "logos/partnerstack.logo.png",
 	"palettePngPath": "palettes/partnerstack.palette.png"
