@@ -6,109 +6,108 @@ This repository contains data on the `color` and `fonts` used on the websites of
 
 ## List of companies
 
-| Name              | Batch | Category      |
-| ----------------- | ----- | ------------- |
-| Reddit            | S05   | Entertainment |
-| Twitch            | W07   | Entertainment |
-| Dropbox           | S07   | Other SaaS    |
-| Padlet            | W13   | Other SaaS    |
-| Scribd            | S06   | Entertainment |
-| Weebly            | W07   | Other SaaS    |
-| 9gag              | S12   | Entertainment |
-| Genius            | S11   | Entertainment |
-| Airbnb            | W09   | Consumer      |
-| Loom              | W12   | Entertainment |
-| Disqus            | S07   | Dev Tools     |
-| 1000Memories      | S10   | Consumer      |
-| Coinbase          | S12   | Fintech       |
-| Teespring         | W13   | Consumer      |
-| DoorDash          | S13   | Consumer      |
-| Creative Market   | W10   | Dev Tools     |
-| Codecademy        | S11   | Education     |
-| Instacart         | S12   | Consumer      |
-| Clever            | S12   | Education     |
-| ClearTax          | W14   | Fintech       |
-| HackerRank        | S11   | Other SaaS    |
-| OneSignal         | S11   | Dev Tools     |
-| GitLab            | W15   | Dev Tools     |
-| Docker            | S10   | Other SaaS    |
-| Stripe            | S09   | Fintech       |
-| Repl.it           | W18   | Dev Tools     |
-| Our World in Data | W19   | Education     |
-| Font Awesome      | S15   | Dev Tools     |
-| Zapier            | S12   | Other SaaS    |
-| Strikingly        | W13   | Other SaaS    |
-| SmartAsset        | S12   | Fintech       |
-| The Muse          | W12   | Other SaaS    |
-| Paystack          | W16   | Fintech       |
-| Razorpay          | W15   | Fintech       |
-| Heroku            | W08   | Other SaaS    |
-| Coub              | S16   | Entertainment |
-| Lever             | S12   | Other SaaS    |
-| Y Combinator      | S05   |               |
-| Wufoo             | W06   | Other SaaS    |
-| GOAT Group        | W11   | Consumer      |
-| Apollo.io         | W16   | Other SaaS    |
-| MatterPort        | W12   | Entertainment |
-| Front             | S14   | Other SaaS    |
-| The Athletic      | S16   | Entertainment |
-| Cambly            | W14   | Entertainment |
-| Amplitude         | W12   | Other SaaS    |
-| Webflow           | S13   | Dev Tools     |
-| Bitnami           | W13   | Other SaaS    |
-| WorkFlowy         | S10   | Other SaaS    |
-| Substack          | W18   | Other SaaS    |
-| Zeplin            | S15   | Dev Tools     |
-| Chartio           | S10   | Other SaaS    |
-| Pushbullet        | W14   | Consumer      |
-| Optimizely        | W10   | Dev Tools     |
-| Submittable       | S12   | Dev Tools     |
-| Flutterwave       | S16   | Fintech       |
-| Segment           | S11   | Other SaaS    |
-| Product Hunt      | S14   | Entertainment |
-| Close             | W11   | Other SaaS    |
-| Zenefits          | W13   | Other SaaS    |
-| Prolific          | S19   | Other SaaS    |
-| Algolia           | W14   | Dev Tools     |
-| ShipBob           | S14   | Other SaaS    |
-| Buy Me A Coffee   | W19   | Entertainment |
-| Chatfuel          | W16   | Dev Tools     |
-| Expo              | S16   | Other SaaS    |
-| Groww             | W18   | Fintech       |
-| Thunkable         | W16   | Other SaaS    |
-| PartnerStack      | S15   | Other SaaS    |
-| RescueTime        | W08   | Other SaaS    |
-| Songkick          | S07   | Consumer      |
-| Brex              | W17   | Fintech       |
-| HelloSign         | W11   | Other SaaS    |
-| Cratejoy          | S13   | Other SaaS    |
-| EasyPost          | S13   | Other SaaS    |
-| Shogun            | W18   | Dev Tools     |
-| Vidyard           | S11   | Other SaaS    |
-| UpLabs            | W16   | Dev Tools     |
-| Mixpanel          | S09   | Other SaaS    |
-| Mailgun           | W11   | Dev Tools     |
-| Chaldal           | S15   | Consumer      |
-| Podium            | W16   | Other SaaS    |
-| Gusto             | W12   | Other SaaS    |
-| OpenSea           | W18   | Entertainment |
-| Cashfree          | S17   | Fintech       |
-| Quero Education   | S16   | Education     |
-| Tech in Asia      | W15   | Entertainment |
-| BackerKit         | S12   | Other SaaS    |
-| Rappi             | W16   | Consumer      |
-| Outschool         | W16   | Education     |
-| Caviar            | S11   | Consumer      |
-| Streak            | S11   | Other SaaS    |
-| MessageBird       | S16   | Dev Tools     |
-| Platzi            | W15   | Education     |
-| Olark             | W09   | Other SaaS    |
-| StatusPage        | S13   | Dev Tools     |
-| Ninite            | W08   | Other SaaS    |
-| Impraise          | S14   | Other SaaS    |
-| Goldbelly         | W13   | Consumer      |
-| Apollo            | S11   | Other SaaS    |
-
+| Rank | Company | Palette |
+| --- | --- | --- |
+| 1 | **Reddit** | ![Reddit](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/reddit.palette.png?raw=true) |
+| 2 | **Twitch** | ![Twitch](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/twitch.palette.png?raw=true) |
+| 3 | **Dropbox** | ![Dropbox](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/dropbox.palette.png?raw=true) |
+| 4 | **Padlet** | ![Padlet](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/padlet.palette.png?raw=true) |
+| 5 | **Scribd** | ![Scribd](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/scribd.palette.png?raw=true) |
+| 6 | **Weebly** | ![Weebly](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/weebly.palette.png?raw=true) |
+| 7 | **9gag** | ![9gag](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/9gag.palette.png?raw=true) |
+| 8 | **Genius** | ![Genius](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/genius.palette.png?raw=true) |
+| 9 | **Airbnb** | ![Airbnb](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/airbnb.palette.png?raw=true) |
+| 10 | **Loom** | ![Loom](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/loom.palette.png?raw=true) |
+| 11 | **Disqus** | ![Disqus](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/disqus.palette.png?raw=true) |
+| 12 | **1000Memories** | ![1000Memories](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/1000memories.palette.png?raw=true) |
+| 13 | **Coinbase** | ![Coinbase](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/coinbase.palette.png?raw=true) |
+| 14 | **Teespring** | ![Teespring](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/teespring.palette.png?raw=true) |
+| 15 | **DoorDash** | ![DoorDash](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/doordash.palette.png?raw=true) |
+| 16 | **Creative Market** | ![Creative Market](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/creativemarket.palette.png?raw=true) |
+| 17 | **Codecademy** | ![Codecademy](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/codecademy.palette.png?raw=true) |
+| 18 | **Instacart** | ![Instacart](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/instacart.palette.png?raw=true) |
+| 19 | **Clever** | ![Clever](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/clever.palette.png?raw=true) |
+| 20 | **ClearTax** | ![ClearTax](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/cleartax.palette.png?raw=true) |
+| 21 | **HackerRank** | ![HackerRank](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/hackerrank.palette.png?raw=true) |
+| 22 | **OneSignal** | ![OneSignal](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/onesignal.palette.png?raw=true) |
+| 23 | **GitLab** | ![GitLab](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/gitlab.palette.png?raw=true) |
+| 24 | **Docker** | ![Docker](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/docker.palette.png?raw=true) |
+| 25 | **Stripe** | ![Stripe](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/stripe.palette.png?raw=true) |
+| 26 | **Repl.it** | ![Repl.it](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/replit.palette.png?raw=true) |
+| 27 | **Our World in Data** | ![Our World in Data](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/ourworldindata.palette.png?raw=true) |
+| 28 | **Font Awesome** | ![Font Awesome](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/fontawesome.palette.png?raw=true) |
+| 29 | **Zapier** | ![Zapier](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/zapier.palette.png?raw=true) |
+| 30 | **Strikingly** | ![Strikingly](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/strikingly.palette.png?raw=true) |
+| 31 | **SmartAsset** | ![SmartAsset](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/smartasset.palette.png?raw=true) |
+| 32 | **The Muse** | ![The Muse](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/themuse.palette.png?raw=true) |
+| 33 | **Paystack** | ![Paystack](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/paystack.palette.png?raw=true) |
+| 34 | **Razorpay** | ![Razorpay](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/razorpay.palette.png?raw=true) |
+| 35 | **Heroku** | ![Heroku](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/heroku.palette.png?raw=true) |
+| 36 | **Coub** | ![Coub](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/coub.palette.png?raw=true) |
+| 37 | **Lever** | ![Lever](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/lever.palette.png?raw=true) |
+| 38 | **Y Combinator** | ![Y Combinator](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/ycombinator.palette.png?raw=true) |
+| 39 | **Wufoo** | ![Wufoo](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/wufoo.palette.png?raw=true) |
+| 40 | **GOAT Group** | ![GOAT Group](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/goatgroup.palette.png?raw=true) |
+| 41 | **Apollo.io** | ![Apollo.io](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/apolloio.palette.png?raw=true) |
+| 42 | **MatterPort** | ![MatterPort](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/matterport.palette.png?raw=true) |
+| 43 | **Front** | ![Front](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/front.palette.png?raw=true) |
+| 44 | **The Athletic** | ![The Athletic](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/theathletic.palette.png?raw=true) |
+| 45 | **Cambly** | ![Cambly](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/cambly.palette.png?raw=true) |
+| 46 | **Amplitude** | ![Amplitude](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/amplitude.palette.png?raw=true) |
+| 47 | **Webflow** | ![Webflow](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/webflow.palette.png?raw=true) |
+| 48 | **Bitnami** | ![Bitnami](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/bitnami.palette.png?raw=true) |
+| 49 | **WorkFlowy** | ![WorkFlowy](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/workflowy.palette.png?raw=true) |
+| 50 | **Substack** | ![Substack](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/substack.palette.png?raw=true) |
+| 51 | **Zeplin** | ![Zeplin](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/zeplin.palette.png?raw=true) |
+| 52 | **Chartio** | ![Chartio](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/chartio.palette.png?raw=true) |
+| 53 | **Pushbullet** | ![Pushbullet](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/pushbullet.palette.png?raw=true) |
+| 54 | **Optimizely** | ![Optimizely](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/optimizely.palette.png?raw=true) |
+| 55 | **Submittable** | ![Submittable](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/submittable.palette.png?raw=true) |
+| 56 | **Flutterwave** | ![Flutterwave](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/flutterwave.palette.png?raw=true) |
+| 57 | **Segment** | ![Segment](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/segment.palette.png?raw=true) |
+| 58 | **Product Hunt** | ![Product Hunt](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/producthunt.palette.png?raw=true) |
+| 59 | **Close** | ![Close](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/close.palette.png?raw=true) |
+| 60 | **Zenefits** | ![Zenefits](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/zenefits.palette.png?raw=true) |
+| 61 | **Prolific** | ![Prolific](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/prolific.palette.png?raw=true) |
+| 62 | **Algolia** | ![Algolia](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/algolia.palette.png?raw=true) |
+| 63 | **ShipBob** | ![ShipBob](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/shipbob.palette.png?raw=true) |
+| 64 | **Buy Me A Coffee** | ![Buy Me A Coffee](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/buymeacoffee.palette.png?raw=true) |
+| 65 | **Chatfuel** | ![Chatfuel](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/chatfuel.palette.png?raw=true) |
+| 66 | **Expo** | ![Expo](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/expo.palette.png?raw=true) |
+| 67 | **Groww** | ![Groww](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/groww.palette.png?raw=true) |
+| 68 | **Thunkable** | ![Thunkable](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/thunkable.palette.png?raw=true) |
+| 69 | **PartnerStack** | ![PartnerStack](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/partnerstack.palette.png?raw=true) |
+| 70 | **RescueTime** | ![RescueTime](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/rescuetime.palette.png?raw=true) |
+| 71 | **Songkick** | ![Songkick](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/songkick.palette.png?raw=true) |
+| 72 | **Brex** | ![Brex](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/brex.palette.png?raw=true) |
+| 73 | **HelloSign** | ![HelloSign](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/hellosign.palette.png?raw=true) |
+| 74 | **Cratejoy** | ![Cratejoy](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/cratejoy.palette.png?raw=true) |
+| 75 | **EasyPost** | ![EasyPost](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/easypost.palette.png?raw=true) |
+| 76 | **Shogun** | ![Shogun](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/shogun.palette.png?raw=true) |
+| 77 | **Vidyard** | ![Vidyard](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/vidyard.palette.png?raw=true) |
+| 78 | **UpLabs** | ![UpLabs](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/uplabs.palette.png?raw=true) |
+| 79 | **Mixpanel** | ![Mixpanel](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/mixpanel.palette.png?raw=true) |
+| 80 | **Mailgun** | ![Mailgun](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/mailgun.palette.png?raw=true) |
+| 81 | **Chaldal** | ![Chaldal](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/chaldal.palette.png?raw=true) |
+| 82 | **Podium** | ![Podium](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/podium.palette.png?raw=true) |
+| 83 | **Gusto** | ![Gusto](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/gusto.palette.png?raw=true) |
+| 84 | **OpenSea** | ![OpenSea](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/opensea.palette.png?raw=true) |
+| 85 | **Cashfree** | ![Cashfree](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/cashfree.palette.png?raw=true) |
+| 86 | **Quero Education** | ![Quero Education](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/queroeducation.palette.png?raw=true) |
+| 87 | **Tech in Asia** | ![Tech in Asia](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/techinasia.palette.png?raw=true) |
+| 88 | **BackerKit** | ![BackerKit](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/backerkit.palette.png?raw=true) |
+| 89 | **Rappi** | ![Rappi](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/rappi.palette.png?raw=true) |
+| 90 | **Outschool** | ![Outschool](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/outschool.palette.png?raw=true) |
+| 91 | **Caviar** | ![Caviar](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/caviar.palette.png?raw=true) |
+| 92 | **Streak** | ![Streak](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/streak.palette.png?raw=true) |
+| 93 | **MessageBird** | ![MessageBird](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/messagebird.palette.png?raw=true) |
+| 94 | **Platzi** | ![Platzi](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/platzi.palette.png?raw=true) |
+| 95 | **Olark** | ![Olark](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/olark.palette.png?raw=true) |
+| 96 | **StatusPage** | ![StatusPage](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/statuspage.palette.png?raw=true) |
+| 97 | **Ninite** | ![Ninite](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/ninite.palette.png?raw=true) |
+| 98 | **Impraise** | ![Impraise](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/impraise.palette.png?raw=true) |
+| 99 | **Goldbelly** | ![Goldbelly](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/goldbelly.palette.png?raw=true) |
+| 100 | **Apollo** | ![Apollo](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/apollo.palette.png?raw=true) |
 
 
 

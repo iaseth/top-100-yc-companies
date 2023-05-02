@@ -6,7 +6,9 @@ This repository contains data on the `color` and `fonts` used on the websites of
 
 ## List of companies
 
-{{ arrayTable(parse("companies.json").companies, {"name": "Name", "batch": "Batch", "category": "Category"}) }}
+| Rank | Company | Palette |
+| --- | --- | --- |{% for c in parse("companies.json").companies %}
+| {{ c.rank }} | **{{ c.name }}** | ![{{ c.name }}](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/{{ c.codeName }}.palette.png?raw=true) |{% endfor %}
 
 
 
