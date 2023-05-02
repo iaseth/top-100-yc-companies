@@ -4,10 +4,10 @@ This repository contains data on the `color` and `fonts` used on the websites of
 
 
 ## Dev dependencies
-| Package | Version |
-| --- | --- |
-| `axios` | `^1.4.0` |
-| `cheerio` | `^1.0.0-rc.12` |
+| `Package`   | `Version`      |
+| ----------- | -------------- |
+| `axios`     | `^1.4.0`       |
+| `cheerio`   | `^1.0.0-rc.12` |
 
 
 

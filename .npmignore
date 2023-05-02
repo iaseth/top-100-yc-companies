@@ -1,13 +1,7 @@
 
 cache/
-nextdocs/
 src/
-temp/
-templates/
+logos/
 
-generate.py
-hooklist.txt
-PREADME.md
+*.py
 Makefile
-
-hooks.min.json
