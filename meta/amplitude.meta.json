@@ -1,3 +1,30 @@
 {
-	"website": "http://www.amplitude.com"
+	"website": "http://www.amplitude.com",
+	"palette": [
+		[
+			28,
+			99,
+			243
+		],
+		[
+			241,
+			246,
+			248
+		],
+		[
+			105,
+			148,
+			226
+		],
+		[
+			137,
+			172,
+			236
+		],
+		[
+			76,
+			132,
+			224
+		]
+	]
 }

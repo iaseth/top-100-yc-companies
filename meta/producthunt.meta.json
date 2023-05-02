@@ -1,3 +1,30 @@
 {
-	"website": "http://www.producthunt.com"
+	"website": "http://www.producthunt.com",
+	"palette": [
+		[
+			219,
+			84,
+			44
+		],
+		[
+			244,
+			204,
+			192
+		],
+		[
+			220,
+			92,
+			60
+		],
+		[
+			130,
+			50,
+			26
+		],
+		[
+			175,
+			69,
+			36
+		]
+	]
 }

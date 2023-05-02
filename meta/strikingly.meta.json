@@ -1,3 +1,30 @@
 {
-	"website": "http://www.strikingly.com"
+	"website": "http://www.strikingly.com",
+	"palette": [
+		[
+			108,
+			76,
+			148
+		],
+		[
+			231,
+			227,
+			236
+		],
+		[
+			164,
+			148,
+			186
+		],
+		[
+			151,
+			133,
+			180
+		],
+		[
+			144,
+			126,
+			170
+		]
+	]
 }

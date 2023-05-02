@@ -1,3 +1,30 @@
 {
-	"website": "http://www.fontawesome.com"
+	"website": "http://www.fontawesome.com",
+	"palette": [
+		[
+			84,
+			140,
+			212
+		],
+		[
+			211,
+			227,
+			245
+		],
+		[
+			140,
+			180,
+			228
+		],
+		[
+			132,
+			172,
+			228
+		],
+		[
+			118,
+			169,
+			225
+		]
+	]
 }

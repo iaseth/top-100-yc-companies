@@ -1,3 +1,30 @@
 {
-	"website": "http://www.ancestry.com"
+	"website": "http://www.ancestry.com",
+	"palette": [
+		[
+			156,
+			188,
+			51
+		],
+		[
+			84,
+			84,
+			77
+		],
+		[
+			60,
+			60,
+			60
+		],
+		[
+			160,
+			172,
+			64
+		],
+		[
+			120,
+			116,
+			64
+		]
+	]
 }

@@ -1,3 +1,30 @@
 {
-	"website": "http://www.theathletic.com"
+	"website": "http://www.theathletic.com",
+	"palette": [
+		[
+			4,
+			4,
+			4
+		],
+		[
+			225,
+			229,
+			223
+		],
+		[
+			87,
+			87,
+			85
+		],
+		[
+			116,
+			116,
+			116
+		],
+		[
+			124,
+			124,
+			124
+		]
+	]
 }

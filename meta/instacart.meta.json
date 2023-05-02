@@ -1,3 +1,30 @@
 {
-	"website": "http://www.instacart.com"
+	"website": "http://www.instacart.com",
+	"palette": [
+		[
+			250,
+			243,
+			227
+		],
+		[
+			14,
+			172,
+			13
+		],
+		[
+			251,
+			116,
+			12
+		],
+		[
+			244,
+			188,
+			134
+		],
+		[
+			116,
+			188,
+			116
+		]
+	]
 }

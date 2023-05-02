@@ -1,3 +1,30 @@
 {
-	"website": "http://www.codecademy.com"
+	"website": "http://www.codecademy.com",
+	"palette": [
+		[
+			19,
+			20,
+			44
+		],
+		[
+			240,
+			231,
+			221
+		],
+		[
+			100,
+			92,
+			108
+		],
+		[
+			116,
+			108,
+			124
+		],
+		[
+			84,
+			84,
+			100
+		]
+	]
 }

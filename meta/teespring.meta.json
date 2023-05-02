@@ -1,3 +1,30 @@
 {
-	"website": "http://www.teespring.com"
+	"website": "http://www.teespring.com",
+	"palette": [
+		[
+			4,
+			4,
+			4
+		],
+		[
+			196,
+			196,
+			196
+		],
+		[
+			108,
+			108,
+			108
+		],
+		[
+			85,
+			85,
+			85
+		],
+		[
+			116,
+			116,
+			116
+		]
+	]
 }

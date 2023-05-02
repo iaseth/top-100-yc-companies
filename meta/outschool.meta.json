@@ -1,3 +1,30 @@
 {
-	"website": "http://www.outschool.com"
+	"website": "http://www.outschool.com",
+	"palette": [
+		[
+			76,
+			4,
+			212
+		],
+		[
+			211,
+			194,
+			244
+		],
+		[
+			148,
+			105,
+			228
+		],
+		[
+			128,
+			74,
+			224
+		],
+		[
+			108,
+			44,
+			220
+		]
+	]
 }

@@ -1,3 +1,30 @@
 {
-	"website": "http://www.hackerrank.com"
+	"website": "http://www.hackerrank.com",
+	"palette": [
+		[
+			12,
+			20,
+			28
+		],
+		[
+			4,
+			229,
+			98
+		],
+		[
+			112,
+			112,
+			120
+		],
+		[
+			12,
+			122,
+			60
+		],
+		[
+			68,
+			68,
+			76
+		]
+	]
 }

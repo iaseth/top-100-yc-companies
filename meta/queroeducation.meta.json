@@ -1,3 +1,30 @@
 {
-	"website": "http://www.querobolsa.com.br"
+	"website": "http://www.querobolsa.com.br",
+	"palette": [
+		[
+			52,
+			77,
+			250
+		],
+		[
+			239,
+			231,
+			228
+		],
+		[
+			126,
+			146,
+			229
+		],
+		[
+			148,
+			172,
+			228
+		],
+		[
+			140,
+			116,
+			180
+		]
+	]
 }

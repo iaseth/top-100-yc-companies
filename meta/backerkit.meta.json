@@ -1,3 +1,30 @@
 {
-	"website": "http://www.backerkit.com"
+	"website": "http://www.backerkit.com",
+	"palette": [
+		[
+			56,
+			55,
+			52
+		],
+		[
+			251,
+			203,
+			83
+		],
+		[
+			169,
+			140,
+			70
+		],
+		[
+			198,
+			161,
+			76
+		],
+		[
+			188,
+			152,
+			76
+		]
+	]
 }

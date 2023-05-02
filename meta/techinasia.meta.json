@@ -1,3 +1,30 @@
 {
-	"website": "http://www.techinasia.com"
+	"website": "http://www.techinasia.com",
+	"palette": [
+		[
+			196,
+			28,
+			36
+		],
+		[
+			242,
+			208,
+			210
+		],
+		[
+			217,
+			111,
+			116
+		],
+		[
+			228,
+			140,
+			148
+		],
+		[
+			212,
+			84,
+			92
+		]
+	]
 }

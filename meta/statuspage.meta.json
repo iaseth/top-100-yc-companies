@@ -1,3 +1,30 @@
 {
-	"website": "http://www.statuspage.io"
+	"website": "http://www.statuspage.io",
+	"palette": [
+		[
+			4,
+			84,
+			204
+		],
+		[
+			196,
+			215,
+			244
+		],
+		[
+			122,
+			164,
+			228
+		],
+		[
+			100,
+			148,
+			225
+		],
+		[
+			60,
+			124,
+			212
+		]
+	]
 }

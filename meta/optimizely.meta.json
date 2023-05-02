@@ -1,3 +1,30 @@
 {
-	"website": "http://www.optimizely.com"
+	"website": "http://www.optimizely.com",
+	"palette": [
+		[
+			252,
+			132,
+			20
+		],
+		[
+			60,
+			228,
+			132
+		],
+		[
+			4,
+			52,
+			252
+		],
+		[
+			4,
+			203,
+			252
+		],
+		[
+			132,
+			28,
+			252
+		]
+	]
 }

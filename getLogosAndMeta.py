@@ -3,12 +3,12 @@ import os
 
 import requests
 from bs4 import BeautifulSoup
+from colorthief import ColorThief
 
 
 COMPANIES_JSON_PATH = "src/companies.json"
 
-def downloadLogo(soup, company):
-	logoPath = f"logos/{company['logoPngName']}"
+def downloadLogo(soup, logoPath):
 	if os.path.isfile(logoPath):
 		print(f"\tFound: {logoPath}")
 		return
@@ -28,19 +28,22 @@ def downloadLogo(soup, company):
 		print(f"\t\tSaved: {logoPath}")
 
 
-def downloadMeta(soup, company):
-	metaPath = f"meta/{company['metaJsonName']}"
-	if os.path.isfile(metaPath):
-		print(f"\tFound: {metaPath}")
+def downloadMeta(soup, metaJsonPath, logoPath):
+	if os.path.isfile(metaJsonPath):
+		print(f"\tFound: {metaJsonPath}")
 		# return
+
+	ct = ColorThief(logoPath)
+	palette = ct.get_palette(color_count=5)
 
 	jo = {}
 	a = soup.find("a", class_="btn btn-primary btn-block mt-4")
 	jo["website"] = a["href"]
+	jo["palette"] = palette
 
-	with open(metaPath, "w") as f:
+	with open(metaJsonPath, "w") as f:
 		json.dump(jo, f, indent="\t")
-	print(f"\tSaved: {metaPath}")
+	print(f"\tSaved: {metaJsonPath}")
 
 
 def main():
@@ -50,8 +53,12 @@ def main():
 		print(f"[{idx+1}/{len(companies)}] {company['name']}")
 		ycdbHtmlPath = f"cache/{company['codeName']}.ycdb.html"
 		soup = BeautifulSoup(open(ycdbHtmlPath), "lxml")
-		downloadLogo(soup, company)
-		downloadMeta(soup, company)
+
+		logoPath = f"logos/{company['logoPngName']}"
+		metaJsonPath = f"meta/{company['metaJsonName']}"
+
+		downloadLogo(soup, logoPath)
+		downloadMeta(soup, metaJsonPath, logoPath)
 		# break
 
 

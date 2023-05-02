@@ -1,3 +1,30 @@
 {
-	"website": "http://www.apollographql.com"
+	"website": "http://www.apollographql.com",
+	"palette": [
+		[
+			52,
+			28,
+			132
+		],
+		[
+			212,
+			207,
+			229
+		],
+		[
+			126,
+			114,
+			179
+		],
+		[
+			156,
+			140,
+			196
+		],
+		[
+			148,
+			132,
+			196
+		]
+	]
 }

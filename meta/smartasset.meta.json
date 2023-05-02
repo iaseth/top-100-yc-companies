@@ -1,3 +1,30 @@
 {
-	"website": "http://www.smartasset.com"
+	"website": "http://www.smartasset.com",
+	"palette": [
+		[
+			212,
+			224,
+			228
+		],
+		[
+			58,
+			144,
+			186
+		],
+		[
+			34,
+			35,
+			35
+		],
+		[
+			148,
+			200,
+			224
+		],
+		[
+			100,
+			100,
+			100
+		]
+	]
 }

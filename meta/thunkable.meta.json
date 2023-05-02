@@ -1,3 +1,30 @@
 {
-	"website": "http://www.thunkable.com"
+	"website": "http://www.thunkable.com",
+	"palette": [
+		[
+			236,
+			82,
+			74
+		],
+		[
+			249,
+			227,
+			227
+		],
+		[
+			46,
+			40,
+			94
+		],
+		[
+			217,
+			148,
+			148
+		],
+		[
+			140,
+			140,
+			172
+		]
+	]
 }

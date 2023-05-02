@@ -1,3 +1,30 @@
 {
-	"website": "http://www.matterport.com"
+	"website": "http://www.matterport.com",
+	"palette": [
+		[
+			243,
+			243,
+			243
+		],
+		[
+			115,
+			47,
+			62
+		],
+		[
+			179,
+			152,
+			155
+		],
+		[
+			132,
+			132,
+			132
+		],
+		[
+			140,
+			132,
+			132
+		]
+	]
 }

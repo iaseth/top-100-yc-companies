@@ -1,3 +1,30 @@
 {
-	"website": "http://www.partnerstack.com"
+	"website": "http://www.partnerstack.com",
+	"palette": [
+		[
+			68,
+			76,
+			228
+		],
+		[
+			180,
+			187,
+			244
+		],
+		[
+			12,
+			20,
+			100
+		],
+		[
+			112,
+			120,
+			216
+		],
+		[
+			132,
+			140,
+			236
+		]
+	]
 }

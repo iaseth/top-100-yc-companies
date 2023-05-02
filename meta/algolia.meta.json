@@ -1,3 +1,30 @@
 {
-	"website": "http://www.algolia.com"
+	"website": "http://www.algolia.com",
+	"palette": [
+		[
+			4,
+			60,
+			252
+		],
+		[
+			4,
+			44,
+			196
+		],
+		[
+			4,
+			56,
+			256
+		],
+		[
+			4,
+			56,
+			256
+		],
+		[
+			4,
+			56,
+			256
+		]
+	]
 }

@@ -1,3 +1,30 @@
 {
-	"website": "http://www.ourworldindata.org"
+	"website": "http://www.ourworldindata.org",
+	"palette": [
+		[
+			23,
+			38,
+			69
+		],
+		[
+			187,
+			61,
+			53
+		],
+		[
+			215,
+			219,
+			221
+		],
+		[
+			132,
+			148,
+			156
+		],
+		[
+			132,
+			136,
+			156
+		]
+	]
 }

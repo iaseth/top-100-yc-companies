@@ -1,3 +1,30 @@
 {
-	"website": "http://www.submittable.com"
+	"website": "http://www.submittable.com",
+	"palette": [
+		[
+			252,
+			92,
+			52
+		],
+		[
+			256,
+			92,
+			52
+		],
+		[
+			256,
+			92,
+			52
+		],
+		[
+			256,
+			92,
+			52
+		],
+		[
+			256,
+			92,
+			52
+		]
+	]
 }

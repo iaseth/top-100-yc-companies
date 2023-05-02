@@ -1,3 +1,30 @@
 {
-	"website": "http://www.ycombinator.com"
+	"website": "http://www.ycombinator.com",
+	"palette": [
+		[
+			252,
+			100,
+			28
+		],
+		[
+			252,
+			222,
+			207
+		],
+		[
+			252,
+			149,
+			100
+		],
+		[
+			252,
+			172,
+			132
+		],
+		[
+			252,
+			124,
+			60
+		]
+	]
 }

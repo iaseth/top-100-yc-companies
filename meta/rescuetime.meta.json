@@ -1,3 +1,30 @@
 {
-	"website": "http://www.rescuetime.com"
+	"website": "http://www.rescuetime.com",
+	"palette": [
+		[
+			225,
+			225,
+			230
+		],
+		[
+			210,
+			36,
+			44
+		],
+		[
+			42,
+			37,
+			37
+		],
+		[
+			156,
+			124,
+			124
+		],
+		[
+			138,
+			142,
+			144
+		]
+	]
 }

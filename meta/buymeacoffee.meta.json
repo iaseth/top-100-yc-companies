@@ -1,3 +1,30 @@
 {
-	"website": "http://www.buymeacoffee.com"
+	"website": "http://www.buymeacoffee.com",
+	"palette": [
+		[
+			250,
+			219,
+			4
+		],
+		[
+			12,
+			12,
+			35
+		],
+		[
+			156,
+			132,
+			4
+		],
+		[
+			8,
+			4,
+			20
+		],
+		[
+			68,
+			120,
+			20
+		]
+	]
 }

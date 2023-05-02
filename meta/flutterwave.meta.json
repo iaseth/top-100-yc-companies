@@ -1,3 +1,30 @@
 {
-	"website": "http://www.flutterwave.com"
+	"website": "http://www.flutterwave.com",
+	"palette": [
+		[
+			44,
+			53,
+			100
+		],
+		[
+			238,
+			138,
+			77
+		],
+		[
+			10,
+			148,
+			74
+		],
+		[
+			126,
+			90,
+			70
+		],
+		[
+			100,
+			108,
+			148
+		]
+	]
 }

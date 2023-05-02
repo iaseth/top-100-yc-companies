@@ -1,3 +1,30 @@
 {
-	"website": "http://www.getshogun.com"
+	"website": "http://www.getshogun.com",
+	"palette": [
+		[
+			28,
+			36,
+			44
+		],
+		[
+			206,
+			207,
+			209
+		],
+		[
+			110,
+			113,
+			119
+		],
+		[
+			134,
+			140,
+			142
+		],
+		[
+			128,
+			132,
+			140
+		]
+	]
 }

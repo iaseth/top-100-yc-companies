@@ -1,3 +1,30 @@
 {
-	"website": "http://www.cashfree.com"
+	"website": "http://www.cashfree.com",
+	"palette": [
+		[
+			28,
+			5,
+			76
+		],
+		[
+			241,
+			171,
+			28
+		],
+		[
+			6,
+			171,
+			99
+		],
+		[
+			60,
+			36,
+			100
+		],
+		[
+			46,
+			14,
+			44
+		]
+	]
 }

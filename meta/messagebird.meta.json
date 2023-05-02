@@ -1,3 +1,30 @@
 {
-	"website": "http://www.messagebird.com"
+	"website": "http://www.messagebird.com",
+	"palette": [
+		[
+			231,
+			244,
+			248
+		],
+		[
+			4,
+			139,
+			251
+		],
+		[
+			107,
+			185,
+			234
+		],
+		[
+			52,
+			156,
+			240
+		],
+		[
+			49,
+			148,
+			233
+		]
+	]
 }

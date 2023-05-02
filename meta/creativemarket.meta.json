@@ -1,3 +1,30 @@
 {
-	"website": "http://www.creativemarket.com"
+	"website": "http://www.creativemarket.com",
+	"palette": [
+		[
+			59,
+			179,
+			172
+		],
+		[
+			228,
+			244,
+			244
+		],
+		[
+			142,
+			214,
+			206
+		],
+		[
+			108,
+			196,
+			188
+		],
+		[
+			44,
+			188,
+			180
+		]
+	]
 }
