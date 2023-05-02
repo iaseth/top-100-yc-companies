@@ -8,7 +8,7 @@ This repository contains data on the `color` and `fonts` used on the websites of
 
 | Rank | Company | Palette |
 | --- | --- | --- |{% for c in parse("src/palettes.json").palettes %}
-| {{ c.rank }} | **{{ c.name }}** | {% for h in c.hexPalette %}`{{ h }}` {% endfor %} <br /> ![{{ c.name }}](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/{{ c.codeName }}.palette.png?raw=true) |{% endfor %}
+| {{ c.rank }} | **{{ c.name }}** <br /> {{ c.category }} <br /> **{{ c.batch }}** | {% for h in c.hexPalette %}`{{ h }}` {% endfor %} <br /> ![{{ c.name }}](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/{{ c.codeName }}.palette.png?raw=true) |{% endfor %}
 
 
 
