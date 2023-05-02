@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 
 TOP_100_LINK = "https://www.ycdb.co/top-companies/alexa-rank";
-OUTPUT_JSON_PATH = "src/companies.json";
+OUTPUT_JSON_PATH = "companies.json";
 
 
 def getCompany(tr):

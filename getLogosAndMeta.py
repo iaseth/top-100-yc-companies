@@ -9,7 +9,8 @@ from PIL import Image
 import numpy
 
 
-COMPANIES_JSON_PATH = "src/companies.json"
+COMPANIES_JSON_PATH = "companies.json"
+PALETTES_JSON_PATH = "src/palettes.json"
 
 def clamp(x):
 	return max(0, min(x, 255))
@@ -82,10 +83,13 @@ def downloadMeta(soup, logoPath, company):
 		im.save(palette_png_path)
 		file_save_log(palette_png_path)
 
+	return jo
+
 
 def main():
 	companiesJson = json.load(open(COMPANIES_JSON_PATH))
 	companies = companiesJson["companies"]
+	palettes = []
 	for idx, company in enumerate(companies):
 		print(f"[{idx+1}/{len(companies)}] {company['name']}")
 		ycdbHtmlPath = f"cache/{company['codeName']}.ycdb.html"
@@ -93,8 +97,15 @@ def main():
 
 		logoPath = f"logos/{company['logoPngName']}"
 		downloadLogo(soup, logoPath)
-		downloadMeta(soup, logoPath, company)
+		palette = downloadMeta(soup, logoPath, company)
+		palettes.append(palette)
 		# break
+
+	jo = {}
+	jo["palettes"] = palettes
+	with open(PALETTES_JSON_PATH, "w") as f:
+		json.dump(jo, f, indent="\t")
+	file_save_log(PALETTES_JSON_PATH)
 
 
 if __name__ == '__main__':

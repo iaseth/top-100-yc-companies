@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 import axios from 'axios';
-import companiesJson from './src/companies.json' assert { type: "json" };
+import companiesJson from './companies.json' assert { type: "json" };
 
 
 
