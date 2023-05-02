@@ -1,4 +1,16 @@
 {
+	"rank": 48,
+	"name": "Bitnami",
+	"codeName": "bitnami",
+	"jsonName": "bitnami.json",
+	"pngName": "bitnami.png",
+	"logoPngName": "bitnami.logo.png",
+	"metaJsonName": "bitnami.meta.json",
+	"batch": "W13",
+	"category": "Other SaaS",
+	"description": "The App Store for Server Software",
+	"alexaRank": 7716,
+	"pageURL": "https://www.ycdb.co/company/bitnami",
 	"website": "http://www.bitnami.com",
 	"palette": [
 		[

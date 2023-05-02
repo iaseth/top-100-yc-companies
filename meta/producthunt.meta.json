@@ -1,4 +1,16 @@
 {
+	"rank": 58,
+	"name": "Product Hunt",
+	"codeName": "producthunt",
+	"jsonName": "producthunt.json",
+	"pngName": "producthunt.png",
+	"logoPngName": "producthunt.logo.png",
+	"metaJsonName": "producthunt.meta.json",
+	"batch": "S14",
+	"category": "Entertainment",
+	"description": "Hacker News for Products",
+	"alexaRank": 9817,
+	"pageURL": "https://www.ycdb.co/company/product-hunt",
 	"website": "http://www.producthunt.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 82,
+	"name": "Podium",
+	"codeName": "podium",
+	"jsonName": "podium.json",
+	"pngName": "podium.png",
+	"logoPngName": "podium.logo.png",
+	"metaJsonName": "podium.meta.json",
+	"batch": "W16",
+	"category": "Other SaaS",
+	"description": "Podium is an interaction platform for local businesses.",
+	"alexaRank": 16583,
+	"pageURL": "https://www.ycdb.co/company/podium",
 	"website": "http://www.podium.com",
 	"palette": [
 		[

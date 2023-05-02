@@ -1,4 +1,16 @@
 {
+	"rank": 68,
+	"name": "Thunkable",
+	"codeName": "thunkable",
+	"jsonName": "thunkable.json",
+	"pngName": "thunkable.png",
+	"logoPngName": "thunkable.logo.png",
+	"metaJsonName": "thunkable.meta.json",
+	"batch": "W16",
+	"category": "Other SaaS",
+	"description": "Thunkable is a drag and drop tool to build native Android and iOS Apps",
+	"alexaRank": 11498,
+	"pageURL": "https://www.ycdb.co/company/thunkable",
 	"website": "http://www.thunkable.com",
 	"palette": [
 		[

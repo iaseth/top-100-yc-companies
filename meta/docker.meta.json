@@ -1,4 +1,16 @@
 {
+	"rank": 24,
+	"name": "Docker",
+	"codeName": "docker",
+	"jsonName": "docker.json",
+	"pngName": "docker.png",
+	"logoPngName": "docker.logo.png",
+	"metaJsonName": "docker.meta.json",
+	"batch": "S10",
+	"category": "Other SaaS",
+	"description": "App store for server configurations.",
+	"alexaRank": 3170,
+	"pageURL": "https://www.ycdb.co/company/docker",
 	"website": "http://www.docker.com",
 	"palette": [
 		[

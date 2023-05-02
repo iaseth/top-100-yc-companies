@@ -1,4 +1,16 @@
 {
+	"rank": 33,
+	"name": "Paystack",
+	"codeName": "paystack",
+	"jsonName": "paystack.json",
+	"pngName": "paystack.png",
+	"logoPngName": "paystack.logo.png",
+	"metaJsonName": "paystack.meta.json",
+	"batch": "W16",
+	"category": "Fintech",
+	"description": "Modern payments infrastructure for Africa",
+	"alexaRank": 4865,
+	"pageURL": "https://www.ycdb.co/company/paystack",
 	"website": "http://www.paystack.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 20,
+	"name": "ClearTax",
+	"codeName": "cleartax",
+	"jsonName": "cleartax.json",
+	"pngName": "cleartax.png",
+	"logoPngName": "cleartax.logo.png",
+	"metaJsonName": "cleartax.meta.json",
+	"batch": "W14",
+	"category": "Fintech",
+	"description": "Intuit of India.",
+	"alexaRank": 2183,
+	"pageURL": "https://www.ycdb.co/company/cleartax",
 	"website": "http://www.cleartax.in",
 	"palette": [
 		[

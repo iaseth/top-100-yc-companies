@@ -1,4 +1,16 @@
 {
+	"rank": 13,
+	"name": "Coinbase",
+	"codeName": "coinbase",
+	"jsonName": "coinbase.json",
+	"pngName": "coinbase.png",
+	"logoPngName": "coinbase.logo.png",
+	"metaJsonName": "coinbase.meta.json",
+	"batch": "S12",
+	"category": "Fintech",
+	"description": "Coinbase is a secure platform that makes it easy to buy and sell cryptocurrency",
+	"alexaRank": 1435,
+	"pageURL": "https://www.ycdb.co/company/coinbase",
 	"website": "http://www.coinbase.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 6,
+	"name": "Weebly",
+	"codeName": "weebly",
+	"jsonName": "weebly.json",
+	"pngName": "weebly.png",
+	"logoPngName": "weebly.logo.png",
+	"metaJsonName": "weebly.meta.json",
+	"batch": "W07",
+	"category": "Other SaaS",
+	"description": "Web site editing platform.  Over 40M people have launched their business on Weebly and every month 3...",
+	"alexaRank": 293,
+	"pageURL": "https://www.ycdb.co/company/weebly",
 	"website": "http://www.weebly.com",
 	"palette": [
 		[

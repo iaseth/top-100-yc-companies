@@ -1,4 +1,16 @@
 {
+	"rank": 34,
+	"name": "Razorpay",
+	"codeName": "razorpay",
+	"jsonName": "razorpay.json",
+	"pngName": "razorpay.png",
+	"logoPngName": "razorpay.logo.png",
+	"metaJsonName": "razorpay.meta.json",
+	"batch": "W15",
+	"category": "Fintech",
+	"description": "A full stack payment platform for India",
+	"alexaRank": 4916,
+	"pageURL": "https://www.ycdb.co/company/razorpay",
 	"website": "http://www.razorpay.com",
 	"palette": [
 		[

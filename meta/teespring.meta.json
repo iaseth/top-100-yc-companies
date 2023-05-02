@@ -1,4 +1,16 @@
 {
+	"rank": 14,
+	"name": "Teespring",
+	"codeName": "teespring",
+	"jsonName": "teespring.json",
+	"pngName": "teespring.png",
+	"logoPngName": "teespring.logo.png",
+	"metaJsonName": "teespring.meta.json",
+	"batch": "W13",
+	"category": "Consumer",
+	"description": "Retail quality products on-demand. Teespring is a platform that enables anyone to create and sell un...",
+	"alexaRank": 1642,
+	"pageURL": "https://www.ycdb.co/company/teespring",
 	"website": "http://www.teespring.com",
 	"palette": [
 		[

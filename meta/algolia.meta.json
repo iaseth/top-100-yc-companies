@@ -1,4 +1,16 @@
 {
+	"rank": 62,
+	"name": "Algolia",
+	"codeName": "algolia",
+	"jsonName": "algolia.json",
+	"pngName": "algolia.png",
+	"logoPngName": "algolia.logo.png",
+	"metaJsonName": "algolia.meta.json",
+	"batch": "W14",
+	"category": "Dev Tools",
+	"description": "Algolia offers a developer-friendly and enterprise-grade search API",
+	"alexaRank": 10272,
+	"pageURL": "https://www.ycdb.co/company/algolia",
 	"website": "http://www.algolia.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 15,
+	"name": "DoorDash",
+	"codeName": "doordash",
+	"jsonName": "doordash.json",
+	"pngName": "doordash.png",
+	"logoPngName": "doordash.logo.png",
+	"metaJsonName": "doordash.meta.json",
+	"batch": "S13",
+	"category": "Consumer",
+	"description": "Restaurant delivery.",
+	"alexaRank": 1676,
+	"pageURL": "https://www.ycdb.co/company/doordash",
 	"website": "http://www.doordash.com",
 	"palette": [
 		[

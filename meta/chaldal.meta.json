@@ -1,4 +1,16 @@
 {
+	"rank": 81,
+	"name": "Chaldal",
+	"codeName": "chaldal",
+	"jsonName": "chaldal.json",
+	"pngName": "chaldal.png",
+	"logoPngName": "chaldal.logo.png",
+	"metaJsonName": "chaldal.meta.json",
+	"batch": "S15",
+	"category": "Consumer",
+	"description": "Chaldal.com is an online platform for grocery and delivery based in Dhaka, Bangladesh.",
+	"alexaRank": 16420,
+	"pageURL": "https://www.ycdb.co/company/chaldal",
 	"website": "http://www.chaldal.com",
 	"palette": [
 		[

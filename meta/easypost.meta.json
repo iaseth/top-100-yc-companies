@@ -1,4 +1,16 @@
 {
+	"rank": 75,
+	"name": "EasyPost",
+	"codeName": "easypost",
+	"jsonName": "easypost.json",
+	"pngName": "easypost.png",
+	"logoPngName": "easypost.logo.png",
+	"metaJsonName": "easypost.meta.json",
+	"batch": "S13",
+	"category": "Other SaaS",
+	"description": "Shipping API",
+	"alexaRank": 14234,
+	"pageURL": "https://www.ycdb.co/company/easypost",
 	"website": "http://www.easypost.com",
 	"palette": [
 		[

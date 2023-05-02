@@ -1,4 +1,16 @@
 {
+	"rank": 39,
+	"name": "Wufoo",
+	"codeName": "wufoo",
+	"jsonName": "wufoo.json",
+	"pngName": "wufoo.png",
+	"logoPngName": "wufoo.logo.png",
+	"metaJsonName": "wufoo.meta.json",
+	"batch": "W06",
+	"category": "Other SaaS",
+	"description": "Online form builder.",
+	"alexaRank": 5733,
+	"pageURL": "https://www.ycdb.co/company/wufoo",
 	"website": "http://www.wufoo.com",
 	"palette": [
 		[

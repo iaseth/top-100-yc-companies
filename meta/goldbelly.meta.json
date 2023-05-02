@@ -1,4 +1,16 @@
 {
+	"rank": 99,
+	"name": "Goldbelly",
+	"codeName": "goldbelly",
+	"jsonName": "goldbelly.json",
+	"pngName": "goldbelly.png",
+	"logoPngName": "goldbelly.logo.png",
+	"metaJsonName": "goldbelly.meta.json",
+	"batch": "W13",
+	"category": "Consumer",
+	"description": "We make the most regionally famous and downright awesome foods from across the country available for...",
+	"alexaRank": 24608,
+	"pageURL": "https://www.ycdb.co/company/goldbelly",
 	"website": "http://www.goldbelly.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 97,
+	"name": "Ninite",
+	"codeName": "ninite",
+	"jsonName": "ninite.json",
+	"pngName": "ninite.png",
+	"logoPngName": "ninite.logo.png",
+	"metaJsonName": "ninite.meta.json",
+	"batch": "W08",
+	"category": "Other SaaS",
+	"description": "Simple third-party app patching and deployment for Windows.",
+	"alexaRank": 22540,
+	"pageURL": "https://www.ycdb.co/company/ninite",
 	"website": "http://www.ninite.com",
 	"palette": [
 		[

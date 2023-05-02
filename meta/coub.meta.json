@@ -1,4 +1,16 @@
 {
+	"rank": 36,
+	"name": "Coub",
+	"codeName": "coub",
+	"jsonName": "coub.json",
+	"pngName": "coub.png",
+	"logoPngName": "coub.logo.png",
+	"metaJsonName": "coub.meta.json",
+	"batch": "S16",
+	"category": "Entertainment",
+	"description": "Coub is YouTube for video loops. You can take any video from YouTube, Facebook or upload your own. T...",
+	"alexaRank": 5439,
+	"pageURL": "https://www.ycdb.co/company/coub",
 	"website": "http://www.coub.com",
 	"palette": [
 		[

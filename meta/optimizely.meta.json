@@ -1,4 +1,16 @@
 {
+	"rank": 54,
+	"name": "Optimizely",
+	"codeName": "optimizely",
+	"jsonName": "optimizely.json",
+	"pngName": "optimizely.png",
+	"logoPngName": "optimizely.logo.png",
+	"metaJsonName": "optimizely.meta.json",
+	"batch": "W10",
+	"category": "Dev Tools",
+	"description": "A/B testing.",
+	"alexaRank": 9006,
+	"pageURL": "https://www.ycdb.co/company/optimizely",
 	"website": "http://www.optimizely.com",
 	"palette": [
 		[

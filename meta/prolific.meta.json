@@ -1,4 +1,16 @@
 {
+	"rank": 61,
+	"name": "Prolific",
+	"codeName": "prolific",
+	"jsonName": "prolific.json",
+	"pngName": "prolific.png",
+	"logoPngName": "prolific.logo.png",
+	"metaJsonName": "prolific.meta.json",
+	"batch": "S19",
+	"category": "Other SaaS",
+	"description": "Infrastructure for research on the internet.",
+	"alexaRank": 10181,
+	"pageURL": "https://www.ycdb.co/company/prolific",
 	"website": "http://www.prolific.co",
 	"palette": [
 		[

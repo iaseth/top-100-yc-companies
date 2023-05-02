@@ -1,4 +1,16 @@
 {
+	"rank": 84,
+	"name": "OpenSea",
+	"codeName": "opensea",
+	"jsonName": "opensea.json",
+	"pngName": "opensea.png",
+	"logoPngName": "opensea.logo.png",
+	"metaJsonName": "opensea.meta.json",
+	"batch": "W18",
+	"category": "Entertainment",
+	"description": "OpenSea is the first and largest marketplace for digital goods.",
+	"alexaRank": 18410,
+	"pageURL": "https://www.ycdb.co/company/opensea",
 	"website": "http://www.opensea.io",
 	"palette": [
 		[

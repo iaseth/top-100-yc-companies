@@ -28,7 +28,8 @@ def downloadLogo(soup, logoPath):
 		print(f"\t\tSaved: {logoPath}")
 
 
-def downloadMeta(soup, metaJsonPath, logoPath):
+def downloadMeta(soup, logoPath, company):
+	metaJsonPath = f"meta/{company['metaJsonName']}"
 	if os.path.isfile(metaJsonPath):
 		print(f"\tFound: {metaJsonPath}")
 		# return
@@ -36,7 +37,7 @@ def downloadMeta(soup, metaJsonPath, logoPath):
 	ct = ColorThief(logoPath)
 	palette = ct.get_palette(color_count=5)
 
-	jo = {}
+	jo = dict(company)
 	a = soup.find("a", class_="btn btn-primary btn-block mt-4")
 	jo["website"] = a["href"]
 	jo["palette"] = palette
@@ -55,10 +56,8 @@ def main():
 		soup = BeautifulSoup(open(ycdbHtmlPath), "lxml")
 
 		logoPath = f"logos/{company['logoPngName']}"
-		metaJsonPath = f"meta/{company['metaJsonName']}"
-
 		downloadLogo(soup, logoPath)
-		downloadMeta(soup, metaJsonPath, logoPath)
+		downloadMeta(soup, logoPath, company)
 		# break
 
 

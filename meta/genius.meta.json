@@ -1,4 +1,16 @@
 {
+	"rank": 8,
+	"name": "Genius",
+	"codeName": "genius",
+	"jsonName": "genius.json",
+	"pngName": "genius.png",
+	"logoPngName": "genius.logo.png",
+	"metaJsonName": "genius.meta.json",
+	"batch": "S11",
+	"category": "Entertainment",
+	"description": "Music Intelligence",
+	"alexaRank": 406,
+	"pageURL": "https://www.ycdb.co/company/genius",
 	"website": "http://www.genius.com",
 	"palette": [
 		[

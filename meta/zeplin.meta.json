@@ -1,4 +1,16 @@
 {
+	"rank": 51,
+	"name": "Zeplin",
+	"codeName": "zeplin",
+	"jsonName": "zeplin.json",
+	"pngName": "zeplin.png",
+	"logoPngName": "zeplin.logo.png",
+	"metaJsonName": "zeplin.meta.json",
+	"batch": "S15",
+	"category": "Dev Tools",
+	"description": "Zeplin is a connected space for product teams where they can share designs, generate specs, assets a...",
+	"alexaRank": 8826,
+	"pageURL": "https://www.ycdb.co/company/zeplin",
 	"website": "http://www.zeplin.io",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 27,
+	"name": "Our World in Data",
+	"codeName": "ourworldindata",
+	"jsonName": "ourworldindata.json",
+	"pngName": "ourworldindata.png",
+	"logoPngName": "ourworldindata.logo.png",
+	"metaJsonName": "ourworldindata.meta.json",
+	"batch": "W19",
+	"category": "Education",
+	"description": "Research and data to make progress against the world\u2019s largest problems",
+	"alexaRank": 3435,
+	"pageURL": "https://www.ycdb.co/company/our-world-in-data",
 	"website": "http://www.ourworldindata.org",
 	"palette": [
 		[

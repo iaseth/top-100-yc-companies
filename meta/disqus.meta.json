@@ -1,4 +1,16 @@
 {
+	"rank": 11,
+	"name": "Disqus",
+	"codeName": "disqus",
+	"jsonName": "disqus.json",
+	"pngName": "disqus.png",
+	"logoPngName": "disqus.logo.png",
+	"metaJsonName": "disqus.meta.json",
+	"batch": "S07",
+	"category": "Dev Tools",
+	"description": "Add comments to your website.",
+	"alexaRank": 1065,
+	"pageURL": "https://www.ycdb.co/company/disqus",
 	"website": "http://www.disqus.com",
 	"palette": [
 		[

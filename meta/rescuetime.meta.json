@@ -1,4 +1,16 @@
 {
+	"rank": 70,
+	"name": "RescueTime",
+	"codeName": "rescuetime",
+	"jsonName": "rescuetime.json",
+	"pngName": "rescuetime.png",
+	"logoPngName": "rescuetime.logo.png",
+	"metaJsonName": "rescuetime.meta.json",
+	"batch": "W08",
+	"category": "Other SaaS",
+	"description": "Ridiculously Easy Time Management",
+	"alexaRank": 12205,
+	"pageURL": "https://www.ycdb.co/company/rescuetime",
 	"website": "http://www.rescuetime.com",
 	"palette": [
 		[

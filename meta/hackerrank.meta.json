@@ -1,4 +1,16 @@
 {
+	"rank": 21,
+	"name": "HackerRank",
+	"codeName": "hackerrank",
+	"jsonName": "hackerrank.json",
+	"pngName": "hackerrank.png",
+	"logoPngName": "hackerrank.logo.png",
+	"metaJsonName": "hackerrank.meta.json",
+	"batch": "S11",
+	"category": "Other SaaS",
+	"description": "Programmer IQ",
+	"alexaRank": 2338,
+	"pageURL": "https://www.ycdb.co/company/hackerrank",
 	"website": "http://www.hackerrank.com",
 	"palette": [
 		[

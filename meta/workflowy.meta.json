@@ -1,4 +1,16 @@
 {
+	"rank": 49,
+	"name": "WorkFlowy",
+	"codeName": "workflowy",
+	"jsonName": "workflowy.json",
+	"pngName": "workflowy.png",
+	"logoPngName": "workflowy.logo.png",
+	"metaJsonName": "workflowy.meta.json",
+	"batch": "S10",
+	"category": "Other SaaS",
+	"description": "WorkFlowy is a better way to manage information. It provides a simple mechanism - zoomable, searchab...",
+	"alexaRank": 7807,
+	"pageURL": "https://www.ycdb.co/company/workflowy",
 	"website": "http://www.workflowy.com",
 	"palette": [
 		[

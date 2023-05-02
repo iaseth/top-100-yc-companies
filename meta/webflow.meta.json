@@ -1,4 +1,16 @@
 {
+	"rank": 47,
+	"name": "Webflow",
+	"codeName": "webflow",
+	"jsonName": "webflow.json",
+	"pngName": "webflow.png",
+	"logoPngName": "webflow.logo.png",
+	"metaJsonName": "webflow.meta.json",
+	"batch": "S13",
+	"category": "Dev Tools",
+	"description": "Professional website design and publishing platform.",
+	"alexaRank": 7540,
+	"pageURL": "https://www.ycdb.co/company/webflow",
 	"website": "http://www.webflow.com",
 	"palette": [
 		[

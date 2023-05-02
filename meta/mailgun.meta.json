@@ -1,4 +1,16 @@
 {
+	"rank": 80,
+	"name": "Mailgun",
+	"codeName": "mailgun",
+	"jsonName": "mailgun.json",
+	"pngName": "mailgun.png",
+	"logoPngName": "mailgun.logo.png",
+	"metaJsonName": "mailgun.meta.json",
+	"batch": "W11",
+	"category": "Dev Tools",
+	"description": "Email API service.",
+	"alexaRank": 16085,
+	"pageURL": "https://www.ycdb.co/company/mailgun",
 	"website": "http://www.mailgun.com",
 	"palette": [
 		[

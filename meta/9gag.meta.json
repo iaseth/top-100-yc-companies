@@ -1,4 +1,16 @@
 {
+	"rank": 7,
+	"name": "9gag",
+	"codeName": "9gag",
+	"jsonName": "9gag.json",
+	"pngName": "9gag.png",
+	"logoPngName": "9gag.logo.png",
+	"metaJsonName": "9gag.meta.json",
+	"batch": "S12",
+	"category": "Entertainment",
+	"description": "Make the world happier.",
+	"alexaRank": 378,
+	"pageURL": "https://www.ycdb.co/company/9gag",
 	"website": "http://www.9gag.com",
 	"palette": [
 		[

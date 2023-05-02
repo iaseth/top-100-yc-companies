@@ -1,4 +1,16 @@
 {
+	"rank": 69,
+	"name": "PartnerStack",
+	"codeName": "partnerstack",
+	"jsonName": "partnerstack.json",
+	"pngName": "partnerstack.png",
+	"logoPngName": "partnerstack.logo.png",
+	"metaJsonName": "partnerstack.meta.json",
+	"batch": "S15",
+	"category": "Other SaaS",
+	"description": "PartnerStack is a full stack solution for partnerships.",
+	"alexaRank": 11663,
+	"pageURL": "https://www.ycdb.co/company/partnerstack",
 	"website": "http://www.partnerstack.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 66,
+	"name": "Expo",
+	"codeName": "expo",
+	"jsonName": "expo.json",
+	"pngName": "expo.png",
+	"logoPngName": "expo.logo.png",
+	"metaJsonName": "expo.meta.json",
+	"batch": "S16",
+	"category": "Other SaaS",
+	"description": "Expo brings together the best of web (development speed, fast iteration cycles, easy deploys, and au...",
+	"alexaRank": 10809,
+	"pageURL": "https://www.ycdb.co/company/expo",
 	"website": "http://www.expo.io",
 	"palette": [
 		[

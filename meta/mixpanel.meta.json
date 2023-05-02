@@ -1,4 +1,16 @@
 {
+	"rank": 79,
+	"name": "Mixpanel",
+	"codeName": "mixpanel",
+	"jsonName": "mixpanel.json",
+	"pngName": "mixpanel.png",
+	"logoPngName": "mixpanel.logo.png",
+	"metaJsonName": "mixpanel.meta.json",
+	"batch": "S09",
+	"category": "Other SaaS",
+	"description": "Mixpanel is the most advanced analytics platform in the world for mobile & web.",
+	"alexaRank": 15754,
+	"pageURL": "https://www.ycdb.co/company/mixpanel",
 	"website": "http://www.mixpanel.com",
 	"palette": [
 		[

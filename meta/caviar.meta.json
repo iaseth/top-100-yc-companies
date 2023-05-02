@@ -1,4 +1,16 @@
 {
+	"rank": 91,
+	"name": "Caviar",
+	"codeName": "caviar",
+	"jsonName": "caviar.json",
+	"pngName": "caviar.png",
+	"logoPngName": "caviar.logo.png",
+	"metaJsonName": "caviar.meta.json",
+	"batch": "S11",
+	"category": "Consumer",
+	"description": "Uber for food.",
+	"alexaRank": 19946,
+	"pageURL": "https://www.ycdb.co/company/caviar",
 	"website": "http://www.trycaviar.com",
 	"palette": [
 		[

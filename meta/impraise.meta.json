@@ -1,4 +1,16 @@
 {
+	"rank": 98,
+	"name": "Impraise",
+	"codeName": "impraise",
+	"jsonName": "impraise.json",
+	"pngName": "impraise.png",
+	"logoPngName": "impraise.logo.png",
+	"metaJsonName": "impraise.meta.json",
+	"batch": "S14",
+	"category": "Other SaaS",
+	"description": "Platform to manage the performance, development and engagement of employees.",
+	"alexaRank": 23986,
+	"pageURL": "https://www.ycdb.co/company/impraise",
 	"website": "http://www.impraise.com",
 	"palette": [
 		[

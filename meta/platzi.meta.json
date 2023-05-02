@@ -1,4 +1,16 @@
 {
+	"rank": 94,
+	"name": "Platzi",
+	"codeName": "platzi",
+	"jsonName": "platzi.json",
+	"pngName": "platzi.png",
+	"logoPngName": "platzi.logo.png",
+	"metaJsonName": "platzi.meta.json",
+	"batch": "W15",
+	"category": "Education",
+	"description": "Effective online education of coding, marketing and design. Largest player in Latinamerica.",
+	"alexaRank": 21121,
+	"pageURL": "https://www.ycdb.co/company/platzi",
 	"website": "http://www.platzi.com",
 	"palette": [
 		[

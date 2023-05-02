@@ -1,4 +1,16 @@
 {
+	"rank": 22,
+	"name": "OneSignal",
+	"codeName": "onesignal",
+	"jsonName": "onesignal.json",
+	"pngName": "onesignal.png",
+	"logoPngName": "onesignal.logo.png",
+	"metaJsonName": "onesignal.meta.json",
+	"batch": "S11",
+	"category": "Dev Tools",
+	"description": "Making engagement simple across push notifications, in-app, and email.",
+	"alexaRank": 2654,
+	"pageURL": "https://www.ycdb.co/company/onesignal",
 	"website": "http://www.onesignal.com",
 	"palette": [
 		[

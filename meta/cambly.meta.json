@@ -1,4 +1,16 @@
 {
+	"rank": 45,
+	"name": "Cambly",
+	"codeName": "cambly",
+	"jsonName": "cambly.json",
+	"pngName": "cambly.png",
+	"logoPngName": "cambly.logo.png",
+	"metaJsonName": "cambly.meta.json",
+	"batch": "W14",
+	"category": "Entertainment",
+	"description": "On-demand access to English tutors over video chat.",
+	"alexaRank": 6839,
+	"pageURL": "https://www.ycdb.co/company/cambly",
 	"website": "http://www.cambly.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 59,
+	"name": "Close",
+	"codeName": "close",
+	"jsonName": "close.json",
+	"pngName": "close.png",
+	"logoPngName": "close.logo.png",
+	"metaJsonName": "close.meta.json",
+	"batch": "W11",
+	"category": "Other SaaS",
+	"description": "Inside Sales and Sales Automation CRM for SMBs",
+	"alexaRank": 10034,
+	"pageURL": "https://www.ycdb.co/company/close",
 	"website": "http://www.close.com",
 	"palette": [
 		[

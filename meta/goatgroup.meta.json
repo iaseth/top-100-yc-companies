@@ -1,4 +1,16 @@
 {
+	"rank": 40,
+	"name": "GOAT Group",
+	"codeName": "goatgroup",
+	"jsonName": "goatgroup.json",
+	"pngName": "goatgroup.png",
+	"logoPngName": "goatgroup.logo.png",
+	"metaJsonName": "goatgroup.meta.json",
+	"batch": "W11",
+	"category": "Consumer",
+	"description": "GOAT Group represents the leading platforms for authentic sneakers, apparel, and accessories.",
+	"alexaRank": 5930,
+	"pageURL": "https://www.ycdb.co/company/goat-group",
 	"website": "http://www.goat.com",
 	"palette": [
 		[

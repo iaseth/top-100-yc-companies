@@ -1,4 +1,16 @@
 {
+	"rank": 100,
+	"name": "Apollo",
+	"codeName": "apollo",
+	"jsonName": "apollo.json",
+	"pngName": "apollo.png",
+	"logoPngName": "apollo.logo.png",
+	"metaJsonName": "apollo.meta.json",
+	"batch": "S11",
+	"category": "Other SaaS",
+	"description": "We make Apollo, the leading GraphQL implementation. (We are also the team that built Meteor, the Jav...",
+	"alexaRank": 24760,
+	"pageURL": "https://www.ycdb.co/company/apollo",
 	"website": "http://www.apollographql.com",
 	"palette": [
 		[

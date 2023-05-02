@@ -1,4 +1,16 @@
 {
+	"rank": 76,
+	"name": "Shogun",
+	"codeName": "shogun",
+	"jsonName": "shogun.json",
+	"pngName": "shogun.png",
+	"logoPngName": "shogun.logo.png",
+	"metaJsonName": "shogun.meta.json",
+	"batch": "W18",
+	"category": "Dev Tools",
+	"description": "Software for building the next generation of online stores.",
+	"alexaRank": 14440,
+	"pageURL": "https://www.ycdb.co/company/shogun",
 	"website": "http://www.getshogun.com",
 	"palette": [
 		[

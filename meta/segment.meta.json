@@ -1,4 +1,16 @@
 {
+	"rank": 57,
+	"name": "Segment",
+	"codeName": "segment",
+	"jsonName": "segment.json",
+	"pngName": "segment.png",
+	"logoPngName": "segment.logo.png",
+	"metaJsonName": "segment.meta.json",
+	"batch": "S11",
+	"category": "Other SaaS",
+	"description": "Segment is the analytics infrastructure that helps collect and organize data so businesses make bett...",
+	"alexaRank": 9622,
+	"pageURL": "https://www.ycdb.co/company/segment",
 	"website": "http://www.segment.com",
 	"palette": [
 		[

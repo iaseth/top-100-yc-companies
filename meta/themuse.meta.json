@@ -1,4 +1,16 @@
 {
+	"rank": 32,
+	"name": "The Muse",
+	"codeName": "themuse",
+	"jsonName": "themuse.json",
+	"pngName": "themuse.png",
+	"logoPngName": "themuse.logo.png",
+	"metaJsonName": "themuse.meta.json",
+	"batch": "W12",
+	"category": "Other SaaS",
+	"description": "The Muse is the ultimate career destination offering exciting job opportunities, expert advice, and ...",
+	"alexaRank": 4815,
+	"pageURL": "https://www.ycdb.co/company/the-muse",
 	"website": "http://www.themuse.com",
 	"palette": [
 		[

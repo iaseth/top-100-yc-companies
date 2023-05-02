@@ -1,4 +1,16 @@
 {
+	"rank": 96,
+	"name": "StatusPage",
+	"codeName": "statuspage",
+	"jsonName": "statuspage.json",
+	"pngName": "statuspage.png",
+	"logoPngName": "statuspage.logo.png",
+	"metaJsonName": "statuspage.meta.json",
+	"batch": "S13",
+	"category": "Dev Tools",
+	"description": "The best way to communicate with users around downtime.",
+	"alexaRank": 21857,
+	"pageURL": "https://www.ycdb.co/company/statuspage",
 	"website": "http://www.statuspage.io",
 	"palette": [
 		[

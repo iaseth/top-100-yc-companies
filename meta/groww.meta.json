@@ -1,4 +1,16 @@
 {
+	"rank": 67,
+	"name": "Groww",
+	"codeName": "groww",
+	"jsonName": "groww.json",
+	"pngName": "groww.png",
+	"logoPngName": "groww.logo.png",
+	"metaJsonName": "groww.meta.json",
+	"batch": "W18",
+	"category": "Fintech",
+	"description": "Investing made simple for everyone in India",
+	"alexaRank": 11088,
+	"pageURL": "https://www.ycdb.co/company/groww",
 	"website": "http://www.groww.in",
 	"palette": [
 		[

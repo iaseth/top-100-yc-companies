@@ -1,4 +1,16 @@
 {
+	"rank": 17,
+	"name": "Codecademy",
+	"codeName": "codecademy",
+	"jsonName": "codecademy.json",
+	"pngName": "codecademy.png",
+	"logoPngName": "codecademy.logo.png",
+	"metaJsonName": "codecademy.meta.json",
+	"batch": "S11",
+	"category": "Education",
+	"description": "Codecademy teaches the world the skills they need to find jobs",
+	"alexaRank": 1713,
+	"pageURL": "https://www.ycdb.co/company/codecademy",
 	"website": "http://www.codecademy.com",
 	"palette": [
 		[

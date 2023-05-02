@@ -1,4 +1,16 @@
 {
+	"rank": 42,
+	"name": "MatterPort",
+	"codeName": "matterport",
+	"jsonName": "matterport.json",
+	"pngName": "matterport.png",
+	"logoPngName": "matterport.logo.png",
+	"metaJsonName": "matterport.meta.json",
+	"batch": "W12",
+	"category": "Entertainment",
+	"description": "Turn physical objects and environments into 3D models in seconds.",
+	"alexaRank": 6115,
+	"pageURL": "https://www.ycdb.co/company/matterport",
 	"website": "http://www.matterport.com",
 	"palette": [
 		[

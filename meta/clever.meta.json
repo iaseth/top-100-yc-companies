@@ -1,4 +1,16 @@
 {
+	"rank": 19,
+	"name": "Clever",
+	"codeName": "clever",
+	"jsonName": "clever.json",
+	"pngName": "clever.png",
+	"logoPngName": "clever.logo.png",
+	"metaJsonName": "clever.meta.json",
+	"batch": "S12",
+	"category": "Education",
+	"description": "Clever is the platform that powers technology in the classroom.",
+	"alexaRank": 1954,
+	"pageURL": "https://www.ycdb.co/company/clever",
 	"website": "http://www.clever.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 35,
+	"name": "Heroku",
+	"codeName": "heroku",
+	"jsonName": "heroku.json",
+	"pngName": "heroku.png",
+	"logoPngName": "heroku.logo.png",
+	"metaJsonName": "heroku.meta.json",
+	"batch": "W08",
+	"category": "Other SaaS",
+	"description": "Heroku is a multi-language cloud application platform that enables developers to deploy, scale, and manage their applications.",
+	"alexaRank": 5430,
+	"pageURL": "https://www.ycdb.co/company/heroku",
 	"website": "http://www.heroku.com",
 	"palette": [
 		[

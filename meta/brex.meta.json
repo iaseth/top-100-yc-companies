@@ -1,4 +1,16 @@
 {
+	"rank": 72,
+	"name": "Brex",
+	"codeName": "brex",
+	"jsonName": "brex.json",
+	"pngName": "brex.png",
+	"logoPngName": "brex.logo.png",
+	"metaJsonName": "brex.meta.json",
+	"batch": "W17",
+	"category": "Fintech",
+	"description": "Brex is rebuilding B2B financial products",
+	"alexaRank": 13191,
+	"pageURL": "https://www.ycdb.co/company/brex",
 	"website": "http://www.brex.com",
 	"palette": [
 		[

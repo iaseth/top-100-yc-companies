@@ -1,4 +1,16 @@
 {
+	"rank": 55,
+	"name": "Submittable",
+	"codeName": "submittable",
+	"jsonName": "submittable.json",
+	"pngName": "submittable.png",
+	"logoPngName": "submittable.logo.png",
+	"metaJsonName": "submittable.meta.json",
+	"batch": "S12",
+	"category": "Dev Tools",
+	"description": "Submittable is the best way for organizations to create, promote, and manage their calls for submiss...",
+	"alexaRank": 9027,
+	"pageURL": "https://www.ycdb.co/company/submittable",
 	"website": "http://www.submittable.com",
 	"palette": [
 		[

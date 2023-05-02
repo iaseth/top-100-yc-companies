@@ -1,4 +1,16 @@
 {
+	"rank": 38,
+	"name": "Y Combinator",
+	"codeName": "ycombinator",
+	"jsonName": "ycombinator.json",
+	"pngName": "ycombinator.png",
+	"logoPngName": "ycombinator.logo.png",
+	"metaJsonName": "ycombinator.meta.json",
+	"batch": "S05",
+	"category": "",
+	"description": "Not your average fixed point combinator.",
+	"alexaRank": 5583,
+	"pageURL": "https://www.ycdb.co/company/y-combinator",
 	"website": "http://www.ycombinator.com",
 	"palette": [
 		[

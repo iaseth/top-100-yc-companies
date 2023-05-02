@@ -1,4 +1,16 @@
 {
+	"rank": 65,
+	"name": "Chatfuel",
+	"codeName": "chatfuel",
+	"jsonName": "chatfuel.json",
+	"pngName": "chatfuel.png",
+	"logoPngName": "chatfuel.logo.png",
+	"metaJsonName": "chatfuel.meta.json",
+	"batch": "W16",
+	"category": "Dev Tools",
+	"description": "Platform to easily create chatbots to engage with audiences on messengers.",
+	"alexaRank": 10795,
+	"pageURL": "https://www.ycdb.co/company/chatfuel",
 	"website": "http://www.chatfuel.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 88,
+	"name": "BackerKit",
+	"codeName": "backerkit",
+	"jsonName": "backerkit.json",
+	"pngName": "backerkit.png",
+	"logoPngName": "backerkit.logo.png",
+	"metaJsonName": "backerkit.meta.json",
+	"batch": "S12",
+	"category": "Other SaaS",
+	"description": "BackerKit is crowdfunding software that helps project creators manage their 1000 biggest fans.",
+	"alexaRank": 19367,
+	"pageURL": "https://www.ycdb.co/company/backerkit",
 	"website": "http://www.backerkit.com",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 52,
+	"name": "Chartio",
+	"codeName": "chartio",
+	"jsonName": "chartio.json",
+	"pngName": "chartio.png",
+	"logoPngName": "chartio.logo.png",
+	"metaJsonName": "chartio.meta.json",
+	"batch": "S10",
+	"category": "Other SaaS",
+	"description": "Chartio is changing how companies work by building the best visualization interface to data. We make...",
+	"alexaRank": 8837,
+	"pageURL": "https://www.ycdb.co/company/chartio",
 	"website": "http://www.chartio.com",
 	"palette": [
 		[

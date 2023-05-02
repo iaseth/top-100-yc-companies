@@ -1,4 +1,16 @@
 {
+	"rank": 25,
+	"name": "Stripe",
+	"codeName": "stripe",
+	"jsonName": "stripe.json",
+	"pngName": "stripe.png",
+	"logoPngName": "stripe.logo.png",
+	"metaJsonName": "stripe.meta.json",
+	"batch": "S09",
+	"category": "Fintech",
+	"description": "Online payments.",
+	"alexaRank": 3266,
+	"pageURL": "https://www.ycdb.co/company/stripe",
 	"website": "http://www.stripe.com",
 	"palette": [
 		[

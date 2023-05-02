@@ -1,4 +1,16 @@
 {
+	"rank": 16,
+	"name": "Creative Market",
+	"codeName": "creativemarket",
+	"jsonName": "creativemarket.json",
+	"pngName": "creativemarket.png",
+	"logoPngName": "creativemarket.logo.png",
+	"metaJsonName": "creativemarket.meta.json",
+	"batch": "W10",
+	"category": "Dev Tools",
+	"description": "Marketplace for ready-to-use design assets from independent creators around the world. Acquired by A...",
+	"alexaRank": 1709,
+	"pageURL": "https://www.ycdb.co/company/creative-market",
 	"website": "http://www.creativemarket.com",
 	"palette": [
 		[

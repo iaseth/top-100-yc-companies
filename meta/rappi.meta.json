@@ -1,4 +1,16 @@
 {
+	"rank": 89,
+	"name": "Rappi",
+	"codeName": "rappi",
+	"jsonName": "rappi.json",
+	"pngName": "rappi.png",
+	"logoPngName": "rappi.logo.png",
+	"metaJsonName": "rappi.meta.json",
+	"batch": "W16",
+	"category": "Consumer",
+	"description": "Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogot\u00e1 and Mexi...",
+	"alexaRank": 19729,
+	"pageURL": "https://www.ycdb.co/company/rappi",
 	"website": "http://www.rappi.com",
 	"palette": [
 		[

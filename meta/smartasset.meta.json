@@ -1,4 +1,16 @@
 {
+	"rank": 31,
+	"name": "SmartAsset",
+	"codeName": "smartasset",
+	"jsonName": "smartasset.json",
+	"pngName": "smartasset.png",
+	"logoPngName": "smartasset.logo.png",
+	"metaJsonName": "smartasset.meta.json",
+	"batch": "S12",
+	"category": "Fintech",
+	"description": "The easiest way to make and understand important personal finance decisions.",
+	"alexaRank": 4764,
+	"pageURL": "https://www.ycdb.co/company/smartasset",
 	"website": "http://www.smartasset.com",
 	"palette": [
 		[

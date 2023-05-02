@@ -1,4 +1,16 @@
 {
+	"rank": 78,
+	"name": "UpLabs",
+	"codeName": "uplabs",
+	"jsonName": "uplabs.json",
+	"pngName": "uplabs.png",
+	"logoPngName": "uplabs.logo.png",
+	"metaJsonName": "uplabs.meta.json",
+	"batch": "W16",
+	"category": "Dev Tools",
+	"description": "UpLabs is the #1 marketplace for designers & developers to find design resources.",
+	"alexaRank": 15203,
+	"pageURL": "https://www.ycdb.co/company/uplabs",
 	"website": "http://www.uplabs.com",
 	"palette": [
 		[

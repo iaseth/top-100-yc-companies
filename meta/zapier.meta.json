@@ -1,4 +1,16 @@
 {
+	"rank": 29,
+	"name": "Zapier",
+	"codeName": "zapier",
+	"jsonName": "zapier.json",
+	"pngName": "zapier.png",
+	"logoPngName": "zapier.logo.png",
+	"metaJsonName": "zapier.meta.json",
+	"batch": "S12",
+	"category": "Other SaaS",
+	"description": "The easiest way to automate your work",
+	"alexaRank": 4626,
+	"pageURL": "https://www.ycdb.co/company/zapier",
 	"website": "http://www.zapier.com",
 	"palette": [
 		[

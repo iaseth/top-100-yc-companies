@@ -1,4 +1,16 @@
 {
+	"rank": 18,
+	"name": "Instacart",
+	"codeName": "instacart",
+	"jsonName": "instacart.json",
+	"pngName": "instacart.png",
+	"logoPngName": "instacart.logo.png",
+	"metaJsonName": "instacart.meta.json",
+	"batch": "S12",
+	"category": "Consumer",
+	"description": "The North American leader in online grocery",
+	"alexaRank": 1936,
+	"pageURL": "https://www.ycdb.co/company/instacart",
 	"website": "http://www.instacart.com",
 	"palette": [
 		[

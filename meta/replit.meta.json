@@ -1,4 +1,16 @@
 {
+	"rank": 26,
+	"name": "Repl.it",
+	"codeName": "replit",
+	"jsonName": "replit.json",
+	"pngName": "replit.png",
+	"logoPngName": "replit.logo.png",
+	"metaJsonName": "replit.meta.json",
+	"batch": "W18",
+	"category": "Dev Tools",
+	"description": "In 2 seconds, boot up an online programming environment for your favorite language.",
+	"alexaRank": 3406,
+	"pageURL": "https://www.ycdb.co/company/repl-it",
 	"website": "http://www.repl.it",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 93,
+	"name": "MessageBird",
+	"codeName": "messagebird",
+	"jsonName": "messagebird.json",
+	"pngName": "messagebird.png",
+	"logoPngName": "messagebird.logo.png",
+	"metaJsonName": "messagebird.meta.json",
+	"batch": "S16",
+	"category": "Dev Tools",
+	"description": "MessageBird is an API for sending Text, Voice & Chat messages. We offer the most advanced messaging ...",
+	"alexaRank": 20494,
+	"pageURL": "https://www.ycdb.co/company/messagebird",
 	"website": "http://www.messagebird.com",
 	"palette": [
 		[

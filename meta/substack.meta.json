@@ -1,4 +1,16 @@
 {
+	"rank": 50,
+	"name": "Substack",
+	"codeName": "substack",
+	"jsonName": "substack.json",
+	"pngName": "substack.png",
+	"logoPngName": "substack.logo.png",
+	"metaJsonName": "substack.meta.json",
+	"batch": "W18",
+	"category": "Other SaaS",
+	"description": "A place for independent writing",
+	"alexaRank": 8468,
+	"pageURL": "https://www.ycdb.co/company/substack",
 	"website": "http://www.substack.com",
 	"palette": [
 		[

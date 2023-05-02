@@ -1,4 +1,16 @@
 {
+	"rank": 92,
+	"name": "Streak",
+	"codeName": "streak",
+	"jsonName": "streak.json",
+	"pngName": "streak.png",
+	"logoPngName": "streak.logo.png",
+	"metaJsonName": "streak.meta.json",
+	"batch": "S11",
+	"category": "Other SaaS",
+	"description": "Streak transforms Gmail into a customizable CRM and process management tool. Our products service th...",
+	"alexaRank": 20256,
+	"pageURL": "https://www.ycdb.co/company/streak",
 	"website": "http://www.streak.com",
 	"palette": [
 		[

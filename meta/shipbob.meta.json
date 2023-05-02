@@ -1,4 +1,16 @@
 {
+	"rank": 63,
+	"name": "ShipBob",
+	"codeName": "shipbob",
+	"jsonName": "shipbob.json",
+	"pngName": "shipbob.png",
+	"logoPngName": "shipbob.logo.png",
+	"metaJsonName": "shipbob.meta.json",
+	"batch": "S14",
+	"category": "Other SaaS",
+	"description": "Providing Amazon level logistics to e-commerce businesses.",
+	"alexaRank": 10380,
+	"pageURL": "https://www.ycdb.co/company/shipbob",
 	"website": "http://www.shipbob.com",
 	"palette": [
 		[

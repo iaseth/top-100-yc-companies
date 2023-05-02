@@ -1,4 +1,16 @@
 {
+	"rank": 5,
+	"name": "Scribd",
+	"codeName": "scribd",
+	"jsonName": "scribd.json",
+	"pngName": "scribd.png",
+	"logoPngName": "scribd.logo.png",
+	"metaJsonName": "scribd.meta.json",
+	"batch": "S06",
+	"category": "Entertainment",
+	"description": "World's largest online library.",
+	"alexaRank": 264,
+	"pageURL": "https://www.ycdb.co/company/scribd",
 	"website": "http://www.scribd.com",
 	"palette": [
 		[

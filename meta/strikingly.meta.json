@@ -1,4 +1,16 @@
 {
+	"rank": 30,
+	"name": "Strikingly",
+	"codeName": "strikingly",
+	"jsonName": "strikingly.json",
+	"pngName": "strikingly.png",
+	"logoPngName": "strikingly.logo.png",
+	"metaJsonName": "strikingly.meta.json",
+	"batch": "W13",
+	"category": "Other SaaS",
+	"description": "The easiest way to create a beautiful, mobile optimized website.",
+	"alexaRank": 4674,
+	"pageURL": "https://www.ycdb.co/company/strikingly",
 	"website": "http://www.strikingly.com",
 	"palette": [
 		[

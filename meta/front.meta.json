@@ -1,4 +1,16 @@
 {
+	"rank": 43,
+	"name": "Front",
+	"codeName": "front",
+	"jsonName": "front.json",
+	"pngName": "front.png",
+	"logoPngName": "front.logo.png",
+	"metaJsonName": "front.meta.json",
+	"batch": "S14",
+	"category": "Other SaaS",
+	"description": "Collaborative Inbox for Companies",
+	"alexaRank": 6128,
+	"pageURL": "https://www.ycdb.co/company/front",
 	"website": "http://www.frontapp.com",
 	"palette": [
 		[

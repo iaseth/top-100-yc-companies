@@ -1,4 +1,16 @@
 {
+	"rank": 77,
+	"name": "Vidyard",
+	"codeName": "vidyard",
+	"jsonName": "vidyard.json",
+	"pngName": "vidyard.png",
+	"logoPngName": "vidyard.logo.png",
+	"metaJsonName": "vidyard.meta.json",
+	"batch": "S11",
+	"category": "Other SaaS",
+	"description": "Video for business",
+	"alexaRank": 15139,
+	"pageURL": "https://www.ycdb.co/company/vidyard",
 	"website": "http://www.vidyard.com",
 	"palette": [
 		[

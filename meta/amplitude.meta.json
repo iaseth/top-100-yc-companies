@@ -1,4 +1,16 @@
 {
+	"rank": 46,
+	"name": "Amplitude",
+	"codeName": "amplitude",
+	"jsonName": "amplitude.json",
+	"pngName": "amplitude.png",
+	"logoPngName": "amplitude.logo.png",
+	"metaJsonName": "amplitude.meta.json",
+	"batch": "W12",
+	"category": "Other SaaS",
+	"description": "Amplitude is the comprehensive product analytics software for web and mobile",
+	"alexaRank": 7074,
+	"pageURL": "https://www.ycdb.co/company/amplitude",
 	"website": "http://www.amplitude.com",
 	"palette": [
 		[

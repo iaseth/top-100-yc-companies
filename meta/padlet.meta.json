@@ -1,4 +1,16 @@
 {
+	"rank": 4,
+	"name": "Padlet",
+	"codeName": "padlet",
+	"jsonName": "padlet.json",
+	"pngName": "padlet.png",
+	"logoPngName": "padlet.logo.png",
+	"metaJsonName": "padlet.meta.json",
+	"batch": "W13",
+	"category": "Other SaaS",
+	"description": "Papyrus \u2192 Parchment \u2192 Paper \u2192 Padlet",
+	"alexaRank": 177,
+	"pageURL": "https://www.ycdb.co/company/padlet",
 	"website": "http://www.padlet.com",
 	"palette": [
 		[

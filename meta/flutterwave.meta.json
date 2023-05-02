@@ -1,4 +1,16 @@
 {
+	"rank": 56,
+	"name": "Flutterwave",
+	"codeName": "flutterwave",
+	"jsonName": "flutterwave.json",
+	"pngName": "flutterwave.png",
+	"logoPngName": "flutterwave.logo.png",
+	"metaJsonName": "flutterwave.meta.json",
+	"batch": "S16",
+	"category": "Fintech",
+	"description": "We help businesses to make and accept payments from anywhere in Africa",
+	"alexaRank": 9239,
+	"pageURL": "https://www.ycdb.co/company/flutterwave",
 	"website": "http://www.flutterwave.com",
 	"palette": [
 		[

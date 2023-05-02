@@ -1,4 +1,16 @@
 {
+	"rank": 73,
+	"name": "HelloSign",
+	"codeName": "hellosign",
+	"jsonName": "hellosign.json",
+	"pngName": "hellosign.png",
+	"logoPngName": "hellosign.logo.png",
+	"metaJsonName": "hellosign.meta.json",
+	"batch": "W11",
+	"category": "Other SaaS",
+	"description": "The #1 eSignature Software for Small and Mid-Market Businesses.",
+	"alexaRank": 13819,
+	"pageURL": "https://www.ycdb.co/company/hellosign",
 	"website": "http://www.hellosign.com",
 	"palette": [
 		[

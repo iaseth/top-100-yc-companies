@@ -1,4 +1,16 @@
 {
+	"rank": 37,
+	"name": "Lever",
+	"codeName": "lever",
+	"jsonName": "lever.json",
+	"pngName": "lever.png",
+	"logoPngName": "lever.logo.png",
+	"metaJsonName": "lever.meta.json",
+	"batch": "S12",
+	"category": "Other SaaS",
+	"description": "Lever is a Talent Acquisition Suite that combines ATS + Talent CRM",
+	"alexaRank": 5455,
+	"pageURL": "https://www.ycdb.co/company/lever",
 	"website": "http://www.lever.co",
 	"palette": [
 		[

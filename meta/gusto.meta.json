@@ -1,4 +1,16 @@
 {
+	"rank": 83,
+	"name": "Gusto",
+	"codeName": "gusto",
+	"jsonName": "gusto.json",
+	"pngName": "gusto.png",
+	"logoPngName": "gusto.logo.png",
+	"metaJsonName": "gusto.meta.json",
+	"batch": "W12",
+	"category": "Other SaaS",
+	"description": "Gusto is a modern, online people platform that helps small businesses take care of their teams.",
+	"alexaRank": 18125,
+	"pageURL": "https://www.ycdb.co/company/gusto",
 	"website": "http://www.gusto.com",
 	"palette": [
 		[

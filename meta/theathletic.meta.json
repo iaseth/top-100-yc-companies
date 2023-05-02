@@ -1,4 +1,16 @@
 {
+	"rank": 44,
+	"name": "The Athletic",
+	"codeName": "theathletic",
+	"jsonName": "theathletic.json",
+	"pngName": "theathletic.png",
+	"logoPngName": "theathletic.logo.png",
+	"metaJsonName": "theathletic.meta.json",
+	"batch": "S16",
+	"category": "Entertainment",
+	"description": "Subscription sports media.",
+	"alexaRank": 6476,
+	"pageURL": "https://www.ycdb.co/company/the-athletic",
 	"website": "http://www.theathletic.com",
 	"palette": [
 		[

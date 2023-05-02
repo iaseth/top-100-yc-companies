@@ -1,4 +1,16 @@
 {
+	"rank": 9,
+	"name": "Airbnb",
+	"codeName": "airbnb",
+	"jsonName": "airbnb.json",
+	"pngName": "airbnb.png",
+	"logoPngName": "airbnb.logo.png",
+	"metaJsonName": "airbnb.meta.json",
+	"batch": "W09",
+	"category": "Consumer",
+	"description": "Book accommodations around the world",
+	"alexaRank": 514,
+	"pageURL": "https://www.ycdb.co/company/airbnb",
 	"website": "http://www.airbnb.com",
 	"palette": [
 		[

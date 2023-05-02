@@ -1,4 +1,16 @@
 {
+	"rank": 12,
+	"name": "1000Memories",
+	"codeName": "1000memories",
+	"jsonName": "1000memories.json",
+	"pngName": "1000memories.png",
+	"logoPngName": "1000memories.logo.png",
+	"metaJsonName": "1000memories.meta.json",
+	"batch": "S10",
+	"category": "Consumer",
+	"description": "Memorial sites.",
+	"alexaRank": 1358,
+	"pageURL": "https://www.ycdb.co/company/1000memories",
 	"website": "http://www.ancestry.com",
 	"palette": [
 		[

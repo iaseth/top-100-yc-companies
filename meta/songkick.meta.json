@@ -1,4 +1,16 @@
 {
+	"rank": 71,
+	"name": "Songkick",
+	"codeName": "songkick",
+	"jsonName": "songkick.json",
+	"pngName": "songkick.png",
+	"logoPngName": "songkick.logo.png",
+	"metaJsonName": "songkick.meta.json",
+	"batch": "S07",
+	"category": "Consumer",
+	"description": "Songkick is a ticketing vendor and online database of concerts for music enthusiasts.",
+	"alexaRank": 12922,
+	"pageURL": "https://www.ycdb.co/company/songkick",
 	"website": "http://www.songkick.com",
 	"palette": [
 		[

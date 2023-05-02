@@ -1,4 +1,16 @@
 {
+	"rank": 2,
+	"name": "Twitch",
+	"codeName": "twitch",
+	"jsonName": "twitch.json",
+	"pngName": "twitch.png",
+	"logoPngName": "twitch.logo.png",
+	"metaJsonName": "twitch.meta.json",
+	"batch": "W07",
+	"category": "Entertainment",
+	"description": "Video game live streaming",
+	"alexaRank": 32,
+	"pageURL": "https://www.ycdb.co/company/twitch",
 	"website": "http://www.twitch.tv",
 	"palette": [
 		[

@@ -1,4 +1,16 @@
 {
+	"rank": 10,
+	"name": "Loom",
+	"codeName": "loom",
+	"jsonName": "loom.json",
+	"pngName": "loom.png",
+	"logoPngName": "loom.logo.png",
+	"metaJsonName": "loom.meta.json",
+	"batch": "W12",
+	"category": "Entertainment",
+	"description": "Cloud storage for photos and videos (acquired by Dropbox).",
+	"alexaRank": 644,
+	"pageURL": "https://www.ycdb.co/company/loom",
 	"website": "http://www.loom.com",
 	"palette": [
 		[

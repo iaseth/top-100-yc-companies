@@ -1,4 +1,16 @@
 {
+	"rank": 60,
+	"name": "Zenefits",
+	"codeName": "zenefits",
+	"jsonName": "zenefits.json",
+	"pngName": "zenefits.png",
+	"logoPngName": "zenefits.logo.png",
+	"metaJsonName": "zenefits.meta.json",
+	"batch": "W13",
+	"category": "Other SaaS",
+	"description": "HR for small businesses: onboarding, payroll and benefits.",
+	"alexaRank": 10093,
+	"pageURL": "https://www.ycdb.co/company/zenefits",
 	"website": "http://www.zenefits.com",
 	"palette": [
 		[

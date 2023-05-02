@@ -1,4 +1,16 @@
 {
+	"rank": 1,
+	"name": "Reddit",
+	"codeName": "reddit",
+	"jsonName": "reddit.json",
+	"pngName": "reddit.png",
+	"logoPngName": "reddit.logo.png",
+	"metaJsonName": "reddit.meta.json",
+	"batch": "S05",
+	"category": "Entertainment",
+	"description": "The frontpage of the internet.",
+	"alexaRank": 19,
+	"pageURL": "https://www.ycdb.co/company/reddit",
 	"website": "http://www.reddit.com",
 	"palette": [
 		[

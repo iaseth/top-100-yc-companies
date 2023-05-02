@@ -1,4 +1,16 @@
 {
+	"rank": 87,
+	"name": "Tech in Asia",
+	"codeName": "techinasia",
+	"jsonName": "techinasia.json",
+	"pngName": "techinasia.png",
+	"logoPngName": "techinasia.logo.png",
+	"metaJsonName": "techinasia.meta.json",
+	"batch": "W15",
+	"category": "Entertainment",
+	"description": "Tech in Asia (YC W15) is the largest English-language technology media company that focuses on Asia.",
+	"alexaRank": 19280,
+	"pageURL": "https://www.ycdb.co/company/tech-in-asia",
 	"website": "http://www.techinasia.com",
 	"palette": [
 		[

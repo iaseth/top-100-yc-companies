@@ -1,4 +1,16 @@
 {
+	"rank": 85,
+	"name": "Cashfree",
+	"codeName": "cashfree",
+	"jsonName": "cashfree.json",
+	"pngName": "cashfree.png",
+	"logoPngName": "cashfree.logo.png",
+	"metaJsonName": "cashfree.meta.json",
+	"batch": "S17",
+	"category": "Fintech",
+	"description": "Next-Gen digital payments provider for India.",
+	"alexaRank": 18854,
+	"pageURL": "https://www.ycdb.co/company/cashfree",
 	"website": "http://www.cashfree.com",
 	"palette": [
 		[

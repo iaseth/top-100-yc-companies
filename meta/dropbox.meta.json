@@ -1,4 +1,16 @@
 {
+	"rank": 3,
+	"name": "Dropbox",
+	"codeName": "dropbox",
+	"jsonName": "dropbox.json",
+	"pngName": "dropbox.png",
+	"logoPngName": "dropbox.logo.png",
+	"metaJsonName": "dropbox.meta.json",
+	"batch": "S07",
+	"category": "Other SaaS",
+	"description": "Backup and share files in the cloud.",
+	"alexaRank": 65,
+	"pageURL": "https://www.ycdb.co/company/dropbox",
 	"website": "http://www.dropbox.com",
 	"palette": [
 		[

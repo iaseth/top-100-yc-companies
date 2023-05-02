@@ -1,4 +1,16 @@
 {
+	"rank": 90,
+	"name": "Outschool",
+	"codeName": "outschool",
+	"jsonName": "outschool.json",
+	"pngName": "outschool.png",
+	"logoPngName": "outschool.logo.png",
+	"metaJsonName": "outschool.meta.json",
+	"batch": "W16",
+	"category": "Education",
+	"description": "Marketplace of live online classes for kids",
+	"alexaRank": 19747,
+	"pageURL": "https://www.ycdb.co/company/outschool",
 	"website": "http://www.outschool.com",
 	"palette": [
 		[

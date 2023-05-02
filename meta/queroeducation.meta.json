@@ -1,4 +1,16 @@
 {
+	"rank": 86,
+	"name": "Quero Education",
+	"codeName": "queroeducation",
+	"jsonName": "queroeducation.json",
+	"pngName": "queroeducation.png",
+	"logoPngName": "queroeducation.logo.png",
+	"metaJsonName": "queroeducation.meta.json",
+	"batch": "S16",
+	"category": "Education",
+	"description": "Quero is an online marketplace for college programs in Brazil. It helps students search, compare and...",
+	"alexaRank": 19195,
+	"pageURL": "https://www.ycdb.co/company/quero-education",
 	"website": "http://www.querobolsa.com.br",
 	"palette": [
 		[

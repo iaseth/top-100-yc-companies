@@ -1,4 +1,16 @@
 {
+	"rank": 28,
+	"name": "Font Awesome",
+	"codeName": "fontawesome",
+	"jsonName": "fontawesome.json",
+	"pngName": "fontawesome.png",
+	"logoPngName": "fontawesome.logo.png",
+	"metaJsonName": "fontawesome.meta.json",
+	"batch": "S15",
+	"category": "Dev Tools",
+	"description": "Icons and social logos for your website.",
+	"alexaRank": 3555,
+	"pageURL": "https://www.ycdb.co/company/font-awesome",
 	"website": "http://www.fontawesome.com",
 	"palette": [
 		[

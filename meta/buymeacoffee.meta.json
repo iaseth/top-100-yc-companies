@@ -1,4 +1,16 @@
 {
+	"rank": 64,
+	"name": "Buy Me A Coffee",
+	"codeName": "buymeacoffee",
+	"jsonName": "buymeacoffee.json",
+	"pngName": "buymeacoffee.png",
+	"logoPngName": "buymeacoffee.logo.png",
+	"metaJsonName": "buymeacoffee.meta.json",
+	"batch": "W19",
+	"category": "Entertainment",
+	"description": "Helping creators monetize",
+	"alexaRank": 10754,
+	"pageURL": "https://www.ycdb.co/company/buy-me-a-coffee",
 	"website": "http://www.buymeacoffee.com",
 	"palette": [
 		[

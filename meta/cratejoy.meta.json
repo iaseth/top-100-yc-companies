@@ -1,4 +1,16 @@
 {
+	"rank": 74,
+	"name": "Cratejoy",
+	"codeName": "cratejoy",
+	"jsonName": "cratejoy.json",
+	"pngName": "cratejoy.png",
+	"logoPngName": "cratejoy.logo.png",
+	"metaJsonName": "cratejoy.meta.json",
+	"batch": "S13",
+	"category": "Other SaaS",
+	"description": "Cratejoy is the platform for subscriptions",
+	"alexaRank": 14074,
+	"pageURL": "https://www.ycdb.co/company/cratejoy",
 	"website": "http://www.cratejoy.com",
 	"palette": [
 		[

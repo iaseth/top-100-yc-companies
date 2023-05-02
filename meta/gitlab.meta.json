@@ -1,4 +1,16 @@
 {
+	"rank": 23,
+	"name": "GitLab",
+	"codeName": "gitlab",
+	"jsonName": "gitlab.json",
+	"pngName": "gitlab.png",
+	"logoPngName": "gitlab.logo.png",
+	"metaJsonName": "gitlab.meta.json",
+	"batch": "W15",
+	"category": "Dev Tools",
+	"description": "GitLab is a complete DevOps platform, delivered as a single application.",
+	"alexaRank": 2938,
+	"pageURL": "https://www.ycdb.co/company/gitlab",
 	"website": "http://www.gitlab.com",
 	"palette": [
 		[
