@@ -19,6 +19,8 @@ def getCompany(tr):
 	company["name"] = data[1]
 	company["codeName"] = "-".join(data[1].lower().split(" "))
 	company["jsonName"] = company["codeName"] + ".json"
+	company["pngName"] = company["codeName"] + ".png"
+	company["metaJsonName"] = company["codeName"] + ".meta.json"
 
 	company["batch"] = data[2]
 	company["category"] = data[3]
