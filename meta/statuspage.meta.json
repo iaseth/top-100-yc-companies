@@ -39,5 +39,7 @@
 			212
 		]
 	],
+	"metaJsonPath": "meta/statuspage.meta.json",
+	"logoPngPath": "logos/statuspage.logo.png",
 	"palettePngPath": "palettes/statuspage.palette.png"
 }

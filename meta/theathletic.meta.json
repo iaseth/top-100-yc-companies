@@ -39,5 +39,7 @@
 			124
 		]
 	],
+	"metaJsonPath": "meta/theathletic.meta.json",
+	"logoPngPath": "logos/theathletic.logo.png",
 	"palettePngPath": "palettes/theathletic.palette.png"
 }

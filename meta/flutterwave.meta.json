@@ -39,5 +39,7 @@
 			148
 		]
 	],
+	"metaJsonPath": "meta/flutterwave.meta.json",
+	"logoPngPath": "logos/flutterwave.logo.png",
 	"palettePngPath": "palettes/flutterwave.palette.png"
 }

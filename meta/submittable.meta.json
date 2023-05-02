@@ -39,5 +39,7 @@
 			52
 		]
 	],
+	"metaJsonPath": "meta/submittable.meta.json",
+	"logoPngPath": "logos/submittable.logo.png",
 	"palettePngPath": "palettes/submittable.palette.png"
 }

@@ -39,5 +39,7 @@
 			216
 		]
 	],
+	"metaJsonPath": "meta/ninite.meta.json",
+	"logoPngPath": "logos/ninite.logo.png",
 	"palettePngPath": "palettes/ninite.palette.png"
 }

@@ -39,5 +39,7 @@
 			212
 		]
 	],
+	"metaJsonPath": "meta/uplabs.meta.json",
+	"logoPngPath": "logos/uplabs.logo.png",
 	"palettePngPath": "palettes/uplabs.palette.png"
 }

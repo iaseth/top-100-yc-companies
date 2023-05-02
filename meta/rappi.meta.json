@@ -39,5 +39,7 @@
 			84
 		]
 	],
+	"metaJsonPath": "meta/rappi.meta.json",
+	"logoPngPath": "logos/rappi.logo.png",
 	"palettePngPath": "palettes/rappi.palette.png"
 }

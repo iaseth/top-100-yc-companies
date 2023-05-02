@@ -39,5 +39,7 @@
 			44
 		]
 	],
+	"metaJsonPath": "meta/gitlab.meta.json",
+	"logoPngPath": "logos/gitlab.logo.png",
 	"palettePngPath": "palettes/gitlab.palette.png"
 }

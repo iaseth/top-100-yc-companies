@@ -39,5 +39,7 @@
 			100
 		]
 	],
+	"metaJsonPath": "meta/codecademy.meta.json",
+	"logoPngPath": "logos/codecademy.logo.png",
 	"palettePngPath": "palettes/codecademy.palette.png"
 }

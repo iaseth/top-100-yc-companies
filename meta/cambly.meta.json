@@ -39,5 +39,7 @@
 			54
 		]
 	],
+	"metaJsonPath": "meta/cambly.meta.json",
+	"logoPngPath": "logos/cambly.logo.png",
 	"palettePngPath": "palettes/cambly.palette.png"
 }

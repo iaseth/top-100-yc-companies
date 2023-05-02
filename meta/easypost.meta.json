@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/easypost.meta.json",
+	"logoPngPath": "logos/easypost.logo.png",
 	"palettePngPath": "palettes/easypost.palette.png"
 }

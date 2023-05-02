@@ -39,5 +39,7 @@
 			196
 		]
 	],
+	"metaJsonPath": "meta/hellosign.meta.json",
+	"logoPngPath": "logos/hellosign.logo.png",
 	"palettePngPath": "palettes/hellosign.palette.png"
 }

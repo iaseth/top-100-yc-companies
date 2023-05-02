@@ -39,5 +39,7 @@
 			172
 		]
 	],
+	"metaJsonPath": "meta/thunkable.meta.json",
+	"logoPngPath": "logos/thunkable.logo.png",
 	"palettePngPath": "palettes/thunkable.palette.png"
 }

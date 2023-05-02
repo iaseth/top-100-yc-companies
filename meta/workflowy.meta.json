@@ -39,5 +39,7 @@
 			212
 		]
 	],
+	"metaJsonPath": "meta/workflowy.meta.json",
+	"logoPngPath": "logos/workflowy.logo.png",
 	"palettePngPath": "palettes/workflowy.palette.png"
 }

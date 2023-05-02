@@ -39,5 +39,7 @@
 			192
 		]
 	],
+	"metaJsonPath": "meta/docker.meta.json",
+	"logoPngPath": "logos/docker.logo.png",
 	"palettePngPath": "palettes/docker.palette.png"
 }

@@ -39,5 +39,7 @@
 			76
 		]
 	],
+	"metaJsonPath": "meta/backerkit.meta.json",
+	"logoPngPath": "logos/backerkit.logo.png",
 	"palettePngPath": "palettes/backerkit.palette.png"
 }

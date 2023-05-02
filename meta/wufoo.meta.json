@@ -39,5 +39,7 @@
 			132
 		]
 	],
+	"metaJsonPath": "meta/wufoo.meta.json",
+	"logoPngPath": "logos/wufoo.logo.png",
 	"palettePngPath": "palettes/wufoo.palette.png"
 }

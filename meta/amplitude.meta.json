@@ -39,5 +39,7 @@
 			224
 		]
 	],
+	"metaJsonPath": "meta/amplitude.meta.json",
+	"logoPngPath": "logos/amplitude.logo.png",
 	"palettePngPath": "palettes/amplitude.palette.png"
 }

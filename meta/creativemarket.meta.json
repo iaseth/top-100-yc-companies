@@ -39,5 +39,7 @@
 			180
 		]
 	],
+	"metaJsonPath": "meta/creativemarket.meta.json",
+	"logoPngPath": "logos/creativemarket.logo.png",
 	"palettePngPath": "palettes/creativemarket.palette.png"
 }

@@ -39,5 +39,7 @@
 			233
 		]
 	],
+	"metaJsonPath": "meta/messagebird.meta.json",
+	"logoPngPath": "logos/messagebird.logo.png",
 	"palettePngPath": "palettes/messagebird.palette.png"
 }

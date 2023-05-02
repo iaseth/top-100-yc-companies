@@ -39,5 +39,7 @@
 			60
 		]
 	],
+	"metaJsonPath": "meta/ycombinator.meta.json",
+	"logoPngPath": "logos/ycombinator.logo.png",
 	"palettePngPath": "palettes/ycombinator.palette.png"
 }

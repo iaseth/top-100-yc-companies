@@ -39,5 +39,7 @@
 			164
 		]
 	],
+	"metaJsonPath": "meta/songkick.meta.json",
+	"logoPngPath": "logos/songkick.logo.png",
 	"palettePngPath": "palettes/songkick.palette.png"
 }

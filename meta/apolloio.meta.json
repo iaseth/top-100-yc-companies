@@ -39,5 +39,7 @@
 			68
 		]
 	],
+	"metaJsonPath": "meta/apolloio.meta.json",
+	"logoPngPath": "logos/apolloio.logo.png",
 	"palettePngPath": "palettes/apolloio.palette.png"
 }

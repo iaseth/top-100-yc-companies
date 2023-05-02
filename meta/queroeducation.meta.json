@@ -39,5 +39,7 @@
 			180
 		]
 	],
+	"metaJsonPath": "meta/queroeducation.meta.json",
+	"logoPngPath": "logos/queroeducation.logo.png",
 	"palettePngPath": "palettes/queroeducation.palette.png"
 }

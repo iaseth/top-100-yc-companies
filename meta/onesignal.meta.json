@@ -39,5 +39,7 @@
 			124
 		]
 	],
+	"metaJsonPath": "meta/onesignal.meta.json",
+	"logoPngPath": "logos/onesignal.logo.png",
 	"palettePngPath": "palettes/onesignal.palette.png"
 }

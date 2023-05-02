@@ -39,5 +39,7 @@
 			4
 		]
 	],
+	"metaJsonPath": "meta/goldbelly.meta.json",
+	"logoPngPath": "logos/goldbelly.logo.png",
 	"palettePngPath": "palettes/goldbelly.palette.png"
 }

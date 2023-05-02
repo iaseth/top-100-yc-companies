@@ -39,5 +39,7 @@
 			140
 		]
 	],
+	"metaJsonPath": "meta/shogun.meta.json",
+	"logoPngPath": "logos/shogun.logo.png",
 	"palettePngPath": "palettes/shogun.palette.png"
 }

@@ -39,5 +39,7 @@
 			142
 		]
 	],
+	"metaJsonPath": "meta/close.meta.json",
+	"logoPngPath": "logos/close.logo.png",
 	"palettePngPath": "palettes/close.palette.png"
 }

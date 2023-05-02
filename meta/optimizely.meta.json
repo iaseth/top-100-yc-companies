@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/optimizely.meta.json",
+	"logoPngPath": "logos/optimizely.logo.png",
 	"palettePngPath": "palettes/optimizely.palette.png"
 }

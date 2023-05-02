@@ -39,5 +39,7 @@
 			208
 		]
 	],
+	"metaJsonPath": "meta/zenefits.meta.json",
+	"logoPngPath": "logos/zenefits.logo.png",
 	"palettePngPath": "palettes/zenefits.palette.png"
 }

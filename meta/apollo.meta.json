@@ -39,5 +39,7 @@
 			196
 		]
 	],
+	"metaJsonPath": "meta/apollo.meta.json",
+	"logoPngPath": "logos/apollo.logo.png",
 	"palettePngPath": "palettes/apollo.palette.png"
 }

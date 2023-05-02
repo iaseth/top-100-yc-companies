@@ -39,5 +39,7 @@
 			76
 		]
 	],
+	"metaJsonPath": "meta/genius.meta.json",
+	"logoPngPath": "logos/genius.logo.png",
 	"palettePngPath": "palettes/genius.palette.png"
 }

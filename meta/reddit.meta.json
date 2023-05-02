@@ -39,5 +39,7 @@
 			56
 		]
 	],
+	"metaJsonPath": "meta/reddit.meta.json",
+	"logoPngPath": "logos/reddit.logo.png",
 	"palettePngPath": "palettes/reddit.palette.png"
 }

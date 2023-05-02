@@ -39,5 +39,7 @@
 			28
 		]
 	],
+	"metaJsonPath": "meta/replit.meta.json",
+	"logoPngPath": "logos/replit.logo.png",
 	"palettePngPath": "palettes/replit.palette.png"
 }

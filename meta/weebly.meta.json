@@ -39,5 +39,7 @@
 			236
 		]
 	],
+	"metaJsonPath": "meta/weebly.meta.json",
+	"logoPngPath": "logos/weebly.logo.png",
 	"palettePngPath": "palettes/weebly.palette.png"
 }

@@ -39,5 +39,7 @@
 			68
 		]
 	],
+	"metaJsonPath": "meta/gusto.meta.json",
+	"logoPngPath": "logos/gusto.logo.png",
 	"palettePngPath": "palettes/gusto.palette.png"
 }

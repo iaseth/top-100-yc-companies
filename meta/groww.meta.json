@@ -39,5 +39,7 @@
 			148
 		]
 	],
+	"metaJsonPath": "meta/groww.meta.json",
+	"logoPngPath": "logos/groww.logo.png",
 	"palettePngPath": "palettes/groww.palette.png"
 }

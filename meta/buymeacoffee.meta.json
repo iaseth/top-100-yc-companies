@@ -39,5 +39,7 @@
 			20
 		]
 	],
+	"metaJsonPath": "meta/buymeacoffee.meta.json",
+	"logoPngPath": "logos/buymeacoffee.logo.png",
 	"palettePngPath": "palettes/buymeacoffee.palette.png"
 }

@@ -39,5 +39,7 @@
 			156
 		]
 	],
+	"metaJsonPath": "meta/bitnami.meta.json",
+	"logoPngPath": "logos/bitnami.logo.png",
 	"palettePngPath": "palettes/bitnami.palette.png"
 }

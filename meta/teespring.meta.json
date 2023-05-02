@@ -39,5 +39,7 @@
 			116
 		]
 	],
+	"metaJsonPath": "meta/teespring.meta.json",
+	"logoPngPath": "logos/teespring.logo.png",
 	"palettePngPath": "palettes/teespring.palette.png"
 }

@@ -39,5 +39,7 @@
 			225
 		]
 	],
+	"metaJsonPath": "meta/fontawesome.meta.json",
+	"logoPngPath": "logos/fontawesome.logo.png",
 	"palettePngPath": "palettes/fontawesome.palette.png"
 }

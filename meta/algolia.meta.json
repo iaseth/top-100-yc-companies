@@ -39,5 +39,7 @@
 			256
 		]
 	],
+	"metaJsonPath": "meta/algolia.meta.json",
+	"logoPngPath": "logos/algolia.logo.png",
 	"palettePngPath": "palettes/algolia.palette.png"
 }

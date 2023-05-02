@@ -39,5 +39,7 @@
 			24
 		]
 	],
+	"metaJsonPath": "meta/substack.meta.json",
+	"logoPngPath": "logos/substack.logo.png",
 	"palettePngPath": "palettes/substack.palette.png"
 }

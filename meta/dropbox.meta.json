@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/dropbox.meta.json",
+	"logoPngPath": "logos/dropbox.logo.png",
 	"palettePngPath": "palettes/dropbox.palette.png"
 }

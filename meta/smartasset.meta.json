@@ -39,5 +39,7 @@
 			100
 		]
 	],
+	"metaJsonPath": "meta/smartasset.meta.json",
+	"logoPngPath": "logos/smartasset.logo.png",
 	"palettePngPath": "palettes/smartasset.palette.png"
 }

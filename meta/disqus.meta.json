@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/disqus.meta.json",
+	"logoPngPath": "logos/disqus.logo.png",
 	"palettePngPath": "palettes/disqus.palette.png"
 }

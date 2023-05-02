@@ -39,5 +39,7 @@
 			164
 		]
 	],
+	"metaJsonPath": "meta/cleartax.meta.json",
+	"logoPngPath": "logos/cleartax.logo.png",
 	"palettePngPath": "palettes/cleartax.palette.png"
 }

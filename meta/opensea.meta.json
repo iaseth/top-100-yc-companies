@@ -39,5 +39,7 @@
 			84
 		]
 	],
+	"metaJsonPath": "meta/opensea.meta.json",
+	"logoPngPath": "logos/opensea.logo.png",
 	"palettePngPath": "palettes/opensea.palette.png"
 }

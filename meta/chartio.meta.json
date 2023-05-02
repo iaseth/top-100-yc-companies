@@ -39,5 +39,7 @@
 			194
 		]
 	],
+	"metaJsonPath": "meta/chartio.meta.json",
+	"logoPngPath": "logos/chartio.logo.png",
 	"palettePngPath": "palettes/chartio.palette.png"
 }

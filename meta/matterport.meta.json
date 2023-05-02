@@ -39,5 +39,7 @@
 			132
 		]
 	],
+	"metaJsonPath": "meta/matterport.meta.json",
+	"logoPngPath": "logos/matterport.logo.png",
 	"palettePngPath": "palettes/matterport.palette.png"
 }

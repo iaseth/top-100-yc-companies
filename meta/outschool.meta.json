@@ -39,5 +39,7 @@
 			220
 		]
 	],
+	"metaJsonPath": "meta/outschool.meta.json",
+	"logoPngPath": "logos/outschool.logo.png",
 	"palettePngPath": "palettes/outschool.palette.png"
 }

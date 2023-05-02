@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/webflow.meta.json",
+	"logoPngPath": "logos/webflow.logo.png",
 	"palettePngPath": "palettes/webflow.palette.png"
 }

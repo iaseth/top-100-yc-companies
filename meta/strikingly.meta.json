@@ -39,5 +39,7 @@
 			170
 		]
 	],
+	"metaJsonPath": "meta/strikingly.meta.json",
+	"logoPngPath": "logos/strikingly.logo.png",
 	"palettePngPath": "palettes/strikingly.palette.png"
 }

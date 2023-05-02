@@ -39,5 +39,7 @@
 			212
 		]
 	],
+	"metaJsonPath": "meta/prolific.meta.json",
+	"logoPngPath": "logos/prolific.logo.png",
 	"palettePngPath": "palettes/prolific.palette.png"
 }

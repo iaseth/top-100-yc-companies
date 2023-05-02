@@ -39,5 +39,7 @@
 			12
 		]
 	],
+	"metaJsonPath": "meta/zapier.meta.json",
+	"logoPngPath": "logos/zapier.logo.png",
 	"palettePngPath": "palettes/zapier.palette.png"
 }

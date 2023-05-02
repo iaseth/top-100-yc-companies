@@ -39,5 +39,7 @@
 			156
 		]
 	],
+	"metaJsonPath": "meta/ourworldindata.meta.json",
+	"logoPngPath": "logos/ourworldindata.logo.png",
 	"palettePngPath": "palettes/ourworldindata.palette.png"
 }

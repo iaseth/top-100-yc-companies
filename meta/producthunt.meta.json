@@ -39,5 +39,7 @@
 			36
 		]
 	],
+	"metaJsonPath": "meta/producthunt.meta.json",
+	"logoPngPath": "logos/producthunt.logo.png",
 	"palettePngPath": "palettes/producthunt.palette.png"
 }

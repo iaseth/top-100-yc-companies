@@ -39,5 +39,7 @@
 			236
 		]
 	],
+	"metaJsonPath": "meta/partnerstack.meta.json",
+	"logoPngPath": "logos/partnerstack.logo.png",
 	"palettePngPath": "palettes/partnerstack.palette.png"
 }

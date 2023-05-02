@@ -39,5 +39,7 @@
 			246
 		]
 	],
+	"metaJsonPath": "meta/chatfuel.meta.json",
+	"logoPngPath": "logos/chatfuel.logo.png",
 	"palettePngPath": "palettes/chatfuel.palette.png"
 }

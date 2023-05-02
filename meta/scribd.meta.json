@@ -39,5 +39,7 @@
 			164
 		]
 	],
+	"metaJsonPath": "meta/scribd.meta.json",
+	"logoPngPath": "logos/scribd.logo.png",
 	"palettePngPath": "palettes/scribd.palette.png"
 }

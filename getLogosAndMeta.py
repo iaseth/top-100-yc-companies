@@ -52,6 +52,8 @@ def downloadMeta(soup, logoPath, company):
 	a = soup.find("a", class_="btn btn-primary btn-block mt-4")
 	jo["website"] = a["href"]
 	jo["palette"] = palette
+	jo["metaJsonPath"] = metaJsonPath
+	jo["logoPngPath"] = logoPath
 	jo["palettePngPath"] = palette_png_path
 
 	with open(metaJsonPath, "w") as f:

@@ -39,5 +39,7 @@
 			236
 		]
 	],
+	"metaJsonPath": "meta/coub.meta.json",
+	"logoPngPath": "logos/coub.logo.png",
 	"palettePngPath": "palettes/coub.palette.png"
 }

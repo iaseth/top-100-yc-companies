@@ -39,5 +39,7 @@
 			36
 		]
 	],
+	"metaJsonPath": "meta/brex.meta.json",
+	"logoPngPath": "logos/brex.logo.png",
 	"palettePngPath": "palettes/brex.palette.png"
 }

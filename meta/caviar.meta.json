@@ -39,5 +39,7 @@
 			88
 		]
 	],
+	"metaJsonPath": "meta/caviar.meta.json",
+	"logoPngPath": "logos/caviar.logo.png",
 	"palettePngPath": "palettes/caviar.palette.png"
 }

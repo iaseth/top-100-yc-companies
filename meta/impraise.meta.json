@@ -39,5 +39,7 @@
 			60
 		]
 	],
+	"metaJsonPath": "meta/impraise.meta.json",
+	"logoPngPath": "logos/impraise.logo.png",
 	"palettePngPath": "palettes/impraise.palette.png"
 }

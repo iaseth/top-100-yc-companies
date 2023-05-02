@@ -39,5 +39,7 @@
 			129
 		]
 	],
+	"metaJsonPath": "meta/zeplin.meta.json",
+	"logoPngPath": "logos/zeplin.logo.png",
 	"palettePngPath": "palettes/zeplin.palette.png"
 }

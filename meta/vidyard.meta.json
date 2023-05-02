@@ -39,5 +39,7 @@
 			196
 		]
 	],
+	"metaJsonPath": "meta/vidyard.meta.json",
+	"logoPngPath": "logos/vidyard.logo.png",
 	"palettePngPath": "palettes/vidyard.palette.png"
 }

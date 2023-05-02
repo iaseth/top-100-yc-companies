@@ -39,5 +39,7 @@
 			140
 		]
 	],
+	"metaJsonPath": "meta/front.meta.json",
+	"logoPngPath": "logos/front.logo.png",
 	"palettePngPath": "palettes/front.palette.png"
 }

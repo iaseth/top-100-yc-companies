@@ -39,5 +39,7 @@
 			92
 		]
 	],
+	"metaJsonPath": "meta/paystack.meta.json",
+	"logoPngPath": "logos/paystack.logo.png",
 	"palettePngPath": "palettes/paystack.palette.png"
 }

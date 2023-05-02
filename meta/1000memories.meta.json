@@ -39,5 +39,7 @@
 			64
 		]
 	],
+	"metaJsonPath": "meta/1000memories.meta.json",
+	"logoPngPath": "logos/1000memories.logo.png",
 	"palettePngPath": "palettes/1000memories.palette.png"
 }

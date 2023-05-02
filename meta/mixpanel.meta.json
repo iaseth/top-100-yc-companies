@@ -39,5 +39,7 @@
 			236
 		]
 	],
+	"metaJsonPath": "meta/mixpanel.meta.json",
+	"logoPngPath": "logos/mixpanel.logo.png",
 	"palettePngPath": "palettes/mixpanel.palette.png"
 }

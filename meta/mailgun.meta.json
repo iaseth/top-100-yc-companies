@@ -39,5 +39,7 @@
 			132
 		]
 	],
+	"metaJsonPath": "meta/mailgun.meta.json",
+	"logoPngPath": "logos/mailgun.logo.png",
 	"palettePngPath": "palettes/mailgun.palette.png"
 }

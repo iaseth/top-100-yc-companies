@@ -39,5 +39,7 @@
 			152
 		]
 	],
+	"metaJsonPath": "meta/pushbullet.meta.json",
+	"logoPngPath": "logos/pushbullet.logo.png",
 	"palettePngPath": "palettes/pushbullet.palette.png"
 }

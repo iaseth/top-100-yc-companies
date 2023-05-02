@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/coinbase.meta.json",
+	"logoPngPath": "logos/coinbase.logo.png",
 	"palettePngPath": "palettes/coinbase.palette.png"
 }

@@ -39,5 +39,7 @@
 			80
 		]
 	],
+	"metaJsonPath": "meta/expo.meta.json",
+	"logoPngPath": "logos/expo.logo.png",
 	"palettePngPath": "palettes/expo.palette.png"
 }

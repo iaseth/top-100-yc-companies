@@ -39,5 +39,7 @@
 			76
 		]
 	],
+	"metaJsonPath": "meta/hackerrank.meta.json",
+	"logoPngPath": "logos/hackerrank.logo.png",
 	"palettePngPath": "palettes/hackerrank.palette.png"
 }

@@ -39,5 +39,7 @@
 			44
 		]
 	],
+	"metaJsonPath": "meta/cashfree.meta.json",
+	"logoPngPath": "logos/cashfree.logo.png",
 	"palettePngPath": "palettes/cashfree.palette.png"
 }

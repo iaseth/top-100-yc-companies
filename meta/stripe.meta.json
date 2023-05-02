@@ -39,5 +39,7 @@
 			244
 		]
 	],
+	"metaJsonPath": "meta/stripe.meta.json",
+	"logoPngPath": "logos/stripe.logo.png",
 	"palettePngPath": "palettes/stripe.palette.png"
 }

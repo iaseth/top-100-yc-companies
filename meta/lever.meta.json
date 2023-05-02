@@ -39,5 +39,7 @@
 			204
 		]
 	],
+	"metaJsonPath": "meta/lever.meta.json",
+	"logoPngPath": "logos/lever.logo.png",
 	"palettePngPath": "palettes/lever.palette.png"
 }

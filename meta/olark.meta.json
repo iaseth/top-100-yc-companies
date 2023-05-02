@@ -39,5 +39,7 @@
 			119
 		]
 	],
+	"metaJsonPath": "meta/olark.meta.json",
+	"logoPngPath": "logos/olark.logo.png",
 	"palettePngPath": "palettes/olark.palette.png"
 }

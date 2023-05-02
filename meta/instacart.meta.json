@@ -39,5 +39,7 @@
 			116
 		]
 	],
+	"metaJsonPath": "meta/instacart.meta.json",
+	"logoPngPath": "logos/instacart.logo.png",
 	"palettePngPath": "palettes/instacart.palette.png"
 }

@@ -39,5 +39,7 @@
 			108
 		]
 	],
+	"metaJsonPath": "meta/9gag.meta.json",
+	"logoPngPath": "logos/9gag.logo.png",
 	"palettePngPath": "palettes/9gag.palette.png"
 }

@@ -39,5 +39,7 @@
 			188
 		]
 	],
+	"metaJsonPath": "meta/streak.meta.json",
+	"logoPngPath": "logos/streak.logo.png",
 	"palettePngPath": "palettes/streak.palette.png"
 }

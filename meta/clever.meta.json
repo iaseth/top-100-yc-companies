@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/clever.meta.json",
+	"logoPngPath": "logos/clever.logo.png",
 	"palettePngPath": "palettes/clever.palette.png"
 }

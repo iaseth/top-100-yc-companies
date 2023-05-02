@@ -39,5 +39,7 @@
 			252
 		]
 	],
+	"metaJsonPath": "meta/shipbob.meta.json",
+	"logoPngPath": "logos/shipbob.logo.png",
 	"palettePngPath": "palettes/shipbob.palette.png"
 }

@@ -39,5 +39,7 @@
 			124
 		]
 	],
+	"metaJsonPath": "meta/twitch.meta.json",
+	"logoPngPath": "logos/twitch.logo.png",
 	"palettePngPath": "palettes/twitch.palette.png"
 }

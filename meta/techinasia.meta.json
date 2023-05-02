@@ -39,5 +39,7 @@
 			92
 		]
 	],
+	"metaJsonPath": "meta/techinasia.meta.json",
+	"logoPngPath": "logos/techinasia.logo.png",
 	"palettePngPath": "palettes/techinasia.palette.png"
 }

@@ -39,5 +39,7 @@
 			140
 		]
 	],
+	"metaJsonPath": "meta/themuse.meta.json",
+	"logoPngPath": "logos/themuse.logo.png",
 	"palettePngPath": "palettes/themuse.palette.png"
 }

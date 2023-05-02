@@ -39,5 +39,7 @@
 			148
 		]
 	],
+	"metaJsonPath": "meta/segment.meta.json",
+	"logoPngPath": "logos/segment.logo.png",
 	"palettePngPath": "palettes/segment.palette.png"
 }

@@ -39,5 +39,7 @@
 			116
 		]
 	],
+	"metaJsonPath": "meta/padlet.meta.json",
+	"logoPngPath": "logos/padlet.logo.png",
 	"palettePngPath": "palettes/padlet.palette.png"
 }

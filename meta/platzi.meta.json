@@ -39,5 +39,7 @@
 			92
 		]
 	],
+	"metaJsonPath": "meta/platzi.meta.json",
+	"logoPngPath": "logos/platzi.logo.png",
 	"palettePngPath": "palettes/platzi.palette.png"
 }

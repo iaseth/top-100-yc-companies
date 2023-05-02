@@ -39,5 +39,7 @@
 			236
 		]
 	],
+	"metaJsonPath": "meta/razorpay.meta.json",
+	"logoPngPath": "logos/razorpay.logo.png",
 	"palettePngPath": "palettes/razorpay.palette.png"
 }

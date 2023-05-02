@@ -39,5 +39,7 @@
 			204
 		]
 	],
+	"metaJsonPath": "meta/cratejoy.meta.json",
+	"logoPngPath": "logos/cratejoy.logo.png",
 	"palettePngPath": "palettes/cratejoy.palette.png"
 }

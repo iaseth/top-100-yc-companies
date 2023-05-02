@@ -39,5 +39,7 @@
 			144
 		]
 	],
+	"metaJsonPath": "meta/heroku.meta.json",
+	"logoPngPath": "logos/heroku.logo.png",
 	"palettePngPath": "palettes/heroku.palette.png"
 }

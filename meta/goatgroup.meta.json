@@ -39,5 +39,7 @@
 			92
 		]
 	],
+	"metaJsonPath": "meta/goatgroup.meta.json",
+	"logoPngPath": "logos/goatgroup.logo.png",
 	"palettePngPath": "palettes/goatgroup.palette.png"
 }

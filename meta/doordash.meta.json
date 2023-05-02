@@ -39,5 +39,7 @@
 			116
 		]
 	],
+	"metaJsonPath": "meta/doordash.meta.json",
+	"logoPngPath": "logos/doordash.logo.png",
 	"palettePngPath": "palettes/doordash.palette.png"
 }

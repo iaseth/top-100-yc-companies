@@ -39,5 +39,7 @@
 			52
 		]
 	],
+	"metaJsonPath": "meta/podium.meta.json",
+	"logoPngPath": "logos/podium.logo.png",
 	"palettePngPath": "palettes/podium.palette.png"
 }

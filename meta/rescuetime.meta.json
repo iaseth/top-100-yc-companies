@@ -39,5 +39,7 @@
 			144
 		]
 	],
+	"metaJsonPath": "meta/rescuetime.meta.json",
+	"logoPngPath": "logos/rescuetime.logo.png",
 	"palettePngPath": "palettes/rescuetime.palette.png"
 }

@@ -39,5 +39,7 @@
 			132
 		]
 	],
+	"metaJsonPath": "meta/airbnb.meta.json",
+	"logoPngPath": "logos/airbnb.logo.png",
 	"palettePngPath": "palettes/airbnb.palette.png"
 }

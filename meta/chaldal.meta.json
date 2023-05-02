@@ -39,5 +39,7 @@
 			134
 		]
 	],
+	"metaJsonPath": "meta/chaldal.meta.json",
+	"logoPngPath": "logos/chaldal.logo.png",
 	"palettePngPath": "palettes/chaldal.palette.png"
 }
