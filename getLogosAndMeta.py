@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 COMPANIES_JSON_PATH = "src/companies.json"
 
 def downloadLogo(soup, company):
-	logoPath = f"logos/{company['codeName']}.logo.png"
+	logoPath = f"logos/{company['logoPngName']}"
 	if os.path.isfile(logoPath):
 		print(f"\tFound: {logoPath}")
 		return
@@ -29,7 +29,7 @@ def downloadLogo(soup, company):
 
 
 def downloadMeta(soup, company):
-	metaPath = f"meta/{company['codeName']}.meta.json"
+	metaPath = f"meta/{company['metaJsonName']}"
 	if os.path.isfile(metaPath):
 		print(f"\tFound: {metaPath}")
 		# return

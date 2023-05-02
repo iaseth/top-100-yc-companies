@@ -24,6 +24,7 @@ def getCompany(tr):
 	company["codeName"] = "".join(good_chars)
 	company["jsonName"] = company["codeName"] + ".json"
 	company["pngName"] = company["codeName"] + ".png"
+	company["logoPngName"] = company["codeName"] + ".logo.png"
 	company["metaJsonName"] = company["codeName"] + ".meta.json"
 
 	company["batch"] = data[2]
