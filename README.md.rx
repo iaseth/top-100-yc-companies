@@ -18,7 +18,7 @@ This repository contains data on the `color` and `fonts` used on the websites of
 
 
 ## License
-{{ "LICENSE.md" | File }}
+{{ "LICENSE" | File }}
 
 
 
