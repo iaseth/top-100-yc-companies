@@ -23,6 +23,6 @@
   "devDependencies": {
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12",
-    "coloria": "^0.3.0"
+    "coloria": "^0.5.0"
   }
 }

@@ -132,7 +132,7 @@ This package has no dependencies.
 | --- | ----------- | -------------- |
 | 1   | `axios`     | `^1.4.0`       |
 | 2   | `cheerio`   | `^1.0.0-rc.12` |
-| 3   | `coloria`   | `^0.3.0`       |
+| 3   | `coloria`   | `^0.5.0`       |
 
 
 
