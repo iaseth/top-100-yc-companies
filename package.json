@@ -1,6 +1,6 @@
 {
   "name": "top-100-yc-companies",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Colors and fonts from Top 100 YCombinator companies.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,13 +8,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["colors", "fonts", "logo", "top-100", "YCombinator", "companies"],
+  "keywords": [
+    "colors",
+    "fonts",
+    "logo",
+    "top-100",
+    "YCombinator",
+    "companies"
+  ],
   "author": "iaseth",
   "homepage": "https://github.com/iaseth/top-100-yc-companies",
   "repository": "iaseth/top-100-yc-companies",
   "license": "MIT",
   "devDependencies": {
     "axios": "^1.4.0",
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "coloria": "^0.3.0"
   }
 }

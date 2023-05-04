@@ -5,7 +5,7 @@ build: ts
 
 readme:
 	@echo "Recompiling README ..."
-	@readmix --compile --markdown README.rx
+	@readmix --compile --markdown README.md.rx
 	@echo "    Done."
 
 license:

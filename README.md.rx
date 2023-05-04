@@ -3,6 +3,10 @@
 This repository contains data on the `color` and `fonts` used on the websites of Top 100 YC companies.
 
 
+## Package details
+{{ npm.packageDetails() }}
+
+
 
 ## List of companies
 
@@ -11,15 +15,16 @@ This repository contains data on the `color` and `fonts` used on the websites of
 | {{ c.rank }} | **{{ c.name }}** <br /> ![{{ c.name }}](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/{{ c.codeName }}.palette.png?raw=true) | {% for h in c.hexPalette %}`{{ h }}` <br /> {% endfor %} | **{{ c.batch }}** <br /> {{ c.category }} <br /> **Alexa Rank {{ c.alexaRank }}** <br /> {{ c.description }} <br /> [{{ c.website }}]({{ c.website }}) |{% endfor %}
 
 
+## Dependencies
+{{ npm.dependencyTable() }}
+
 
 ## Dev dependencies
-{{ devDependencyTable() }}
-
+{{ npm.devDependencyTable() }}
 
 
 ## License
 {{ "LICENSE" | File }}
-
 
 
 {{ giveCredit() }}

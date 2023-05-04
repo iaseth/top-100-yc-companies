@@ -3,6 +3,19 @@
 This repository contains data on the `color` and `fonts` used on the websites of Top 100 YC companies.
 
 
+## Package details
+| `Name`        | `Value`                                                |
+| ------------- | ------------------------------------------------------ |
+| `Name`        | `top-100-yc-companies`                                 |
+| `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
+| `Version`     | `0.7.3`                                                |
+| `Author`      | `iaseth`                                               |
+| `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
+| `Repository`  | `iaseth/top-100-yc-companies`                          |
+| `License`     | `MIT`                                                  |
+
+
+
 
 ## List of companies
 
@@ -110,13 +123,16 @@ This repository contains data on the `color` and `fonts` used on the websites of
 | 100 | **Apollo** <br /> ![Apollo](https://github.com/iaseth/top-100-yc-companies/blob/master/palettes/apollo.palette.png?raw=true) | `#341c84` <br /> `#d4cfe5` <br /> `#7e72b3` <br /> `#9c8cc4` <br /> `#9484c4` <br />  | **S11** <br /> Other SaaS <br /> **Alexa Rank 24760** <br /> We make Apollo, the leading GraphQL implementation. (We are also the team that built Meteor, the Jav... <br /> [http://www.apollographql.com](http://www.apollographql.com) |
 
 
+## Dependencies
+This package has no dependencies.
+
 
 ## Dev dependencies
-| `Package`   | `Version`      |
-| ----------- | -------------- |
-| `axios`     | `^1.4.0`       |
-| `cheerio`   | `^1.0.0-rc.12` |
-
+|     | `Package`   | `Version`      |
+| --- | ----------- | -------------- |
+| 1   | `axios`     | `^1.4.0`       |
+| 2   | `cheerio`   | `^1.0.0-rc.12` |
+| 3   | `coloria`   | `^0.3.0`       |
 
 
 
@@ -142,7 +158,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
 
 ## Credit
