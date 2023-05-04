@@ -8,7 +8,7 @@ const { palettes } = palettesJson;
 const tailwindcolors = {};
 palettes.forEach(company => {
 	company.hexPalette.forEach((hex, idx) => {
-		const colorName = idx ? `${company.codeName}-${idx}` : company.codeName;
+		const colorName = idx ? `${company.codeName}${idx}` : company.codeName;
 		const color = coloria.fromHex(hex, colorName);
 		if (color) {
 			tailwindcolors[colorName] = color.getTailwindPalette();
