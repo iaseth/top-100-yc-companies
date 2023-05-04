@@ -8,6 +8,6 @@ palettes/
 *.py
 Makefile
 
-companies.json
-generateTailwindColors.js
-getHtmls.js
+/companies.json
+/generateTailwindColors.js
+/getHtmls.js
