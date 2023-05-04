@@ -1,6 +1,6 @@
 {
   "name": "top-100-yc-companies",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Colors and fonts from Top 100 YCombinator companies.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,6 +23,6 @@
   "devDependencies": {
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12",
-    "coloria": "^1.0.0"
+    "coloria": "^1.0.4"
   }
 }
