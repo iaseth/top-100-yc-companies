@@ -8,7 +8,7 @@ This repository contains data on the `color` and `fonts` used on the websites of
 | ------------- | ------------------------------------------------------ |
 | `Name`        | `top-100-yc-companies`                                 |
 | `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
-| `Version`     | `0.8.2`                                                |
+| `Version`     | `0.8.3`                                                |
 | `Author`      | `iaseth`                                               |
 | `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
 | `Repository`  | `iaseth/top-100-yc-companies`                          |

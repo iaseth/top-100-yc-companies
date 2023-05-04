@@ -1,3 +1,3 @@
 
 export { companies } from "./company";
-export { tailwindcolors } from "./tailwindcolors";
+export { tailwindcolors as yc100colors } from "./tailwindcolors";
