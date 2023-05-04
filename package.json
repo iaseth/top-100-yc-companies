@@ -1,10 +1,9 @@
 {
   "name": "top-100-yc-companies",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "description": "Colors and fonts from Top 100 YCombinator companies.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
