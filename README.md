@@ -8,7 +8,7 @@ This repository contains data on the `color` and `fonts` used on the websites of
 | ------------- | ------------------------------------------------------ |
 | `Name`        | `top-100-yc-companies`                                 |
 | `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
-| `Version`     | `0.7.7`                                                |
+| `Version`     | `0.7.8`                                                |
 | `Author`      | `iaseth`                                               |
 | `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
 | `Repository`  | `iaseth/top-100-yc-companies`                          |
@@ -124,10 +124,7 @@ This repository contains data on the `color` and `fonts` used on the websites of
 
 
 ## Dependencies
-|     | `Package`   | `Version`   |
-| --- | ----------- | ----------- |
-| 1   | `coloria`   | `^1.0.4`    |
-
+This package has no dependencies.
 
 
 ## Dev dependencies
@@ -135,6 +132,7 @@ This repository contains data on the `color` and `fonts` used on the websites of
 | --- | ----------- | -------------- |
 | 1   | `axios`     | `^1.4.0`       |
 | 2   | `cheerio`   | `^1.0.0-rc.12` |
+| 3   | `coloria`   | `^1.0.4`       |
 
 
 

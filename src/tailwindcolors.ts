@@ -1,18 +1,22 @@
-import coloria from "coloria";
-import { companies } from "./company";
+import tailwindcolorsJson from './tailwindcolors.json';
 
-interface ObjectType {
-	[key: string]: coloria.TailwindColor
+
+export interface TailwindColor {
+	"50": string,
+	"100": string,
+	"200": string,
+	"300": string,
+	"400": string,
+	"500": string,
+	"600": string,
+	"700": string,
+	"800": string,
+	"900": string,
+	"950": string,
 }
 
-export const tailwindcolors: ObjectType = {};
+interface ObjectType {
+	[key: string]: TailwindColor
+}
 
-companies.forEach(company => {
-	company.hexPalette.forEach((hex, idx) => {
-		const colorName = idx ? `${company.codeName}-${idx}` : company.codeName;
-		const color = coloria.fromHex(hex, colorName);
-		if (color) {
-			tailwindcolors[colorName] = color.getTailwindPalette();
-		}
-	});
-});
+export const tailwindcolors: ObjectType = tailwindcolorsJson;
