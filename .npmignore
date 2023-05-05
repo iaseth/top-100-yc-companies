@@ -1,9 +1,10 @@
 
 cache/
 src/
-logos/
+/logos/
 meta/
-palettes/
+/palettes/
+/png/
 
 *.py
 Makefile
