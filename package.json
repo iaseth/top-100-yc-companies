@@ -21,7 +21,6 @@
   "license": "MIT",
   "devDependencies": {
     "axios": "^1.4.0",
-    "cheerio": "^1.0.0-rc.12",
     "coloria": "^1.0.7"
   }
 }
