@@ -1,6 +1,9 @@
 
 # Top 100 YC Companies
-This repository contains data on the `color` and `fonts` used on the websites of Top 100 YC companies.
+This repository contains the `colors` and `fonts` used on the websites of Top 100 YC companies.
+The list of companies was compiled from [here](https://www.ycdb.co/top-companies/alexa-rank).
+
+The `colors` are selected from the company's logo. I am yet to collect `font` data.
 
 
 ## How to use it with Tailwind
@@ -28,6 +31,8 @@ export default {
     plugins: [],
 }
 ```
+
+`top100YCC` contains 5 colors for each company, named as `company`, `company1`, `company2`, `company3` and `company4`.
 
 
 ## Package details
