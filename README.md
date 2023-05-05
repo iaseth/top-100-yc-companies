@@ -40,7 +40,7 @@ The `yc100colors` object contains 500 colors in total, 5 colors for each company
 | ------------- | ------------------------------------------------------ |
 | `Name`        | `top-100-yc-companies`                                 |
 | `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
-| `Version`     | `0.8.6`                                                |
+| `Version`     | `0.9.0`                                                |
 | `Author`      | `iaseth`                                               |
 | `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
 | `Repository`  | `iaseth/top-100-yc-companies`                          |
@@ -164,7 +164,7 @@ This package has no dependencies.
 | --- | ----------- | -------------- |
 | 1   | `axios`     | `^1.4.0`       |
 | 2   | `cheerio`   | `^1.0.0-rc.12` |
-| 3   | `coloria`   | `^1.0.4`       |
+| 3   | `coloria`   | `^1.0.5`       |
 
 
 
