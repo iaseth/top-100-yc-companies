@@ -5,6 +5,8 @@ The list of companies was compiled from [here](https://www.ycdb.co/top-companies
 
 The `colors` are selected from the company's logo. I am yet to collect `font` data.
 
+I am using [color-thief-py](https://github.com/fengsp/color-thief-py) for selecting colors from the logo, and [coloria](https://github.com/iaseth/coloria) for generating `shades` and `tints` of each color.
+
 
 ## How to use it with Tailwind
 Install the {{ "top-100-yc-companies" | NpmLink }} npm package:
