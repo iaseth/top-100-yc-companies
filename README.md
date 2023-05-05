@@ -32,7 +32,7 @@ export default {
 }
 ```
 
-`top100YCC` contains 5 colors for each company, named as `company`, `company1`, `company2`, `company3` and `company4`.
+The `yc100colors` object contains 500 colors in total, 5 colors for each company, named as `company`, `company1`, `company2`, `company3` and `company4`.
 
 
 ## Package details
@@ -40,7 +40,7 @@ export default {
 | ------------- | ------------------------------------------------------ |
 | `Name`        | `top-100-yc-companies`                                 |
 | `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
-| `Version`     | `0.8.5`                                                |
+| `Version`     | `0.8.6`                                                |
 | `Author`      | `iaseth`                                               |
 | `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
 | `Repository`  | `iaseth/top-100-yc-companies`                          |

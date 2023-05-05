@@ -30,7 +30,7 @@ export default {
 }
 ```
 
-`top100YCC` contains 5 colors for each company, named as `company`, `company1`, `company2`, `company3` and `company4`.
+The `yc100colors` object contains 500 colors in total, 5 colors for each company, named as `company`, `company1`, `company2`, `company3` and `company4`.
 
 
 ## Package details
