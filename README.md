@@ -3,12 +3,39 @@
 This repository contains data on the `color` and `fonts` used on the websites of Top 100 YC companies.
 
 
+## How to use it with Tailwind
+Install the [`top-100-yc-companies`](https://www.npmjs.com/package/top-100-yc-companies) npm package:
+```
+npm install --save-dev top-100-yc-companies
+```
+
+Import and add the colors to your `tailwind.config.js`
+```javascript
+const top100YCC = require("top-100-yc-companies");
+const { yc100colors } = top100YCC;
+const { reddit, dropbox1 } = yc100colors; // destructure all the yc100colors you want to use
+
+export default {
+    content: [],
+    theme: {
+        extend: {
+            colors: {
+                reddit,  // a yc100 color
+                dropbox1, // a yc100 color
+            },
+        },
+    },
+    plugins: [],
+}
+```
+
+
 ## Package details
 | `Name`        | `Value`                                                |
 | ------------- | ------------------------------------------------------ |
 | `Name`        | `top-100-yc-companies`                                 |
 | `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
-| `Version`     | `0.8.4`                                                |
+| `Version`     | `0.8.5`                                                |
 | `Author`      | `iaseth`                                               |
 | `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
 | `Repository`  | `iaseth/top-100-yc-companies`                          |
