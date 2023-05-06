@@ -42,7 +42,7 @@ The `yc100colors` object contains 500 colors in total, 5 colors for each company
 | ------------- | ------------------------------------------------------ |
 | `Name`        | `top-100-yc-companies`                                 |
 | `Description` | `Colors and fonts from Top 100 YCombinator companies.` |
-| `Version`     | `0.9.0`                                                |
+| `Version`     | `0.9.1`                                                |
 | `Author`      | `iaseth`                                               |
 | `Homepage`    | `https://github.com/iaseth/top-100-yc-companies`       |
 | `Repository`  | `iaseth/top-100-yc-companies`                          |
