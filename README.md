@@ -5,7 +5,11 @@ The list of companies was compiled from [here](https://www.ycdb.co/top-companies
 
 The `colors` are selected from the company's logo. I am yet to collect `font` data.
 
-I am using [color-thief-py](https://github.com/fengsp/color-thief-py) for selecting colors from the logo, and [coloria](https://github.com/iaseth/coloria) for generating `shades` and `tints` of each color.
+I am using [color-thief-py](https://github.com/fengsp/color-thief-py) for extracting colors from the logo,
+and [coloria](https://github.com/iaseth/coloria) for generating `shades` and `tints` of each color.
+
+I am using [`readmix`](https://github.com/iaseth/readmix) for generating this README.
+You can view the source file [here](https://github.com/iaseth/top-100-yc-companies/blob/master/README.md.rx).
 
 
 ## How to use it with Tailwind
